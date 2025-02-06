@@ -2,1369 +2,1369 @@
     "Das THW im Gefüge des Zivil- und Katastrophenschutzes": [
       {
         "question": "1.1 Welches Gesetz regelt die Mitwirkung der Bundesanstalt THW im erweiterten Katastrophenschutz?",
-        "answers": "A) Grundgesetz\\nB) Zivilschutz- und Katastrophenhilfegesetz (ZSKG)\\nC) THW-Gesetz",
-        "solution": "A) Grundgesetz ❌\\nB) Zivilschutz- und Katastrophenhilfegesetz (ZSKG) ✅\\nC) THW-Gesetz ✅"
+        "answers": "A) Grundgesetz \n B) Zivilschutz- und Katastrophenhilfegesetz (ZSKG) \n C) THW-Gesetz",
+        "solution": "A) Grundgesetz ❌ \n B) Zivilschutz- und Katastrophenhilfegesetz (ZSKG) ✅ \n C) THW-Gesetz ✅"
       },
       {
         "question": "1.2 Wann wurde das THW gegründet?",
-        "answers": "A) 1949\\nB) 1950\\nC) 1956",
-        "solution": "A) 1949 ❌\\nB) 1950 ✅\\nC) 1956 ❌"
+        "answers": "A) 1949 \n B) 1950 \n C) 1956",
+        "solution": "A) 1949 ❌ \n B) 1950 ✅ \n C) 1956 ❌"
       },
       {
         "question": "1.3 Wer steht an der Spitze der Bundesanstalt Technisches Hilfswerk?",
-        "answers": "A) Der/die Bundesminister/in des Innern und für Heimat\\nB) Der/die Präsident/in\\nC) Der/die Landesbeauftragte",
-        "solution": "A) Der/die Bundesminister/in des Innern und für Heimat ❌\\nB) Der/die Präsident/in ✅\\nC) Der/die Landesbeauftragte ❌"
+        "answers": "A) Der/die Bundesminister/in des Innern und für Heimat \n B) Der/die Präsident/in \n C) Der/die Landesbeauftragte",
+        "solution": "A) Der/die Bundesminister/in des Innern und für Heimat ❌ \n B) Der/die Präsident/in ✅ \n C) Der/die Landesbeauftragte ❌"
       },
       {
         "question": "1.4 Welchem Bundesministerium ist die Bundesanstalt THW unterstellt?",
-        "answers": "A) Das Bundesministerium des Innern und für Heimat\\nB) Bundesministerium der Verteidigung\\nC) Bundesministerium für Bildung und Forschung",
-        "solution": "A) Das Bundesministerium des Innern und für Heimat ✅\\nB) Bundesministerium der Verteidigung ❌\\nC) Bundesministerium für Bildung und Forschung ❌"
+        "answers": "A) Das Bundesministerium des Innern und für Heimat \n B) Bundesministerium der Verteidigung \n C) Bundesministerium für Bildung und Forschung",
+        "solution": "A) Das Bundesministerium des Innern und für Heimat ✅ \n B) Bundesministerium der Verteidigung ❌ \n C) Bundesministerium für Bildung und Forschung ❌"
       },
       {
         "question": "1.5 In wie viele Landesverbände ist die Bundesanstalt THW gegliedert?",
-        "answers": "A) 11\\nB) 8\\nC) 16",
-        "solution": "A) 11 ❌\\nB) 8 ✅\\nC) 16 ❌"
+        "answers": "A) 11 \n B) 8 \n C) 16",
+        "solution": "A) 11 ❌ \n B) 8 ✅ \n C) 16 ❌"
       },
       {
         "question": "1.6 Wer leitet Ihren Landesverband?",
-        "answers": "A) Der/die Landessprecher/in\\nB) Der Landesausschuss\\nC) Der/die Landesbeauftragte",
-        "solution": "A) Der/die Landessprecher/in ❌\\nB) Der Landesausschuss ❌\\nC) Der/die Landesbeauftragte ✅"
+        "answers": "A) Der/die Landessprecher/in \n B) Der Landesausschuss \n C) Der/die Landesbeauftragte",
+        "solution": "A) Der/die Landessprecher/in ❌ \n B) Der Landesausschuss ❌ \n C) Der/die Landesbeauftragte ✅"
       },
       {
         "question": "1.7 Wer leitet den Ortsverband?",
-        "answers": "A) Der Leiter/die Leiterin der Regionalstelle\\nB) Der/die Ortsbeauftragte\\nC) Der/die Zugführer/in",
-        "solution": "A) Der Leiter/die Leiterin der Regionalstelle ❌\\nB) Der/die Ortsbeauftragte ✅\\nC) Der/die Zugführer/in ❌"
+        "answers": "A) Der Leiter/die Leiterin der Regionalstelle \n B) Der/die Ortsbeauftragte \n C) Der/die Zugführer/in",
+        "solution": "A) Der Leiter/die Leiterin der Regionalstelle ❌ \n B) Der/die Ortsbeauftragte ✅ \n C) Der/die Zugführer/in ❌"
       },
       {
         "question": "1.8 Wer von den genannten Funktionsträger/innen ist Mitglied im Ortsausschuss?",
-        "answers": "A) Der/die Ortsbeauftragte\\nB) Der/die Helfersprecher/in\\nC) Der/die Sicherheitsbeauftragte",
-        "solution": "A) Der/die Ortsbeauftragte ✅\\nB) Der/die Helfersprecher/in ✅\\nC) Der/die Sicherheitsbeauftragte ❌"
+        "answers": "A) Der/die Ortsbeauftragte \n B) Der/die Helfersprecher/in \n C) Der/die Sicherheitsbeauftragte",
+        "solution": "A) Der/die Ortsbeauftragte ✅ \n B) Der/die Helfersprecher/in ✅ \n C) Der/die Sicherheitsbeauftragte ❌"
       },
       {
         "question": "1.9 Wer vertritt die Interessen der Helferschaft gegenüber dem/der Ortsbeauftragten?",
-        "answers": "A) Der/die Beauftragte für Öffentlichkeitsarbeit\\nB) Der/die Verwaltungsbeauftragte\\nC) Der/die Helfersprecher/in",
-        "solution": "A) Der/die Beauftragte für Öffentlichkeitsarbeit ❌\\nB) Der/die Verwaltungsbeauftragte ❌\\nC) Der/die Helfersprecher/in ✅"
+        "answers": "A) Der/die Beauftragte für Öffentlichkeitsarbeit \n B) Der/die Verwaltungsbeauftragte \n C) Der/die Helfersprecher/in",
+        "solution": "A) Der/die Beauftragte für Öffentlichkeitsarbeit ❌ \n B) Der/die Verwaltungsbeauftragte ❌ \n C) Der/die Helfersprecher/in ✅"
       },
       {
         "question": "1.10 Welche Aus- und Fortbildungsstufen gibt es im THW?",
-        "answers": "A) Ortsverband, Landesverband und Leitung\\nB) Ausbildungszentrum und Standort\\nC) Grund-, Fach- und Weiterbefähigung",
-        "solution": "A) Ortsverband, Landesverband und Leitung ❌\\nB) Ausbildungszentrum und Standort ❌\\nC) Grund-, Fach- und Weiterbefähigung ✅"
+        "answers": "A) Ortsverband, Landesverband und Leitung \n B) Ausbildungszentrum und Standort \n C) Grund-, Fach- und Weiterbefähigung",
+        "solution": "A) Ortsverband, Landesverband und Leitung ❌ \n B) Ausbildungszentrum und Standort ❌ \n C) Grund-, Fach- und Weiterbefähigung ✅"
       },
       {
         "question": "1.11 Wer entscheidet über den Aufnahmeantrag zur Mitwirkung in der Bundesanstalt THW?",
-        "answers": "A) Der/die Ortsbeauftragte\\nB) Der Leiter/die Leiterin der Regionalstelle\\nC) Der/die Bürgermeister/in",
-        "solution": "A) Der/die Ortsbeauftragte ✅\\nB) Der Leiter/die Leiterin der Regionalstelle ❌\\nC) Der/die Bürgermeister/in ❌"
+        "answers": "A) Der/die Ortsbeauftragte \n B) Der Leiter/die Leiterin der Regionalstelle \n C) Der/die Bürgermeister/in",
+        "solution": "A) Der/die Ortsbeauftragte ✅ \n B) Der Leiter/die Leiterin der Regionalstelle ❌ \n C) Der/die Bürgermeister/in ❌"
       },
       {
         "question": "1.12 Welche Pflichten entstehen für Sie durch die Mitwirkung im THW als Helfer/in?",
-        "answers": "A) Regelmäßige Teilnahme an Dienstveranstaltungen\\nB) Teilnahme an Ausbildungsmaßnahmen\\nC) Teilnahme an Übungen und Einsätzen",
-        "solution": "A) Regelmäßige Teilnahme an Dienstveranstaltungen ✅\\nB) Teilnahme an Ausbildungsmaßnahmen ✅\\nC) Teilnahme an Übungen und Einsätzen ✅"
+        "answers": "A) Regelmäßige Teilnahme an Dienstveranstaltungen \n B) Teilnahme an Ausbildungsmaßnahmen \n C) Teilnahme an Übungen und Einsätzen",
+        "solution": "A) Regelmäßige Teilnahme an Dienstveranstaltungen ✅ \n B) Teilnahme an Ausbildungsmaßnahmen ✅ \n C) Teilnahme an Übungen und Einsätzen ✅"
       },
       {
         "question": "1.13 Wo sind die Pflichten und Rechte des Helfers/der Helferin festgelegt?",
-        "answers": "A) Grundgesetz\\nB) THW-Gesetz\\nC) THW-Mitwirkungsrichtlinie",
-        "solution": "A) Grundgesetz ❌\\nB) THW-Gesetz ✅\\nC) THW-Mitwirkungsrichtlinie ✅"
+        "answers": "A) Grundgesetz \n B) THW-Gesetz \n C) THW-Mitwirkungsrichtlinie",
+        "solution": "A) Grundgesetz ❌ \n B) THW-Gesetz ✅ \n C) THW-Mitwirkungsrichtlinie ✅"
       },
       {
         "question": "1.14 Mit welchen Maßnahmen müssen Sie rechnen, wenn Sie gegen Dienstpflichten im THW verstoßen?",
-        "answers": "A) Ermahnung\\nB) Keine Maßnahmen\\nC) Entlassung",
-        "solution": "A) Ermahnung ✅\\nB) Keine Maßnahmen ❌\\nC) Entlassung ✅"
+        "answers": "A) Ermahnung \n B) Keine Maßnahmen \n C) Entlassung",
+        "solution": "A) Ermahnung ✅ \n B) Keine Maßnahmen ❌ \n C) Entlassung ✅"
       },
       {
         "question": "1.15 Wer von den nachstehend genannten Funktionsträger/innen ist ehrenamtliche Führungskraft?",
-        "answers": "A) Der/die Ortsbeauftragte\\nB) Der/die Schirrmeister/in\\nC) Der/die Zugführer/in",
-        "solution": "A) Der/die Ortsbeauftragte ✅\\nB) Der/die Schirrmeister/in ❌\\nC) Der/die Zugführer/in ✅"
+        "answers": "A) Der/die Ortsbeauftragte \n B) Der/die Schirrmeister/in \n C) Der/die Zugführer/in",
+        "solution": "A) Der/die Ortsbeauftragte ✅ \n B) Der/die Schirrmeister/in ❌ \n C) Der/die Zugführer/in ✅"
       },
       {
         "question": "1.16 Wer von den genannten Funktionsträger/innen ist Unterführer/in?",
-        "answers": "A) Der/die Zugführer/in\\nB) Der/die Gruppenführer/in\\nC) Der/die Truppführer/in",
-        "solution": "A) Der/die Zugführer/in ❌\\nB) Der/die Gruppenführer/in ✅\\nC) Der/die Truppführer/in ✅"
+        "answers": "A) Der/die Zugführer/in \n B) Der/die Gruppenführer/in \n C) Der/die Truppführer/in",
+        "solution": "A) Der/die Zugführer/in ❌ \n B) Der/die Gruppenführer/in ✅ \n C) Der/die Truppführer/in ✅"
       },
       {
         "question": "1.17 Wozu sind Sie verpflichtet, um Ihre Erreichbarkeit zu gewährleisten?",
-        "answers": "A) Jeden Wohnungswechsel anzuzeigen\\nB) Telefonische Erreichbarkeiten (privat und beruflich) anzuzeigen\\nC) Nicht in Urlaub zu fahren",
-        "solution": "A) Jeden Wohnungswechsel anzuzeigen ✅\\nB) Telefonische Erreichbarkeiten (privat und beruflich) anzuzeigen ✅\\nC) Nicht in Urlaub zu fahren ❌"
+        "answers": "A) Jeden Wohnungswechsel anzuzeigen \n B) Telefonische Erreichbarkeiten (privat und beruflich) anzuzeigen \n C) Nicht in Urlaub zu fahren",
+        "solution": "A) Jeden Wohnungswechsel anzuzeigen ✅ \n B) Telefonische Erreichbarkeiten (privat und beruflich) anzuzeigen ✅ \n C) Nicht in Urlaub zu fahren ❌"
       },
       {
         "question": "1.18 Wer ist für den Katastrophenschutz an Ihrem Standort (Kreis, kreisfreie Stadt) verantwortlich?",
-        "answers": "A) Der/die zuständige Leiter/in der Regionalstelle\\nB) Die Katastrophenschutzbehörde\\nC) Der/die Ortsbeauftragte",
-        "solution": "A) Der/die zuständige Leiter/in der Regionalstelle ❌\\nB) Die Katastrophenschutzbehörde ✅\\nC) Der/die Ortsbeauftragte ❌"
+        "answers": "A) Der/die zuständige Leiter/in der Regionalstelle \n B) Die Katastrophenschutzbehörde \n C) Der/die Ortsbeauftragte",
+        "solution": "A) Der/die zuständige Leiter/in der Regionalstelle ❌ \n B) Die Katastrophenschutzbehörde ✅ \n C) Der/die Ortsbeauftragte ❌"
       },
       {
         "question": "1.19 Welche Stufen des Leistungsabzeichens der THW-Jugend gibt es?",
-        "answers": "A) Blau, Orange, Bronze, Silber, Gold\\nB) 1, 2, 3, 4, 5\\nC) Schwarz, Rot, Gold, Blau, Weiß",
-        "solution": "A) Blau, Orange, Bronze, Silber, Gold ✅\\nB) 1, 2, 3, 4, 5 ❌\\nC) Schwarz, Rot, Gold, Blau, Weiß ❌"
+        "answers": "A) Blau, Orange, Bronze, Silber, Gold \n B) 1, 2, 3, 4, 5 \n C) Schwarz, Rot, Gold, Blau, Weiß",
+        "solution": "A) Blau, Orange, Bronze, Silber, Gold ✅ \n B) 1, 2, 3, 4, 5 ❌ \n C) Schwarz, Rot, Gold, Blau, Weiß ❌"
       },
       {
         "question": "1.20 Welche Einheiten werden vom THW gestellt?",
-        "answers": "A) Sanitätszüge\\nB) Bergungszüge\\nC) Technische Züge",
-        "solution": "A) Sanitätszüge ❌\\nB) Bergungszüge ❌\\nC) Technische Züge ✅"
+        "answers": "A) Sanitätszüge \n B) Bergungszüge \n C) Technische Züge",
+        "solution": "A) Sanitätszüge ❌ \n B) Bergungszüge ❌ \n C) Technische Züge ✅"
       },
       {
         "question": "1.21 Welches sind taktische (Teil-) Einheiten im THW?",
-        "answers": "A) Der Technische Zug\\nB) Die Fachgruppe\\nC) Der Regionalbereich",
-        "solution": "A) Der Technische Zug ✅\\nB) Die Fachgruppe ✅\\nC) Der Regionalbereich ❌"
+        "answers": "A) Der Technische Zug \n B) Die Fachgruppe \n C) Der Regionalbereich",
+        "solution": "A) Der Technische Zug ✅ \n B) Die Fachgruppe ✅ \n C) Der Regionalbereich ❌"
       },
       {
         "question": "1.22 Wer ist zu allgemeinen Hilfeleistungen verpflichtet?",
-        "answers": "A) Ausschließlich die Feuerwehren\\nB) Alle\\nC) Ausschließlich ausgebildete Helfer/innen",
-        "solution": "A) Ausschließlich die Feuerwehren ❌\\nB) Alle ✅\\nC) Ausschließlich ausgebildete Helfer/innen ❌"
+        "answers": "A) Ausschließlich die Feuerwehren \n B) Alle \n C) Ausschließlich ausgebildete Helfer/innen",
+        "solution": "A) Ausschließlich die Feuerwehren ❌ \n B) Alle ✅ \n C) Ausschließlich ausgebildete Helfer/innen ❌"
       },
       {
         "question": "1.23 Dürfen einem Helfer/einer Helferin aufgrund seiner/ihrer Mitwirkung im THW berufliche Nachteile entstehen?",
-        "answers": "A) Ja\\nB) Nein\\nC) Ja, in geringerem Umfang",
-        "solution": "A) Ja ❌\\nB) Nein ✅\\nC) Ja, in geringerem Umfang ❌"
+        "answers": "A) Ja \n B) Nein \n C) Ja, in geringerem Umfang",
+        "solution": "A) Ja ❌ \n B) Nein ✅ \n C) Ja, in geringerem Umfang ❌"
       },
       {
         "question": "1.24 Besteht für eine/n Helfer/in während des Dienstes eine gesetzliche Unfallversicherung?",
-        "answers": "A) Nein, es besteht Versicherungsschutz über seine/ihre Krankenkasse\\nB) Ja, über das Sozialgesetzbuch VII (SGB VII)\\nC) Nein, er/sie muss zusätzlich eine private Versicherung abschließen",
-        "solution": "A) Nein, es besteht Versicherungsschutz über seine/ihre Krankenkasse ❌\\nB) Ja, über das Sozialgesetzbuch VII (SGB VII) ✅\\nC) Nein, er/sie muss zusätzlich eine private Versicherung abschließen ❌"
+        "answers": "A) Nein, es besteht Versicherungsschutz über seine/ihre Krankenkasse \n B) Ja, über das Sozialgesetzbuch VII (SGB VII) \n C) Nein, er/sie muss zusätzlich eine private Versicherung abschließen",
+        "solution": "A) Nein, es besteht Versicherungsschutz über seine/ihre Krankenkasse ❌ \n B) Ja, über das Sozialgesetzbuch VII (SGB VII) ✅ \n C) Nein, er/sie muss zusätzlich eine private Versicherung abschließen ❌"
       },
       {
         "question": "1.25 Welche der nebenstehenden Aufgaben nimmt das THW wahr?",
-        "answers": "A) Bau und Instandsetzung von Freileitungen\\nB) Rettung Verschütteter\\nC) Abstützen einsturzgefährdeter Gebäude",
-        "solution": "A) Bau und Instandsetzung von Freileitungen ✅\\nB) Rettung Verschütteter ✅\\nC) Abstützen einsturzgefährdeter Gebäude ✅"
+        "answers": "A) Bau und Instandsetzung von Freileitungen \n B) Rettung Verschütteter \n C) Abstützen einsturzgefährdeter Gebäude",
+        "solution": "A) Bau und Instandsetzung von Freileitungen ✅ \n B) Rettung Verschütteter ✅ \n C) Abstützen einsturzgefährdeter Gebäude ✅"
       },
       {
         "question": "1.26 Welche Fachgruppen gibt es im THW?",
-        "answers": "A) Betreuung\\nB) Trinkwasserversorgung\\nC) Räumen",
-        "solution": "A) Betreuung ❌\\nB) Trinkwasserversorgung ✅\\nC) Räumen ✅"
+        "answers": "A) Betreuung \n B) Trinkwasserversorgung \n C) Räumen",
+        "solution": "A) Betreuung ❌ \n B) Trinkwasserversorgung ✅ \n C) Räumen ✅"
       },
       {
         "question": "1.27 Wer leitet die Jugendgruppen im Ortsverband?",
-        "answers": "A) Ortsjugendbeauftragte/r\\nB) Ortsbeauftragte/r\\nC) Ausbildungsbeauftragte/r",
-        "solution": "A) Ortsjugendbeauftragte/r ✅\\nB) Ortsbeauftragte/r ❌\\nC) Ausbildungsbeauftragte/r ❌"
+        "answers": "A) Ortsjugendbeauftragte/r \n B) Ortsbeauftragte/r \n C) Ausbildungsbeauftragte/r",
+        "solution": "A) Ortsjugendbeauftragte/r ✅ \n B) Ortsbeauftragte/r ❌ \n C) Ausbildungsbeauftragte/r ❌"
       },
       {
         "question": "1.28 Wofür steht die Abkürzung StAN?",
-        "answers": "A) Ständige Ausstattungsnachweisung\\nB) Stärke- und Ausstattungsnachweisung\\nC) Standard-Ausstattungsnachweisung",
-        "solution": "A) Ständige Ausstattungsnachweisung ❌\\nB) Stärke- und Ausstattungsnachweisung ✅\\nC) Standard-Ausstattungsnachweisung ❌"
+        "answers": "A) Ständige Ausstattungsnachweisung \n B) Stärke- und Ausstattungsnachweisung \n C) Standard-Ausstattungsnachweisung",
+        "solution": "A) Ständige Ausstattungsnachweisung ❌ \n B) Stärke- und Ausstattungsnachweisung ✅ \n C) Standard-Ausstattungsnachweisung ❌"
       },
       {
         "question": "1.29 Wer gehört u. a. dem OV-Stab an?",
-        "answers": "A) OB, stv. OB, Helfersprecher/in\\nB) OB, stv. OB, ZFü\\nC) OV-Koch/Köchin, OJB, VwBe",
-        "solution": "A) OB, stv. OB, Helfersprecher/in ❌\\nB) OB, stv. OB, ZFü ❌\\nC) OV-Koch/Köchin, OJB, VwBe ✅"
+        "answers": "A) OB, stv. OB, Helfersprecher/in \n B) OB, stv. OB, ZFü \n C) OV-Koch/Köchin, OJB, VwBe",
+        "solution": "A) OB, stv. OB, Helfersprecher/in ❌ \n B) OB, stv. OB, ZFü ❌ \n C) OV-Koch/Köchin, OJB, VwBe ✅"
       },
       {
         "question": "1.30 Wie hat sich ein/e Helfer/in über den Dienstplan zu informieren?",
-        "answers": "A) Er/sie kann warten, bis er ihm/ihr zugeschickt wird\\nB) Er/sie muss sich selbst informieren\\nC) Es gibt keinen festen Dienstplan",
-        "solution": "A) Er/sie kann warten, bis er ihm/ihr zugeschickt wird ❌\\nB) Er/sie muss sich selbst informieren ✅\\nC) Es gibt keinen festen Dienstplan ❌"
+        "answers": "A) Er/sie kann warten, bis er ihm/ihr zugeschickt wird \n B) Er/sie muss sich selbst informieren \n C) Es gibt keinen festen Dienstplan",
+        "solution": "A) Er/sie kann warten, bis er ihm/ihr zugeschickt wird ❌ \n B) Er/sie muss sich selbst informieren ✅ \n C) Es gibt keinen festen Dienstplan ❌"
       },
       {
         "question": "1.31 Zu welcher (Teil-) Einheit gehört der GKW?",
-        "answers": "A) Zugtrupp\\nB) Bergungsgruppe\\nC) Fachgruppe Sprengen",
-        "solution": "A) Zugtrupp ❌\\nB) Bergungsgruppe ✅\\nC) Fachgruppe Sprengen ❌"
+        "answers": "A) Zugtrupp \n B) Bergungsgruppe \n C) Fachgruppe Sprengen",
+        "solution": "A) Zugtrupp ❌ \n B) Bergungsgruppe ✅ \n C) Fachgruppe Sprengen ❌"
       },
       {
         "question": "1.32 Wie wird die Anwesenheit des Helfers/der Helferin bei Dienstveranstaltungen in der Regel erfasst?",
-        "answers": "A) Durch Eintrag ins Dienstbuch\\nB) Durch Eintrag in die Personalakte\\nC) Durch elektronische Erfassung",
-        "solution": "A) Durch Eintrag ins Dienstbuch ❌\\nB) Durch Eintrag in die Personalakte ❌\\nC) Durch elektronische Erfassung ✅"
+        "answers": "A) Durch Eintrag ins Dienstbuch \n B) Durch Eintrag in die Personalakte \n C) Durch elektronische Erfassung",
+        "solution": "A) Durch Eintrag ins Dienstbuch ❌ \n B) Durch Eintrag in die Personalakte ❌ \n C) Durch elektronische Erfassung ✅"
       },
       {
         "question": "1.33 Zu welcher (Teil-) Einheit des Technischen Zuges gehört der MTW?",
-        "answers": "A) Zugtrupp\\nB) Bergungsgruppe\\nC) Fachgruppe Wassergefahren",
-        "solution": "A) Zugtrupp ✅\\nB) Bergungsgruppe ❌\\nC) Fachgruppe Wassergefahren ❌"
+        "answers": "A) Zugtrupp \n B) Bergungsgruppe \n C) Fachgruppe Wassergefahren",
+        "solution": "A) Zugtrupp ✅ \n B) Bergungsgruppe ❌ \n C) Fachgruppe Wassergefahren ❌"
       },
       {
         "question": "1.34 Welche Geräte des Technischen Zuges befinden sich auf dem GKW?",
-        "answers": "A) Werkzeugsatz Sprengvorbereitung\\nB) Brennschneidgerät\\nC) Benzinhandpumpe",
-        "solution": "A) Werkzeugsatz Sprengvorbereitung ❌\\nB) Brennschneidgerät ✅\\nC) Benzinhandpumpe ❌"
+        "answers": "A) Werkzeugsatz Sprengvorbereitung \n B) Brennschneidgerät \n C) Benzinhandpumpe",
+        "solution": "A) Werkzeugsatz Sprengvorbereitung ❌ \n B) Brennschneidgerät ✅ \n C) Benzinhandpumpe ❌"
       },
       {
         "question": "1.35 Welche der nebenstehenden Aufgaben werden von der Fachgruppe Infrastruktur wahrgenommen?",
-        "answers": "A) Betrieb von Notbrunnen\\nB) Instandsetzen von Anlagen/Anlagenteilen in der Hausinstallation inkl. Hausanschluss\\nC) Absperrmaßnahmen bei Ver- und Entsorgungsanlagen auf der Ebene Hausanschluss",
-        "solution": "A) Betrieb von Notbrunnen ✅\\nB) Instandsetzen von Anlagen/Anlagenteilen in der Hausinstallation inkl. Hausanschluss ✅\\nC) Absperrmaßnahmen bei Ver- und Entsorgungsanlagen auf der Ebene Hausanschluss ✅"
+        "answers": "A) Betrieb von Notbrunnen \n B) Instandsetzen von Anlagen/Anlagenteilen in der Hausinstallation inkl. Hausanschluss \n C) Absperrmaßnahmen bei Ver- und Entsorgungsanlagen auf der Ebene Hausanschluss",
+        "solution": "A) Betrieb von Notbrunnen ✅ \n B) Instandsetzen von Anlagen/Anlagenteilen in der Hausinstallation inkl. Hausanschluss ✅ \n C) Absperrmaßnahmen bei Ver- und Entsorgungsanlagen auf der Ebene Hausanschluss ✅"
       },
       {
         "question": "1.36 Welche Aufgaben haben die Zugtrupps?",
-        "answers": "A) Zugführung und andere Führungsaufgaben\\nB) Verkehrskontrolle durchführen\\nC) Lotsenstellen einrichten",
-        "solution": "A) Zugführung und andere Führungsaufgaben ✅\\nB) Verkehrskontrolle durchführen ❌\\nC) Lotsenstellen einrichten ✅"
+        "answers": "A) Zugführung und andere Führungsaufgaben \n B) Verkehrskontrolle durchführen \n C) Lotsenstellen einrichten",
+        "solution": "A) Zugführung und andere Führungsaufgaben ✅ \n B) Verkehrskontrolle durchführen ❌ \n C) Lotsenstellen einrichten ✅"
       },
       {
         "question": "1.37 Was sind Bestandteile der THW-Fachbefähigung?",
-        "answers": "A) Bereichsausbildung\\nB) Auslandsausbildung\\nC) Führungsausbildung",
-        "solution": "A) Bereichsausbildung ✅\\nB) Auslandsausbildung ✅\\nC) Führungsausbildung ✅"
+        "answers": "A) Bereichsausbildung \n B) Auslandsausbildung \n C) Führungsausbildung",
+        "solution": "A) Bereichsausbildung ✅ \n B) Auslandsausbildung ✅ \n C) Führungsausbildung ✅"
       },
       {
         "question": "1.38 In welchen Fachgruppen gibt es Rettungshunde?",
-        "answers": "A) Wassergefahren\\nB) Infrastruktur\\nC) Ortung",
-        "solution": "A) Wassergefahren ❌\\nB) Infrastruktur ❌\\nC) Ortung ✅"
+        "answers": "A) Wassergefahren \n B) Infrastruktur \n C) Ortung",
+        "solution": "A) Wassergefahren ❌ \n B) Infrastruktur ❌ \n C) Ortung ✅"
       },
       {
         "question": "1.39 Was muss der/die Helfer/in bei der Anfahrt zur Unterkunft beachten?",
-        "answers": "A) Der/die Helfer/in hat keine Sonderrechte\\nB) Es gilt die Straßenverkehrsordnung\\nC) Hupe und Warnblinkanlage betätigen",
-        "solution": "A) Der/die Helfer/in hat keine Sonderrechte ✅\\nB) Es gilt die Straßenverkehrsordnung ✅\\nC) Hupe und Warnblinkanlage betätigen ❌"
+        "answers": "A) Der/die Helfer/in hat keine Sonderrechte \n B) Es gilt die Straßenverkehrsordnung \n C) Hupe und Warnblinkanlage betätigen",
+        "solution": "A) Der/die Helfer/in hat keine Sonderrechte ✅ \n B) Es gilt die Straßenverkehrsordnung ✅ \n C) Hupe und Warnblinkanlage betätigen ❌"
       },
       {
         "question": "1.40 In welcher Fachgruppe gibt es Baumaschinen?",
-        "answers": "A) Räumen\\nB) Elektroversorgung\\nC) Wassergefahren",
-        "solution": "A) Räumen ✅\\nB) Elektroversorgung ❌\\nC) Wassergefahren ❌"
+        "answers": "A) Räumen \n B) Elektroversorgung \n C) Wassergefahren",
+        "solution": "A) Räumen ✅ \n B) Elektroversorgung ❌ \n C) Wassergefahren ❌"
       },
       {
         "question": "1.41 Welche (Teil-) Einheiten des Technischen Zuges sind mit Umluft unabhängigen Atemschutzgeräten ausgestattet?",
-        "answers": "A) Fachgruppe Ortung\\nB) Fachgruppe Wassergefahren\\nC) Bergungsgruppe",
-        "solution": "A) Fachgruppe Ortung ❌\\nB) Fachgruppe Wassergefahren ❌\\nC) Bergungsgruppe ✅"
+        "answers": "A) Fachgruppe Ortung \n B) Fachgruppe Wassergefahren \n C) Bergungsgruppe",
+        "solution": "A) Fachgruppe Ortung ❌ \n B) Fachgruppe Wassergefahren ❌ \n C) Bergungsgruppe ✅"
       },
       {
         "question": "1.42 Wem muss ich als Helfer/in meine Mitwirkung im THW mitteilen?",
-        "answers": "A) Arbeitgeber/in\\nB) Einwohnermeldeamt\\nC) Arbeitsagentur bzw. Jobcenter der Stadt/des Kreises im Falle einer Arbeitslosigkeit",
-        "solution": "A) Arbeitgeber/in ✅\\nB) Einwohnermeldeamt ❌\\nC) Arbeitsagentur bzw. Jobcenter der Stadt/des Kreises im Falle einer Arbeitslosigkeit ✅"
+        "answers": "A) Arbeitgeber/in \n B) Einwohnermeldeamt \n C) Arbeitsagentur bzw. Jobcenter der Stadt/des Kreises im Falle einer Arbeitslosigkeit",
+        "solution": "A) Arbeitgeber/in ✅ \n B) Einwohnermeldeamt ❌ \n C) Arbeitsagentur bzw. Jobcenter der Stadt/des Kreises im Falle einer Arbeitslosigkeit ✅"
       },
       {
         "question": "1.43 Welche Aufgaben kann eine örtliche THW-Helfervereinigung haben?",
-        "answers": "A) Förderung der THW-Jugend\\nB) Unterstützung bei der Beschaffung fehlender Gerätschaften\\nC) Förderung der Kameradschaft",
-        "solution": "A) Förderung der THW-Jugend ✅\\nB) Unterstützung bei der Beschaffung fehlender Gerätschaften ✅\\nC) Förderung der Kameradschaft ✅"
+        "answers": "A) Förderung der THW-Jugend \n B) Unterstützung bei der Beschaffung fehlender Gerätschaften \n C) Förderung der Kameradschaft",
+        "solution": "A) Förderung der THW-Jugend ✅ \n B) Unterstützung bei der Beschaffung fehlender Gerätschaften ✅ \n C) Förderung der Kameradschaft ✅"
       },
       {
         "question": "1.44 Welche Rechtsform kann eine THW-Helfervereinigungen haben?",
-        "answers": "A) Eingetragene Genossenschaft (e. G.)\\nB) Eingetragener Verein (e. V.)\\nC) Keine, weil sie ein Teil der BA THW sind",
-        "solution": "A) Eingetragene Genossenschaft (e. G.) ❌\\nB) Eingetragener Verein (e. V.) ✅\\nC) Keine, weil sie ein Teil der BA THW sind ❌"
+        "answers": "A) Eingetragene Genossenschaft (e. G.) \n B) Eingetragener Verein (e. V.) \n C) Keine, weil sie ein Teil der BA THW sind",
+        "solution": "A) Eingetragene Genossenschaft (e. G.) ❌ \n B) Eingetragener Verein (e. V.) ✅ \n C) Keine, weil sie ein Teil der BA THW sind ❌"
       },
       {
         "question": "1.45 Welche Organisationsebenen der THW-Helfervereine gibt es?",
-        "answers": "A) Örtliche THW-Helfervereine\\nB) Landesvereinigungen\\nC) Bundesvereinigung",
-        "solution": "A) Örtliche THW-Helfervereine ✅\\nB) Landesvereinigungen ✅\\nC) Bundesvereinigung ✅"
+        "answers": "A) Örtliche THW-Helfervereine \n B) Landesvereinigungen \n C) Bundesvereinigung",
+        "solution": "A) Örtliche THW-Helfervereine ✅ \n B) Landesvereinigungen ✅ \n C) Bundesvereinigung ✅"
       },
       {
         "question": "1.46 Ab wann kann ein/e Junghelfer/in frühestens die Grundausbildungsprüfung ablegen?",
-        "answers": "A) Ab dem 16. Geburtstag\\nB) Ab dem 18. Geburtstag\\nC) Mit Eintritt in die Minigruppe",
-        "solution": "A) Ab dem 16. Geburtstag ✅\\nB) Ab dem 18. Geburtstag ❌\\nC) Mit Eintritt in die Minigruppe ❌"
+        "answers": "A) Ab dem 16. Geburtstag \n B) Ab dem 18. Geburtstag \n C) Mit Eintritt in die Minigruppe",
+        "solution": "A) Ab dem 16. Geburtstag ✅ \n B) Ab dem 18. Geburtstag ❌ \n C) Mit Eintritt in die Minigruppe ❌"
       },
       {
         "question": "1.47 Was sind die Voraussetzungen, um an einem Einsatz teilnehmen zu können?",
-        "answers": "A) Bestandene Grundausbildungsprüfung, gültige Erste-Hilfe-Ausbildung\\nB) Mitführen eines gültigen Impfpasses, Bescheinigung der Einsatzbereitschaft durch den/die Leiter/in der Regionalstelle\\nC) Gesundheitliche, Eingangsuntersuchung, gültiger Impfstatus",
-        "solution": "A) Bestandene Grundausbildungsprüfung, gültige Erste-Hilfe-Ausbildung ✅\\nB) Mitführen eines gültigen Impfpasses, Bescheinigung der Einsatzbereitschaft durch den/die Leiter/in der Regionalstelle ❌\\nC) Gesundheitliche, Eingangsuntersuchung, gültiger Impfstatus ✅"
+        "answers": "A) Bestandene Grundausbildungsprüfung, gültige Erste-Hilfe-Ausbildung \n B) Mitführen eines gültigen Impfpasses, Bescheinigung der Einsatzbereitschaft durch den/die Leiter/in der Regionalstelle \n C) Gesundheitliche, Eingangsuntersuchung, gültiger Impfstatus",
+        "solution": "A) Bestandene Grundausbildungsprüfung, gültige Erste-Hilfe-Ausbildung ✅ \n B) Mitführen eines gültigen Impfpasses, Bescheinigung der Einsatzbereitschaft durch den/die Leiter/in der Regionalstelle ❌ \n C) Gesundheitliche, Eingangsuntersuchung, gültiger Impfstatus ✅"
       },
       {
         "question": "1.48 Womit ist jede Einheit bzw. Teileinheit in der StAN beschrieben?",
-        "answers": "A) Mit ihrem Aufgabenspektrum, ihrer Einsatztaktik, ihrer Ausstattung und ihrem Gliederungsbild\\nB) Mit ihren Aufgaben, ihrer Einsatzkleidung und ihrem Verpflegungsbedarf\\nC) Mit ihrer Einsatztaktik, ihrer Funktions- und Helfer/innenübersicht und den Funktionsbeschreibungen",
-        "solution": "A) Mit ihrem Aufgabenspektrum, ihrer Einsatztaktik, ihrer Ausstattung und ihrem Gliederungsbild ✅\\nB) Mit ihren Aufgaben, ihrer Einsatzkleidung und ihrem Verpflegungsbedarf ❌\\nC) Mit ihrer Einsatztaktik, ihrer Funktions- und Helfer/innenübersicht und den Funktionsbeschreibungen ✅"
+        "answers": "A) Mit ihrem Aufgabenspektrum, ihrer Einsatztaktik, ihrer Ausstattung und ihrem Gliederungsbild \n B) Mit ihren Aufgaben, ihrer Einsatzkleidung und ihrem Verpflegungsbedarf \n C) Mit ihrer Einsatztaktik, ihrer Funktions- und Helfer/innenübersicht und den Funktionsbeschreibungen",
+        "solution": "A) Mit ihrem Aufgabenspektrum, ihrer Einsatztaktik, ihrer Ausstattung und ihrem Gliederungsbild ✅ \n B) Mit ihren Aufgaben, ihrer Einsatzkleidung und ihrem Verpflegungsbedarf ❌ \n C) Mit ihrer Einsatztaktik, ihrer Funktions- und Helfer/innenübersicht und den Funktionsbeschreibungen ✅"
       },
       {
         "question": "1.49 Wie lautet die richtige Reihenfolge der Bedeutung der Stärkemeldung (1/1/2=4)",
-        "answers": "A) Anzahl der Helfer/innen; Anzahl der Unterführer/innen; Anzahl der Führer/innen; Gesamtzahl der Helfer/innen in der Einheit\\nB) Anzahl der Führer/innen; Anzahl der Unterführer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit\\nC) Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterführer/innen; Anzahl der Helfer/innen; Anzahl der Führer/innen",
-        "solution": "A) Anzahl der Helfer/innen; Anzahl der Unterführer/innen; Anzahl der Führer/innen; Gesamtzahl der Helfer/innen in der Einheit ❌\\nB) Anzahl der Führer/innen; Anzahl der Unterführer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit ✅\\nC) Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterführer/innen; Anzahl der Helfer/innen; Anzahl der Führer/innen ❌"
+        "answers": "A) Anzahl der Helfer/innen; Anzahl der Unterführer/innen; Anzahl der Führer/innen; Gesamtzahl der Helfer/innen in der Einheit \n B) Anzahl der Führer/innen; Anzahl der Unterführer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit \n C) Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterführer/innen; Anzahl der Helfer/innen; Anzahl der Führer/innen",
+        "solution": "A) Anzahl der Helfer/innen; Anzahl der Unterführer/innen; Anzahl der Führer/innen; Gesamtzahl der Helfer/innen in der Einheit ❌ \n B) Anzahl der Führer/innen; Anzahl der Unterführer/innen; Anzahl der Helfer/innen; Gesamtzahl der Helfer/innen der Einheit ✅ \n C) Gesamtzahl der Helfer/innen der Einheit; Anzahl der Unterführer/innen; Anzahl der Helfer/innen; Anzahl der Führer/innen ❌"
       },
       {
         "question": "1.50 Welche Pflichten haben Helferinnen und Helfer im THW?",
-        "answers": "A) Sich entsprechend Eignung und Aufgabe ausbilden zu lassen\\nB) Dienstlichen Vorschriften und Anweisungen nachzukommen\\nC) Sich über die maßgeblichen Diensttermine zu informieren",
-        "solution": "A) Sich entsprechend Eignung und Aufgabe ausbilden zu lassen ✅\\nB) Dienstlichen Vorschriften und Anweisungen nachzukommen ✅\\nC) Sich über die maßgeblichen Diensttermine zu informieren ✅"
+        "answers": "A) Sich entsprechend Eignung und Aufgabe ausbilden zu lassen \n B) Dienstlichen Vorschriften und Anweisungen nachzukommen \n C) Sich über die maßgeblichen Diensttermine zu informieren",
+        "solution": "A) Sich entsprechend Eignung und Aufgabe ausbilden zu lassen ✅ \n B) Dienstlichen Vorschriften und Anweisungen nachzukommen ✅ \n C) Sich über die maßgeblichen Diensttermine zu informieren ✅"
       },
       {
         "question": "1.51 Ab weil viel Jahren können Kinder und Jugendliche als Junghelfer/in im THW mitwirken?",
-        "answers": "A) 6 Jahre\\nB) 10 Jahre\\nC) 18 Jahre",
-        "solution": "A) 6 Jahre ✅\\nB) 10 Jahre ❌\\nC) 18 Jahre ❌"
+        "answers": "A) 6 Jahre \n B) 10 Jahre \n C) 18 Jahre",
+        "solution": "A) 6 Jahre ✅ \n B) 10 Jahre ❌ \n C) 18 Jahre ❌"
       },
       {
         "question": "1.52 Wer ist für die alltägliche Gefahrenabwehr zuständig?",
-        "answers": "A) Die Städte, kreisfreien Städte und Gemeinden\\nB) Ausschließlich die Bundesländer\\nC) Der Bund",
-        "solution": "A) Die Städte, kreisfreien Städte und Gemeinden ✅\\nB) Ausschließlich die Bundesländer ❌\\nC) Der Bund ❌"
+        "answers": "A) Die Städte, kreisfreien Städte und Gemeinden \n B) Ausschließlich die Bundesländer \n C) Der Bund",
+        "solution": "A) Die Städte, kreisfreien Städte und Gemeinden ✅ \n B) Ausschließlich die Bundesländer ❌ \n C) Der Bund ❌"
       },
       {
         "question": "1.53 Aufgaben im Falle eines außergewöhnlichen Schadensereignisses",
-        "answers": "A) Sachgüter\\nB) Menschenleben\\nC) Umwelt",
-        "solution": "A) Sachgüter ✅\\nB) Menschenleben ✅\\nC) Umwelt ✅"
+        "answers": "A) Sachgüter \n B) Menschenleben \n C) Umwelt",
+        "solution": "A) Sachgüter ✅ \n B) Menschenleben ✅ \n C) Umwelt ✅"
       },
       {
         "question": "1.54 Wer ruft den Katastrophenfall aus?",
-        "answers": "A) Ausschließlich die Bundesregierung\\nB) Organisationen des Katastrophenschutzes – auch das THW ist berechtigt\\nC) Katastrophenschutzbehörden der Landkreise, kreisfreien Städte bzw. Bezirksregierungen",
-        "solution": "A) Ausschließlich die Bundesregierung ❌\\nB) Organisationen des Katastrophenschutzes – auch das THW ist berechtigt ❌\\nC) Katastrophenschutzbehörden der Landkreise, kreisfreien Städte bzw. Bezirksregierungen ✅"
+        "answers": "A) Ausschließlich die Bundesregierung \n B) Organisationen des Katastrophenschutzes – auch das THW ist berechtigt \n C) Katastrophenschutzbehörden der Landkreise, kreisfreien Städte bzw. Bezirksregierungen",
+        "solution": "A) Ausschließlich die Bundesregierung ❌ \n B) Organisationen des Katastrophenschutzes – auch das THW ist berechtigt ❌ \n C) Katastrophenschutzbehörden der Landkreise, kreisfreien Städte bzw. Bezirksregierungen ✅"
       },
       {
         "question": "1.55 Wo liegt die Zuständigkeit für den Zivilschutz?",
-        "answers": "A) Bei den Kreisverwaltungen\\nB) Beim Bund\\nC) Bei den Bundesländern",
-        "solution": "A) Bei den Kreisverwaltungen ❌\\nB) Beim Bund ✅\\nC) Bei den Bundesländern ❌"
+        "answers": "A) Bei den Kreisverwaltungen \n B) Beim Bund \n C) Bei den Bundesländern",
+        "solution": "A) Bei den Kreisverwaltungen ❌ \n B) Beim Bund ✅ \n C) Bei den Bundesländern ❌"
       },
       {
         "question": "1.56 Zu welchem Zweck wurde die Bundesanstalt Technisches Hilfswerk gegründet?",
-        "answers": "A) Zum Zweck der technischen Hilfeleistung in der allgemeinen Gefahrenabwehr\\nB) Zum Zweck der technischen Hilfeleistung im Zivilschutzfall\\nC) Zum Zweck der technischen Hilfeleistung im Katastrophenfall",
-        "solution": "A) Zum Zweck der technischen Hilfeleistung in der allgemeinen Gefahrenabwehr ❌\\nB) Zum Zweck der technischen Hilfeleistung im Zivilschutzfall ✅\\nC) Zum Zweck der technischen Hilfeleistung im Katastrophenfall ❌"
+        "answers": "A) Zum Zweck der technischen Hilfeleistung in der allgemeinen Gefahrenabwehr \n B) Zum Zweck der technischen Hilfeleistung im Zivilschutzfall \n C) Zum Zweck der technischen Hilfeleistung im Katastrophenfall",
+        "solution": "A) Zum Zweck der technischen Hilfeleistung in der allgemeinen Gefahrenabwehr ❌ \n B) Zum Zweck der technischen Hilfeleistung im Zivilschutzfall ✅ \n C) Zum Zweck der technischen Hilfeleistung im Katastrophenfall ❌"
       },
       {
         "question": "1.57 Welche vier taktischen Schwerpunkte (gem. THW-Rahmenkonzept) hat das THW?",
-        "answers": "A) Rettung und Bergung; Notinstandsetzung; Notversorgung; Führung und Logistik\\nB) Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatz­kräften; Personenschutz\\nC) Fahrzeugreparaturen; Rettung und Bergung; Medizinische Hilfeleistung; Koordination",
-        "solution": "A) Rettung und Bergung; Notinstandsetzung; Notversorgung; Führung und Logistik ✅\\nB) Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatz­kräften; Personenschutz ❌\\nC) Fahrzeugreparaturen; Rettung und Bergung; Medizinische Hilfeleistung; Koordination ❌"
+        "answers": "A) Rettung und Bergung; Notinstandsetzung; Notversorgung; Führung und Logistik \n B) Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatz­kräften; Personenschutz \n C) Fahrzeugreparaturen; Rettung und Bergung; Medizinische Hilfeleistung; Koordination",
+        "solution": "A) Rettung und Bergung; Notinstandsetzung; Notversorgung; Führung und Logistik ✅ \n B) Medizinische Hilfeleistung; Psycho-soziale Notfallversorgung; Verpflegung von Einsatz­kräften; Personenschutz ❌ \n C) Fahrzeugreparaturen; Rettung und Bergung; Medizinische Hilfeleistung; Koordination ❌"
       },
       {
         "question": "1.58 Das THW leistet technische Hilfe…",
-        "answers": "A) Nach dem Zivilschutz- und Katastrophenhilfegesetz\\nB) Im Ausland im Auftrag der Bundesregierung\\nC) Bei Gefahr in Verzug",
-        "solution": "A) Nach dem Zivilschutz- und Katastrophenhilfegesetz ✅\\nB) Im Ausland im Auftrag der Bundesregierung ✅\\nC) Bei Gefahr in Verzug ✅"
+        "answers": "A) Nach dem Zivilschutz- und Katastrophenhilfegesetz \n B) Im Ausland im Auftrag der Bundesregierung \n C) Bei Gefahr in Verzug",
+        "solution": "A) Nach dem Zivilschutz- und Katastrophenhilfegesetz ✅ \n B) Im Ausland im Auftrag der Bundesregierung ✅ \n C) Bei Gefahr in Verzug ✅"
       },
       {
         "question": "1.59 Örtliche Helfervereinigungen…",
-        "answers": "A) Sind rechtlich ein Bestandteil der Ortsverbände\\nB) Haben einen eigenen Vorstand\\nC) Sind rechtlich kein Bestandteil der Ortsverbände",
-        "solution": "A) Sind rechtlich ein Bestandteil der Ortsverbände ❌\\nB) Haben einen eigenen Vorstand ✅\\nC) Sind rechtlich kein Bestandteil der Ortsverbände ✅"
+        "answers": "A) Sind rechtlich ein Bestandteil der Ortsverbände \n B) Haben einen eigenen Vorstand \n C) Sind rechtlich kein Bestandteil der Ortsverbände",
+        "solution": "A) Sind rechtlich ein Bestandteil der Ortsverbände ❌ \n B) Haben einen eigenen Vorstand ✅ \n C) Sind rechtlich kein Bestandteil der Ortsverbände ✅"
       },
       {
         "question": "1.60 Wie finanzieren sich die örtlichen THW Helfervereinigungen?",
-        "answers": "A) Aus Spenden\\nB) Aus Mitgliedsbeiträgen\\nC) Zu 100% aus Mitteln der Bundesanstalt Technisches Hilfswerk",
-        "solution": "A) Aus Spenden ✅\\nB) Aus Mitgliedsbeiträgen ✅\\nC) Zu 100% aus Mitteln der Bundesanstalt Technisches Hilfswerk ❌"
+        "answers": "A) Aus Spenden \n B) Aus Mitgliedsbeiträgen \n C) Zu 100% aus Mitteln der Bundesanstalt Technisches Hilfswerk",
+        "solution": "A) Aus Spenden ✅ \n B) Aus Mitgliedsbeiträgen ✅ \n C) Zu 100% aus Mitteln der Bundesanstalt Technisches Hilfswerk ❌"
       },
       {
         "question": "1.61 Wann wurde die THW-Jugend auf Bundesebene gegründet?",
-        "answers": "A) 1967\\nB) 1984\\nC) 2001",
-        "solution": "A) 1967 ❌\\nB) 1984 ✅\\nC) 2001 ❌"
+        "answers": "A) 1967 \n B) 1984 \n C) 2001",
+        "solution": "A) 1967 ❌ \n B) 1984 ✅ \n C) 2001 ❌"
       },
       {
         "question": "1.62 Welche Aussagen zur THW- Jugend sind korrekt?",
-        "answers": "A) Die THW-Jugend ist der Jugendverband des THW\\nB) Die THW-Jugend hat die Rechtsform eines eingetragenen Vereins (e. V.)\\nC) In jedem THW-Ortsverband ist eine Jugendgruppe aktiv",
-        "solution": "A) Die THW-Jugend ist der Jugendverband des THW ✅\\nB) Die THW-Jugend hat die Rechtsform eines eingetragenen Vereins (e. V.) ✅\\nC) In jedem THW-Ortsverband ist eine Jugendgruppe aktiv ✅"
+        "answers": "A) Die THW-Jugend ist der Jugendverband des THW \n B) Die THW-Jugend hat die Rechtsform eines eingetragenen Vereins (e. V.) \n C) In jedem THW-Ortsverband ist eine Jugendgruppe aktiv",
+        "solution": "A) Die THW-Jugend ist der Jugendverband des THW ✅ \n B) Die THW-Jugend hat die Rechtsform eines eingetragenen Vereins (e. V.) ✅ \n C) In jedem THW-Ortsverband ist eine Jugendgruppe aktiv ✅"
       },
       {
         "question": "1.63 Wie lautet das Motto der THWJugend",
-        "answers": "A) Spielen, Lernen, Helfen\\nB) Spielend helfen lernen\\nC) Gespielt, gelernt, geholfen",
-        "solution": "A) Spielen, Lernen, Helfen ❌\\nB) Spielend helfen lernen ✅\\nC) Gespielt, gelernt, geholfen ❌"
+        "answers": "A) Spielen, Lernen, Helfen \n B) Spielend helfen lernen \n C) Gespielt, gelernt, geholfen",
+        "solution": "A) Spielen, Lernen, Helfen ❌ \n B) Spielend helfen lernen ✅ \n C) Gespielt, gelernt, geholfen ❌"
       },
       {
         "question": "1.64 Das THW besteht aus drei eng miteinander verbundenen Säulen. Die Säulen sind:",
-        "answers": "A) Bundesanstalt Technisches Hilfswerk; THW- Helfervereinigungen e. V.; THW-Jugend e. V.\\nB) THW-Leitung; Das Ehrenamt; THW-Jugend\\nC) Technik; Hilfe; Weitblick",
-        "solution": "A) Bundesanstalt Technisches Hilfswerk; THW- Helfervereinigungen e. V.; THW-Jugend e. V. ✅\\nB) THW-Leitung; Das Ehrenamt; THW-Jugend ❌\\nC) Technik; Hilfe; Weitblick ❌"
+        "answers": "A) Bundesanstalt Technisches Hilfswerk; THW- Helfervereinigungen e. V.; THW-Jugend e. V. \n B) THW-Leitung; Das Ehrenamt; THW-Jugend \n C) Technik; Hilfe; Weitblick",
+        "solution": "A) Bundesanstalt Technisches Hilfswerk; THW- Helfervereinigungen e. V.; THW-Jugend e. V. ✅ \n B) THW-Leitung; Das Ehrenamt; THW-Jugend ❌ \n C) Technik; Hilfe; Weitblick ❌"
       }
     ],
   
     "Arbeitssicherheit und Gesundheitsschutz": [
       {
         "question": "2.1 Welche persönliche Schutzausstattung hat jeder Helfer bzw. jeder Helferin immer mitzuführen?",
-        "answers": "A) Helm, Sicherheitsstiefel, THW Einsatzhandschuhe, Multifunktionaler Einsatzschutzanzug\\nB) Helm, Multifunktionaler Einsatzschutzanzug, Schutzbrille\\nC) Helm, Sicherheitsstiefel, Lederschürze, multifunktionaler Einsatzschutzanzug",
-        "solution": "A) Helm, Sicherheitsstiefel, THW Einsatzhandschuhe, Multifunktionaler Einsatzschutzanzug ✅\\nB) Helm, Multifunktionaler Einsatzschutzanzug, Schutzbrille ❌\\nC) Helm, Sicherheitsstiefel, Lederschürze, multifunktionaler Einsatzschutzanzug ❌"
+        "answers": "A) Helm, Sicherheitsstiefel, THW Einsatzhandschuhe, Multifunktionaler Einsatzschutzanzug \n B) Helm, Multifunktionaler Einsatzschutzanzug, Schutzbrille \n C) Helm, Sicherheitsstiefel, Lederschürze, multifunktionaler Einsatzschutzanzug",
+        "solution": "A) Helm, Sicherheitsstiefel, THW Einsatzhandschuhe, Multifunktionaler Einsatzschutzanzug ✅ \n B) Helm, Multifunktionaler Einsatzschutzanzug, Schutzbrille ❌ \n C) Helm, Sicherheitsstiefel, Lederschürze, multifunktionaler Einsatzschutzanzug ❌"
       },
       {
         "question": "2.2 Wie muss der Multifunktionale Einsatzschutzanzug des THW gepflegt werden?",
-        "answers": "A) 95° Kochwäsche\\nB) Laut Pflegeanleitung des Herstellers\\nC) Grundsätzlich mit Kernseife",
-        "solution": "A) 95° Kochwäsche ❌\\nB) Laut Pflegeanleitung des Herstellers ✅\\nC) Grundsätzlich mit Kernseife ❌"
+        "answers": "A) 95° Kochwäsche \n B) Laut Pflegeanleitung des Herstellers \n C) Grundsätzlich mit Kernseife",
+        "solution": "A) 95° Kochwäsche ❌ \n B) Laut Pflegeanleitung des Herstellers ✅ \n C) Grundsätzlich mit Kernseife ❌"
       },
       {
         "question": "2.3 Wie sind Erste-Hilfe-Leistungen zu dokumentieren?",
-        "answers": "A) Meldeblock bzw. Verbandbuch\\nB) Einsatzsofortmeldung\\nC) Nur mündlich gegenüber dem/der OB",
-        "solution": "A) Meldeblock bzw. Verbandbuch ✅\\nB) Einsatzsofortmeldung ❌\\nC) Nur mündlich gegenüber dem/der OB ❌"
+        "answers": "A) Meldeblock bzw. Verbandbuch \n B) Einsatzsofortmeldung \n C) Nur mündlich gegenüber dem/der OB",
+        "solution": "A) Meldeblock bzw. Verbandbuch ✅ \n B) Einsatzsofortmeldung ❌ \n C) Nur mündlich gegenüber dem/der OB ❌"
       },
       {
         "question": "2.4 Wer ist für die Bereitstellung der Arbeitsschutzkleidung verantwortlich?",
-        "answers": "A) Jede/r Helfer/in selbst\\nB) Das THW\\nC) Die Fachgruppe Logistik",
-        "solution": "A) Jede/r Helfer/in selbst ❌\\nB) Das THW ✅\\nC) Die Fachgruppe Logistik ❌"
+        "answers": "A) Jede/r Helfer/in selbst \n B) Das THW \n C) Die Fachgruppe Logistik",
+        "solution": "A) Jede/r Helfer/in selbst ❌ \n B) Das THW ✅ \n C) Die Fachgruppe Logistik ❌"
       },
       {
         "question": "2.5 Wofür steht die Abkürzung CBRN?",
-        "answers": "A) chemisch, biogen, radioaktiv, nuklear\\nB) chemisch, bioaktiv, radiologisch, natürlich\\nC) chemisch, biologisch, radiologisch, nuklear",
-        "solution": "A) chemisch, biogen, radioaktiv, nuklear ❌\\nB) chemisch, bioaktiv, radiologisch, natürlich ❌\\nC) chemisch, biologisch, radiologisch, nuklear ✅"
+        "answers": "A) chemisch, biogen, radioaktiv, nuklear \n B) chemisch, bioaktiv, radiologisch, natürlich \n C) chemisch, biologisch, radiologisch, nuklear",
+        "solution": "A) chemisch, biogen, radioaktiv, nuklear ❌ \n B) chemisch, bioaktiv, radiologisch, natürlich ❌ \n C) chemisch, biologisch, radiologisch, nuklear ✅"
       },
       {
         "question": "2.6 Wo können THW-Angehörige mit Gefahrstoffen in Berührung kommen?",
-        "answers": "A) Zu Hause\\nB) Im Einsatz\\nC) Im Ortsverband",
-        "solution": "A) Zu Hause ✅\\nB) Im Einsatz ✅\\nC) Im Ortsverband ✅"
+        "answers": "A) Zu Hause \n B) Im Einsatz \n C) Im Ortsverband",
+        "solution": "A) Zu Hause ✅ \n B) Im Einsatz ✅ \n C) Im Ortsverband ✅"
       },
       {
         "question": "2.7 Wer kann für Vergehen im Umgang mit Gefahrstoffen zur Verantwortung gezogen werden (z. B. Bußgeld)?",
-        "answers": "A) Jede/r Helfer/in im THW\\nB) Nur der Präsident des THW\\nC) Nur der/die Auftraggeber/in",
-        "solution": "A) Jede/r Helfer/in im THW ✅\\nB) Nur der Präsident des THW ❌\\nC) Nur der/die Auftraggeber/in ❌"
+        "answers": "A) Jede/r Helfer/in im THW \n B) Nur der Präsident des THW \n C) Nur der/die Auftraggeber/in",
+        "solution": "A) Jede/r Helfer/in im THW ✅ \n B) Nur der Präsident des THW ❌ \n C) Nur der/die Auftraggeber/in ❌"
       },
       {
         "question": "2.8 Was ist bei einem Unfall mit Gefahrstoffen zu beachten?",
-        "answers": "A) Möglichst großen Abstand zum Unfallort halten, alle Zündquellen fernhalten (Motor abstellen, Rauchverbot, etc.) und die Straße sichern (Warnschilder aufstellen), Straßenbenutzer/innen sowie Anwohnende warnen\\nB) Verunfallte aus dem gefährlichen Bereich bringen (Schutzmaßnahmen unbedingt beachten - Eigenschutz!)\\nC) Es müssen keine Schutzmaßnahmen getroffen werden",
-        "solution": "A) Möglichst großen Abstand zum Unfallort halten, alle Zündquellen fernhalten (Motor abstellen, Rauchverbot, etc.) und die Straße sichern (Warnschilder aufstellen), Straßenbenutzer/innen sowie Anwohnende warnen ✅\\nB) Verunfallte aus dem gefährlichen Bereich bringen (Schutzmaßnahmen unbedingt beachten - Eigenschutz!) ✅\\nC) Es müssen keine Schutzmaßnahmen getroffen werden ❌"
+        "answers": "A) Möglichst großen Abstand zum Unfallort halten, alle Zündquellen fernhalten (Motor abstellen, Rauchverbot, etc.) und die Straße sichern (Warnschilder aufstellen), Straßenbenutzer/innen sowie Anwohnende warnen \n B) Verunfallte aus dem gefährlichen Bereich bringen (Schutzmaßnahmen unbedingt beachten - Eigenschutz!) \n C) Es müssen keine Schutzmaßnahmen getroffen werden",
+        "solution": "A) Möglichst großen Abstand zum Unfallort halten, alle Zündquellen fernhalten (Motor abstellen, Rauchverbot, etc.) und die Straße sichern (Warnschilder aufstellen), Straßenbenutzer/innen sowie Anwohnende warnen ✅ \n B) Verunfallte aus dem gefährlichen Bereich bringen (Schutzmaßnahmen unbedingt beachten - Eigenschutz!) ✅ \n C) Es müssen keine Schutzmaßnahmen getroffen werden ❌"
       },
       {
         "question": "2.9 Woran kann ich die Gefährdung, die von einem Gefahrguttransport ausgeht, eindeutig erkennen?",
-        "answers": "A) Kennzeichnung an den Verpackungen\\nB) Fahrzeugkennzeichnung, mitgeführte Fahrzeugpapiere und Merkblätter\\nC) Durch Befragung des/der Fahrers/in",
-        "solution": "A) Kennzeichnung an den Verpackungen ✅\\nB) Fahrzeugkennzeichnung, mitgeführte Fahrzeugpapiere und Merkblätter ✅\\nC) Durch Befragung des/der Fahrers/in ❌"
+        "answers": "A) Kennzeichnung an den Verpackungen \n B) Fahrzeugkennzeichnung, mitgeführte Fahrzeugpapiere und Merkblätter \n C) Durch Befragung des/der Fahrers/in",
+        "solution": "A) Kennzeichnung an den Verpackungen ✅ \n B) Fahrzeugkennzeichnung, mitgeführte Fahrzeugpapiere und Merkblätter ✅ \n C) Durch Befragung des/der Fahrers/in ❌"
       },
       {
         "question": "2.10 Wie werden kennzeichnungspflichtige Gefahrguttransporte unter anderem gekennzeichnet?",
-        "answers": "A) orange Warntafel\\nB) gar nicht\\nC) Rote Flagge",
-        "solution": "A) orange Warntafel ✅\\nB) gar nicht ❌\\nC) Rote Flagge ❌"
+        "answers": "A) orange Warntafel \n B) gar nicht \n C) Rote Flagge",
+        "solution": "A) orange Warntafel ✅ \n B) gar nicht ❌ \n C) Rote Flagge ❌"
       },
       {
         "question": "2.11 Welche Bedeutung hat die obere Nummernkombination auf einer orangefarbenen Kennzeichnung (Warntafel) z. B. an einem LKW?",
-        "answers": "A) Nummer zur Kennzeichnung des Gutes (UN-Nummer)\\nB) Nummer zur Kennzeichnung der Gefahr\\nC) Fahrzeugkennzeichen",
-        "solution": "A) Nummer zur Kennzeichnung des Gutes (UN-Nummer) ❌\\nB) Nummer zur Kennzeichnung der Gefahr ✅\\nC) Fahrzeugkennzeichen ❌"
+        "answers": "A) Nummer zur Kennzeichnung des Gutes (UN-Nummer) \n B) Nummer zur Kennzeichnung der Gefahr \n C) Fahrzeugkennzeichen",
+        "solution": "A) Nummer zur Kennzeichnung des Gutes (UN-Nummer) ❌ \n B) Nummer zur Kennzeichnung der Gefahr ✅ \n C) Fahrzeugkennzeichen ❌"
       },
       {
         "question": "2.12 Welche Bedeutung hat die untere Nummernkombination auf einer orangefarbenen Kennzeichnung (Warntafel) z. B. an einem LKW",
-        "answers": "A) Nummer zur Kennzeichnung des Gutes (UN-Nummer)\\nB) Nummer zur Kennzeichnung der Gefahr\\nC) Fahrzeugkennzeichen",
-        "solution": "A) Nummer zur Kennzeichnung des Gutes (UN-Nummer) ✅\\nB) Nummer zur Kennzeichnung der Gefahr ❌\\nC) Fahrzeugkennzeichen ❌"
+        "answers": "A) Nummer zur Kennzeichnung des Gutes (UN-Nummer) \n B) Nummer zur Kennzeichnung der Gefahr \n C) Fahrzeugkennzeichen",
+        "solution": "A) Nummer zur Kennzeichnung des Gutes (UN-Nummer) ✅ \n B) Nummer zur Kennzeichnung der Gefahr ❌ \n C) Fahrzeugkennzeichen ❌"
       },
       {
         "question": "2.13 Wie oft ist in der Dienststelle eine Evakuierungsübung durchzuführen?",
-        "answers": "A) bei Bedarf\\nB) mindestens einmal jährlich\\nC) nach jedem Wechsel eines/einer Ortsbeauftragten",
-        "solution": "A) bei Bedarf ❌\\nB) mindestens einmal jährlich ✅\\nC) nach jedem Wechsel eines/einer Ortsbeauftragten ❌"
+        "answers": "A) bei Bedarf \n B) mindestens einmal jährlich \n C) nach jedem Wechsel eines/einer Ortsbeauftragten",
+        "solution": "A) bei Bedarf ❌ \n B) mindestens einmal jährlich ✅ \n C) nach jedem Wechsel eines/einer Ortsbeauftragten ❌"
       },
       {
         "question": "2.14 Was bedeutet die „3-A-Regel“ im Strahlenschutz?",
-        "answers": "A) Aufenthaltsdauer auf das Notwendigste beschränken\\nB) Abstand so groß wie möglich halten\\nC) Abschirmung so groß wie möglich einrichten",
-        "solution": "A) Aufenthaltsdauer auf das Notwendigste beschränken ✅\\nB) Abstand so groß wie möglich halten ✅\\nC) Abschirmung so groß wie möglich einrichten ✅"
+        "answers": "A) Aufenthaltsdauer auf das Notwendigste beschränken \n B) Abstand so groß wie möglich halten \n C) Abschirmung so groß wie möglich einrichten",
+        "solution": "A) Aufenthaltsdauer auf das Notwendigste beschränken ✅ \n B) Abstand so groß wie möglich halten ✅ \n C) Abschirmung so groß wie möglich einrichten ✅"
       },
       {
         "question": "2.15 Wovon können biologische Gefahren ausgehen?",
-        "answers": "A) Bakterien, Viren, Pilze, Algen\\nB) Toxine, z. B. Ricin, Botulinumtoxin, usw.\\nC) Flöhe, Fliegen, Mücken, Zecken, usw.",
-        "solution": "A) Bakterien, Viren, Pilze, Algen ✅\\nB) Toxine, z. B. Ricin, Botulinumtoxin, usw. ✅\\nC) Flöhe, Fliegen, Mücken, Zecken, usw. ✅"
+        "answers": "A) Bakterien, Viren, Pilze, Algen \n B) Toxine, z. B. Ricin, Botulinumtoxin, usw. \n C) Flöhe, Fliegen, Mücken, Zecken, usw.",
+        "solution": "A) Bakterien, Viren, Pilze, Algen ✅ \n B) Toxine, z. B. Ricin, Botulinumtoxin, usw. ✅ \n C) Flöhe, Fliegen, Mücken, Zecken, usw. ✅"
       },
       {
         "question": "2.16 Was versteht man unter Arbeitsschutz?",
-        "answers": "A) Fürsorge von Vorgesetzten gegenüber den ihnen unterstellten THW-Angehörigen\\nB) Erhaltung und Schutz des Arbeitsplatzes bei längerfristiger Erkrankung eines THW-Angehörigen\\nC) Selbstfürsorge der THW-Angehörigen im Rahmen ihrer Mitwirkungspflicht",
-        "solution": "A) Fürsorge von Vorgesetzten gegenüber den ihnen unterstellten THW-Angehörigen ✅\\nB) Erhaltung und Schutz des Arbeitsplatzes bei längerfristiger Erkrankung eines THW-Angehörigen ❌\\nC) Selbstfürsorge der THW-Angehörigen im Rahmen ihrer Mitwirkungspflicht ✅"
+        "answers": "A) Fürsorge von Vorgesetzten gegenüber den ihnen unterstellten THW-Angehörigen \n B) Erhaltung und Schutz des Arbeitsplatzes bei längerfristiger Erkrankung eines THW-Angehörigen \n C) Selbstfürsorge der THW-Angehörigen im Rahmen ihrer Mitwirkungspflicht",
+        "solution": "A) Fürsorge von Vorgesetzten gegenüber den ihnen unterstellten THW-Angehörigen ✅ \n B) Erhaltung und Schutz des Arbeitsplatzes bei längerfristiger Erkrankung eines THW-Angehörigen ❌ \n C) Selbstfürsorge der THW-Angehörigen im Rahmen ihrer Mitwirkungspflicht ✅"
       },
       {
         "question": "2.17 Wo kann ich Informationen über einen Gefahrstoff erhalten?",
-        "answers": "A) Sicherheitsdatenblatt\\nB) in der StAN\\nC) auf dem Etikett der Verpackung",
-        "solution": "A) Sicherheitsdatenblatt ✅\\nB) in der StAN ❌\\nC) auf dem Etikett der Verpackung ✅"
+        "answers": "A) Sicherheitsdatenblatt \n B) in der StAN \n C) auf dem Etikett der Verpackung",
+        "solution": "A) Sicherheitsdatenblatt ✅ \n B) in der StAN ❌ \n C) auf dem Etikett der Verpackung ✅"
       },
       {
         "question": "2.18 Wer ist für die Gefährdungsbeurteilung im Ortsverband verantwortlich?",
-        "answers": "A) Die Fachkraft für Arbeitssicherheit\\nB) Der/die Ortsbeauftragte\\nC) Der/die Schirrmeister/in",
-        "solution": "A) Die Fachkraft für Arbeitssicherheit ❌\\nB) Der/die Ortsbeauftragte ✅\\nC) Der/die Schirrmeister/in ❌"
+        "answers": "A) Die Fachkraft für Arbeitssicherheit \n B) Der/die Ortsbeauftragte \n C) Der/die Schirrmeister/in",
+        "solution": "A) Die Fachkraft für Arbeitssicherheit ❌ \n B) Der/die Ortsbeauftragte ✅ \n C) Der/die Schirrmeister/in ❌"
       },
       {
         "question": "2.19 Welche Impfungen müssen unter anderem für die Einsatzbefähigung nachgewiesen werden?",
-        "answers": "A) Tetanus\\nB) Tollwut\\nC) Hepatitis A und B",
-        "solution": "A) Tetanus ✅\\nB) Tollwut ❌\\nC) Hepatitis A und B ✅"
+        "answers": "A) Tetanus \n B) Tollwut \n C) Hepatitis A und B",
+        "solution": "A) Tetanus ✅ \n B) Tollwut ❌ \n C) Hepatitis A und B ✅"
       },
       {
         "question": "2.20 Was bedeutet „Prävention“ im Kontext von Arbeitssicherheit und Gesundheitsschutz?",
-        "answers": "A) Krebsvorsorge\\nB) Verhütung von Unfällen und Krankheiten\\nC) Versicherungsschutz",
-        "solution": "A) Krebsvorsorge ❌\\nB) Verhütung von Unfällen und Krankheiten ✅\\nC) Versicherungsschutz ❌"
+        "answers": "A) Krebsvorsorge \n B) Verhütung von Unfällen und Krankheiten \n C) Versicherungsschutz",
+        "solution": "A) Krebsvorsorge ❌ \n B) Verhütung von Unfällen und Krankheiten ✅ \n C) Versicherungsschutz ❌"
       },
       {
         "question": "2.21 Wie groß sind im Regelfall die Radien von Gefahren- und Absperrbereich um das Schadenobjekt?",
-        "answers": "A) 20 m und 30 m\\nB) 5 m und nach Bedarf\\nC) 50 m, 300 m und 500 m",
-        "solution": "A) 20 m und 30 m ❌\\nB) 5 m und nach Bedarf ❌\\nC) 50 m, 300 m und 500 m ✅"
+        "answers": "A) 20 m und 30 m \n B) 5 m und nach Bedarf \n C) 50 m, 300 m und 500 m",
+        "solution": "A) 20 m und 30 m ❌ \n B) 5 m und nach Bedarf ❌ \n C) 50 m, 300 m und 500 m ✅"
       },
       {
         "question": "2.22 Was bedeutet die „GAMS-Regel“?",
-        "answers": "A) Leiter/in der Regionalstelle informieren, Ausfahrt melden, Mitfahrende einweisen, schnell zum Einsatzort\\nB) Gefährdungsbeurteilung durchführen, Absuchen der Randtrümmer, Menschenrettung vorbereiten, Sanitätsdienst anfordern\\nC) Gefahren erkennen, Absperren, Menschenrettung, Spezialkräfte anfordern",
-        "solution": "A) Leiter/in der Regionalstelle informieren, Ausfahrt melden, Mitfahrende einweisen, schnell zum Einsatzort ❌\\nB) Gefährdungsbeurteilung durchführen, Absuchen der Randtrümmer, Menschenrettung vorbereiten, Sanitätsdienst anfordern ❌\\nC) Gefahren erkennen, Absperren, Menschenrettung, Spezialkräfte anfordern ✅"
+        "answers": "A) Leiter/in der Regionalstelle informieren, Ausfahrt melden, Mitfahrende einweisen, schnell zum Einsatzort \n B) Gefährdungsbeurteilung durchführen, Absuchen der Randtrümmer, Menschenrettung vorbereiten, Sanitätsdienst anfordern \n C) Gefahren erkennen, Absperren, Menschenrettung, Spezialkräfte anfordern",
+        "solution": "A) Leiter/in der Regionalstelle informieren, Ausfahrt melden, Mitfahrende einweisen, schnell zum Einsatzort ❌ \n B) Gefährdungsbeurteilung durchführen, Absuchen der Randtrümmer, Menschenrettung vorbereiten, Sanitätsdienst anfordern ❌ \n C) Gefahren erkennen, Absperren, Menschenrettung, Spezialkräfte anfordern ✅"
       },
       {
         "question": "2.23 Welche Aufgaben hat der/die Sicherheitsbeauftragte in Ihrem Ortsverband?",
-        "answers": "A) Berater/in in Fragen der Arbeitssicherheit und Unfallverhütung\\nB) Verantwortlich für Arbeitssicherheit und Unfallverhütung\\nC) Verantwortlich für die Erstellung der Dienst- und Ausbildungspläne",
-        "solution": "A) Berater/in in Fragen der Arbeitssicherheit und Unfallverhütung ✅\\nB) Verantwortlich für Arbeitssicherheit und Unfallverhütung ❌\\nC) Verantwortlich für die Erstellung der Dienst- und Ausbildungspläne ❌"
+        "answers": "A) Berater/in in Fragen der Arbeitssicherheit und Unfallverhütung \n B) Verantwortlich für Arbeitssicherheit und Unfallverhütung \n C) Verantwortlich für die Erstellung der Dienst- und Ausbildungspläne",
+        "solution": "A) Berater/in in Fragen der Arbeitssicherheit und Unfallverhütung ✅ \n B) Verantwortlich für Arbeitssicherheit und Unfallverhütung ❌ \n C) Verantwortlich für die Erstellung der Dienst- und Ausbildungspläne ❌"
       },
       {
         "question": "2.24 Wie muss ich mich im Einsatz bei Hitze verhalten?",
-        "answers": "A) Viel trinken\\nB) Pause in der Sonne\\nC) Pause im Schatten",
-        "solution": "A) Viel trinken ✅\\nB) Pause in der Sonne ❌\\nC) Pause im Schatten ✅"
+        "answers": "A) Viel trinken \n B) Pause in der Sonne \n C) Pause im Schatten",
+        "solution": "A) Viel trinken ✅ \n B) Pause in der Sonne ❌ \n C) Pause im Schatten ✅"
       },
       {
         "question": "2.25 Wie muss ich mich im Einsatz bei Kälte verhalten?",
-        "answers": "A) Multifunktionalen Einsatzanzug mit Fleecejacke tragen\\nB) Glühwein trinken\\nC) Warme, alkoholfreie Getränke trinken",
-        "solution": "A) Multifunktionalen Einsatzanzug mit Fleecejacke tragen ✅\\nB) Glühwein trinken ❌\\nC) Warme, alkoholfreie Getränke trinken ✅"
+        "answers": "A) Multifunktionalen Einsatzanzug mit Fleecejacke tragen \n B) Glühwein trinken \n C) Warme, alkoholfreie Getränke trinken",
+        "solution": "A) Multifunktionalen Einsatzanzug mit Fleecejacke tragen ✅ \n B) Glühwein trinken ❌ \n C) Warme, alkoholfreie Getränke trinken ✅"
       },
       {
         "question": "2.26 Wie muss ich mich bei einem Einsatz mit Regen verhalten?",
-        "answers": "A) Wenn die Kleidung durchnässt ist, trockene Kleidung anziehen\\nB) Nasse Kleidung nicht am Körper trocknen lassen (Erkältungsgefahr)\\nC) Pausen in trockenen Räumen abhalten und nasse Einsatzbekleidung trocknen",
-        "solution": "A) Wenn die Kleidung durchnässt ist, trockene Kleidung anziehen ✅\\nB) Nasse Kleidung nicht am Körper trocknen lassen (Erkältungsgefahr) ✅\\nC) Pausen in trockenen Räumen abhalten und nasse Einsatzbekleidung trocknen ✅"
+        "answers": "A) Wenn die Kleidung durchnässt ist, trockene Kleidung anziehen \n B) Nasse Kleidung nicht am Körper trocknen lassen (Erkältungsgefahr) \n C) Pausen in trockenen Räumen abhalten und nasse Einsatzbekleidung trocknen",
+        "solution": "A) Wenn die Kleidung durchnässt ist, trockene Kleidung anziehen ✅ \n B) Nasse Kleidung nicht am Körper trocknen lassen (Erkältungsgefahr) ✅ \n C) Pausen in trockenen Räumen abhalten und nasse Einsatzbekleidung trocknen ✅"
       },
       {
         "question": "2.27 Wer hat bei der Evakuierung einer Dienststelle dazu beizutragen, dass alle Personen das Gebäude verlassen haben und sich am Sammelplatz einfinden?",
-        "answers": "A) Nur der/die Evakuierungshelfer/in\\nB) Jede einzelne Person\\nC) Der/die Brandschutzhelfer/in und der/die Evakuierungshelfer/in",
-        "solution": "A) Nur der/die Evakuierungshelfer/in ❌\\nB) Jede einzelne Person ✅\\nC) Der/die Brandschutzhelfer/in und der/die Evakuierungshelfer/in ✅"
+        "answers": "A) Nur der/die Evakuierungshelfer/in \n B) Jede einzelne Person \n C) Der/die Brandschutzhelfer/in und der/die Evakuierungshelfer/in",
+        "solution": "A) Nur der/die Evakuierungshelfer/in ❌ \n B) Jede einzelne Person ✅ \n C) Der/die Brandschutzhelfer/in und der/die Evakuierungshelfer/in ✅"
       },
       {
         "question": "2.28 Was versteht man unter Arbeitsschutz?",
-        "answers": "A) Selbstfürsorge der THW-Angehörigen im Rahmen ihrer Mitwirkungspflicht\\nB) Fürsorge von Vorgesetzten gegenüber den ihnen unterstellten THW-Angehörigen\\nC) Maßnahmen, Mittel und Methoden zum Schutz der Beschäftigten vor arbeitsbedingten Sicherheits- und Gesundheitsgefährdungen",
-        "solution": "A) Selbstfürsorge der THW-Angehörigen im Rahmen ihrer Mitwirkungspflicht ✅\\nB) Fürsorge von Vorgesetzten gegenüber den ihnen unterstellten THW-Angehörigen ✅\\nC) Maßnahmen, Mittel und Methoden zum Schutz der Beschäftigten vor arbeitsbedingten Sicherheits- und Gesundheitsgefährdungen ✅"
+        "answers": "A) Selbstfürsorge der THW-Angehörigen im Rahmen ihrer Mitwirkungspflicht \n B) Fürsorge von Vorgesetzten gegenüber den ihnen unterstellten THW-Angehörigen \n C) Maßnahmen, Mittel und Methoden zum Schutz der Beschäftigten vor arbeitsbedingten Sicherheits- und Gesundheitsgefährdungen",
+        "solution": "A) Selbstfürsorge der THW-Angehörigen im Rahmen ihrer Mitwirkungspflicht ✅ \n B) Fürsorge von Vorgesetzten gegenüber den ihnen unterstellten THW-Angehörigen ✅ \n C) Maßnahmen, Mittel und Methoden zum Schutz der Beschäftigten vor arbeitsbedingten Sicherheits- und Gesundheitsgefährdungen ✅"
       },
       {
         "question": "2.29 Wer ist für die Gefährdungsbeurteilung im Ortsverband verantwortlich?",
-        "answers": "A) Die Fachkraft für Arbeitssicherheit\\nB) Der/die Schirrmeister/in\\nC) Der/die Ortsbeauftragte",
-        "solution": "A) Die Fachkraft für Arbeitssicherheit ❌\\nB) Der/die Schirrmeister/in ❌\\nC) Der/die Ortsbeauftragte ✅"
+        "answers": "A) Die Fachkraft für Arbeitssicherheit \n B) Der/die Schirrmeister/in \n C) Der/die Ortsbeauftragte",
+        "solution": "A) Die Fachkraft für Arbeitssicherheit ❌ \n B) Der/die Schirrmeister/in ❌ \n C) Der/die Ortsbeauftragte ✅"
       },
       {
         "question": "2.30 Was ist Gefahrgut?",
-        "answers": "A) Gefahrgut sind Stoffe und Gegenstände, von denen auf Grund ihrer Natur, ihrer Eigenschaften oder ihres Zustandes im Zusammenhang mit der Beförderung Gefahren ausgehen können.\\nB) Geld und wertvolle Antiquitäten\\nC) Getränke für die Einheiten",
-        "solution": "A) Gefahrgut sind Stoffe und Gegenstände, von denen auf Grund ihrer Natur, ihrer Eigenschaften oder ihres Zustandes im Zusammenhang mit der Beförderung Gefahren ausgehen können. ✅\\nB) Geld und wertvolle Antiquitäten ❌\\nC) Getränke für die Einheiten ❌"
+        "answers": "A) Gefahrgut sind Stoffe und Gegenstände, von denen auf Grund ihrer Natur, ihrer Eigenschaften oder ihres Zustandes im Zusammenhang mit der Beförderung Gefahren ausgehen können. \n B) Geld und wertvolle Antiquitäten \n C) Getränke für die Einheiten",
+        "solution": "A) Gefahrgut sind Stoffe und Gegenstände, von denen auf Grund ihrer Natur, ihrer Eigenschaften oder ihres Zustandes im Zusammenhang mit der Beförderung Gefahren ausgehen können. ✅ \n B) Geld und wertvolle Antiquitäten ❌ \n C) Getränke für die Einheiten ❌"
       },
       {
         "question": "2.31 Was sind Gefahrstoffe?",
-        "answers": "A) Gefahrstoffe sind Stoffe, die Helfern nur selten gefährlich werden können\\nB) Gefahrstoffe sind Stoffe, Zubereitungen und Erzeugnisse, die bestimmte gefährliche Eigenschaften aufweisen oder von denen chemisch- physikalische Gefahren ausgehen\\nC) Gefahrstoffe sind Stoffe, für die ein/e Helfer/in keine Schutzbekleidung benötigt",
-        "solution": "A) Gefahrstoffe sind Stoffe, die Helfern nur selten gefährlich werden können ❌\\nB) Gefahrstoffe sind Stoffe, Zubereitungen und Erzeugnisse, die bestimmte gefährliche Eigenschaften aufweisen oder von denen chemisch- physikalische Gefahren ausgehen ✅\\nC) Gefahrstoffe sind Stoffe, für die ein/e Helfer/in keine Schutzbekleidung benötigt ❌"
+        "answers": "A) Gefahrstoffe sind Stoffe, die Helfern nur selten gefährlich werden können \n B) Gefahrstoffe sind Stoffe, Zubereitungen und Erzeugnisse, die bestimmte gefährliche Eigenschaften aufweisen oder von denen chemisch- physikalische Gefahren ausgehen \n C) Gefahrstoffe sind Stoffe, für die ein/e Helfer/in keine Schutzbekleidung benötigt",
+        "solution": "A) Gefahrstoffe sind Stoffe, die Helfern nur selten gefährlich werden können ❌ \n B) Gefahrstoffe sind Stoffe, Zubereitungen und Erzeugnisse, die bestimmte gefährliche Eigenschaften aufweisen oder von denen chemisch- physikalische Gefahren ausgehen ✅ \n C) Gefahrstoffe sind Stoffe, für die ein/e Helfer/in keine Schutzbekleidung benötigt ❌"
       },
       {
         "question": "2.32 Welche Beförderungspapiere sind auf Anforderung durch den Fahrer eines GefahrguttransportLKWs vorzulegen?",
-        "answers": "A) Anschrift des Lieferanten, Beförderungsblätter, Telefonnummer der Spedition und Fahrzeugschein\\nB) UN­Nummer, Gefahrnummer, offizielle Benennung des Stoffes/Gegenstandes, Klasse des Gutes, Anzahl/Beschreibung Versandstücke, Gesamtmenge, Name und Anschrift des Absenders sowie des Empfängers, Unfallmerkblatt\\nC) Lieferschein, Unfallmerkblätter, Lebenslauf",
-        "solution": "A) Anschrift des Lieferanten, Beförderungsblätter, Telefonnummer der Spedition und Fahrzeugschein ❌\\nB) UN­Nummer, Gefahrnummer, offizielle Benennung des Stoffes/Gegenstandes, Klasse des Gutes, Anzahl/Beschreibung Versandstücke, Gesamtmenge, Name und Anschrift des Absenders sowie des Empfängers, Unfallmerkblatt ✅\\nC) Lieferschein, Unfallmerkblätter, Lebenslauf ❌"
+        "answers": "A) Anschrift des Lieferanten, Beförderungsblätter, Telefonnummer der Spedition und Fahrzeugschein \n B) UN­Nummer, Gefahrnummer, offizielle Benennung des Stoffes/Gegenstandes, Klasse des Gutes, Anzahl/Beschreibung Versandstücke, Gesamtmenge, Name und Anschrift des Absenders sowie des Empfängers, Unfallmerkblatt \n C) Lieferschein, Unfallmerkblätter, Lebenslauf",
+        "solution": "A) Anschrift des Lieferanten, Beförderungsblätter, Telefonnummer der Spedition und Fahrzeugschein ❌ \n B) UN­Nummer, Gefahrnummer, offizielle Benennung des Stoffes/Gegenstandes, Klasse des Gutes, Anzahl/Beschreibung Versandstücke, Gesamtmenge, Name und Anschrift des Absenders sowie des Empfängers, Unfallmerkblatt ✅ \n C) Lieferschein, Unfallmerkblätter, Lebenslauf ❌"
       },
       {
         "question": "2.33 Was sind biologische Gefahrstoffe?",
-        "answers": "A) Bakterien, Viren, Pilze, Algen\\nB) Toxine, z. B. Ricin, Botulinustoxin, usw.\\nC) Flöhe, Fliegen, Mücken, Zecken, usw.",
-        "solution": "A) Bakterien, Viren, Pilze, Algen ✅\\nB) Toxine, z. B. Ricin, Botulinustoxin, usw. ✅\\nC) Flöhe, Fliegen, Mücken, Zecken, usw. ✅"
+        "answers": "A) Bakterien, Viren, Pilze, Algen \n B) Toxine, z. B. Ricin, Botulinustoxin, usw. \n C) Flöhe, Fliegen, Mücken, Zecken, usw.",
+        "solution": "A) Bakterien, Viren, Pilze, Algen ✅ \n B) Toxine, z. B. Ricin, Botulinustoxin, usw. ✅ \n C) Flöhe, Fliegen, Mücken, Zecken, usw. ✅"
       },
       {
         "question": "2.34 Was sind Eigenschaften chemischer Gefahrstoffe gemäß Gefahrstoffverordnung?",
-        "answers": "A) Explosionsgefährlich, leicht Entzündlich, giftig, ätzend\\nB) Scharf, brennbar, irritierend, färbend\\nC) Brandfördernd, gesundheitsschädlich, sensibilisierend, umweltgefährlich",
-        "solution": "A) Explosionsgefährlich, leicht Entzündlich, giftig, ätzend ✅\\nB) Scharf, brennbar, irritierend, färbend ❌\\nC) Brandfördernd, gesundheitsschädlich, sensibilisierend, umweltgefährlich ✅"
+        "answers": "A) Explosionsgefährlich, leicht Entzündlich, giftig, ätzend \n B) Scharf, brennbar, irritierend, färbend \n C) Brandfördernd, gesundheitsschädlich, sensibilisierend, umweltgefährlich",
+        "solution": "A) Explosionsgefährlich, leicht Entzündlich, giftig, ätzend ✅ \n B) Scharf, brennbar, irritierend, färbend ❌ \n C) Brandfördernd, gesundheitsschädlich, sensibilisierend, umweltgefährlich ✅"
       },
       {
         "question": "2.35 Welche Angaben sind auf einem Gefahrstoffetikett zu finden?",
-        "answers": "A) Inhalt, Füllmenge, Preis, Lieferant\\nB) Exakte Bezeichnung des Inhalts, Inhaltsstoffe, Gefahrensymbole und Gefahrenbezeichnungen, ggf. Signalwort „Gefahr“ oder „Achtung“, H- und P-Sätze, Name, Anschrift und Telefonnummer des Herstellers oder Importeurs\\nC) Warnzeichen, Sicherheitszeichen, Inhaltsstoffe, Gefahrenklasse, UN-Nummer",
-        "solution": "A) Inhalt, Füllmenge, Preis, Lieferant ❌\\nB) Exakte Bezeichnung des Inhalts, Inhaltsstoffe, Gefahrensymbole und Gefahrenbezeichnungen, ggf. Signalwort „Gefahr“ oder „Achtung“, H- und P-Sätze, Name, Anschrift und Telefonnummer des Herstellers oder Importeurs ✅\\nC) Warnzeichen, Sicherheitszeichen, Inhaltsstoffe, Gefahrenklasse, UN-Nummer ❌"
+        "answers": "A) Inhalt, Füllmenge, Preis, Lieferant \n B) Exakte Bezeichnung des Inhalts, Inhaltsstoffe, Gefahrensymbole und Gefahrenbezeichnungen, ggf. Signalwort „Gefahr“ oder „Achtung“, H- und P-Sätze, Name, Anschrift und Telefonnummer des Herstellers oder Importeurs \n C) Warnzeichen, Sicherheitszeichen, Inhaltsstoffe, Gefahrenklasse, UN-Nummer",
+        "solution": "A) Inhalt, Füllmenge, Preis, Lieferant ❌ \n B) Exakte Bezeichnung des Inhalts, Inhaltsstoffe, Gefahrensymbole und Gefahrenbezeichnungen, ggf. Signalwort „Gefahr“ oder „Achtung“, H- und P-Sätze, Name, Anschrift und Telefonnummer des Herstellers oder Importeurs ✅ \n C) Warnzeichen, Sicherheitszeichen, Inhaltsstoffe, Gefahrenklasse, UN-Nummer ❌"
       },
       {
         "question": "2.36 Was sind hinsichtlich der Hygiene in jedem Einsatz zu beachten?",
-        "answers": "A) Im Gefahrenbereich nicht rauchen, essen und trinken\\nB) Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschließlich in angeordneten Bereichen des Absperrbereiches\\nC) Kontaminierte Einsatzbekleidung zum Essen, Trinken, Rauchen, Toilettengang ablegen und mindestens Hände waschen",
-        "solution": "A) Im Gefahrenbereich nicht rauchen, essen und trinken ✅\\nB) Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschließlich in angeordneten Bereichen des Absperrbereiches ✅\\nC) Kontaminierte Einsatzbekleidung zum Essen, Trinken, Rauchen, Toilettengang ablegen und mindestens Hände waschen ✅"
+        "answers": "A) Im Gefahrenbereich nicht rauchen, essen und trinken \n B) Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschließlich in angeordneten Bereichen des Absperrbereiches \n C) Kontaminierte Einsatzbekleidung zum Essen, Trinken, Rauchen, Toilettengang ablegen und mindestens Hände waschen",
+        "solution": "A) Im Gefahrenbereich nicht rauchen, essen und trinken ✅ \n B) Dekontamination, Waschen, Toilettengang, Ruhen usw. ausschließlich in angeordneten Bereichen des Absperrbereiches ✅ \n C) Kontaminierte Einsatzbekleidung zum Essen, Trinken, Rauchen, Toilettengang ablegen und mindestens Hände waschen ✅"
       },
       {
         "question": "2.37 Was ist hinsichtlich der Einsatznachbereitung zu beachten?",
-        "answers": "A) Gründlich dekontaminieren, waschen, duschen. Einsatzbekleidung fachgerecht reinigen (lassen)\\nB) Unwohlsein, Erkrankung, Verletzung melden. Ärztliche Überwachung bei besonderen Gefahren/ Vorkommnissen durchführen lassen\\nC) Angebote zur psycho-sozialen Nachsorge wahrnehmen",
-        "solution": "A) Gründlich dekontaminieren, waschen, duschen. Einsatzbekleidung fachgerecht reinigen (lassen) ✅\\nB) Unwohlsein, Erkrankung, Verletzung melden. Ärztliche Überwachung bei besonderen Gefahren/ Vorkommnissen durchführen lassen ✅\\nC) Angebote zur psycho-sozialen Nachsorge wahrnehmen ✅"
+        "answers": "A) Gründlich dekontaminieren, waschen, duschen. Einsatzbekleidung fachgerecht reinigen (lassen) \n B) Unwohlsein, Erkrankung, Verletzung melden. Ärztliche Überwachung bei besonderen Gefahren/ Vorkommnissen durchführen lassen \n C) Angebote zur psycho-sozialen Nachsorge wahrnehmen",
+        "solution": "A) Gründlich dekontaminieren, waschen, duschen. Einsatzbekleidung fachgerecht reinigen (lassen) ✅ \n B) Unwohlsein, Erkrankung, Verletzung melden. Ärztliche Überwachung bei besonderen Gefahren/ Vorkommnissen durchführen lassen ✅ \n C) Angebote zur psycho-sozialen Nachsorge wahrnehmen ✅"
       }
     ],
   "Arbeiten mit Leinen, Drahtseilen, Ketten, Rund- und Bandschlingen": [
     {
       "question": "3.1 Wie lang ist ein Sicherheitsseil?",
-      "answers": "A) 15 m\\nB) 30 m\\nC) 35 m",
-      "solution": "A) 15 m ❌\\nB) 30 m ✅\\nC) 35 m ❌"
+      "answers": "A) 15 m \n B) 30 m \n C) 35 m",
+      "solution": "A) 15 m ❌ \n B) 30 m ✅ \n C) 35 m ❌"
     },
     {
       "question": "3.2 Wie lang ist eine Arbeitsleine (nach StAN)?",
-      "answers": "A) 6,5 m / 15,0 m\\nB) 12,0 m / 25,0 m\\nC) 10,0 m / 20,0 m",
-      "solution": "A) 6,5 m / 15,0 m ❌\\nB) 12,0 m / 25,0 m ❌\\nC) 10,0 m / 20,0 m ✅"
+      "answers": "A) 6,5 m / 15,0 m \n B) 12,0 m / 25,0 m \n C) 10,0 m / 20,0 m",
+      "solution": "A) 6,5 m / 15,0 m ❌ \n B) 12,0 m / 25,0 m ❌ \n C) 10,0 m / 20,0 m ✅"
     },
     {
       "question": "3.3 Welche Leinen/Seile dürfen zum Sichern von Personen verwendet werden?",
-      "answers": "A) Sicherheitsseile\\nB) Arbeitsleinen\\nC) Jede Naturfaserleine",
-      "solution": "A) Sicherheitsseile ✅\\nB) Arbeitsleinen ❌\\nC) Jede Naturfaserleine ❌"
+      "answers": "A) Sicherheitsseile \n B) Arbeitsleinen \n C) Jede Naturfaserleine",
+      "solution": "A) Sicherheitsseile ✅ \n B) Arbeitsleinen ❌ \n C) Jede Naturfaserleine ❌"
     },
     {
       "question": "3.4 Wozu dürfen Sicherheitsseile eingesetzt werden?",
-      "answers": "A) Zur Absturzsicherung bei Verwendung eines mitlaufenden Auffanggerätes\\nB) Zum Ablassen und Hochziehen von Personen\\nC) Zum Anschlagen von Lasten",
-      "solution": "A) Zur Absturzsicherung bei Verwendung eines mitlaufenden Auffanggerätes ✅\\nB) Zum Ablassen und Hochziehen von Personen ✅\\nC) Zum Anschlagen von Lasten ❌"
+      "answers": "A) Zur Absturzsicherung bei Verwendung eines mitlaufenden Auffanggerätes \n B) Zum Ablassen und Hochziehen von Personen \n C) Zum Anschlagen von Lasten",
+      "solution": "A) Zur Absturzsicherung bei Verwendung eines mitlaufenden Auffanggerätes ✅ \n B) Zum Ablassen und Hochziehen von Personen ✅ \n C) Zum Anschlagen von Lasten ❌"
     },
     {
       "question": "3.5 Wozu dürfen Arbeitsleinen eingesetzt werden?",
-      "answers": "A) Zur Absturzsicherung\\nB) Zum Ablassen und Hochziehen von Personen\\nC) Zum Absperren oder Anschlagen von Lasten",
-      "solution": "A) Zur Absturzsicherung ❌\\nB) Zum Ablassen und Hochziehen von Personen ❌\\nC) Zum Absperren oder Anschlagen von Lasten ✅"
+      "answers": "A) Zur Absturzsicherung \n B) Zum Ablassen und Hochziehen von Personen \n C) Zum Absperren oder Anschlagen von Lasten",
+      "solution": "A) Zur Absturzsicherung ❌ \n B) Zum Ablassen und Hochziehen von Personen ❌ \n C) Zum Absperren oder Anschlagen von Lasten ✅"
     },
     {
       "question": "3.6 Worauf ist zu achten, wenn Leinen und Seile über Kanten geführt werden müssen?",
-      "answers": "A) Auf Gleitschutz\\nB) Auf Kantenschutz\\nC) Auf Leinen-/Seilschutz",
-      "solution": "A) Auf Gleitschutz ❌\\nB) Auf Kantenschutz ✅\\nC) Auf Leinen-/Seilschutz ✅"
+      "answers": "A) Auf Gleitschutz \n B) Auf Kantenschutz \n C) Auf Leinen-/Seilschutz",
+      "solution": "A) Auf Gleitschutz ❌ \n B) Auf Kantenschutz ✅ \n C) Auf Leinen-/Seilschutz ✅"
     },
     {
       "question": "3.7 Woran ist ein Sicherheitsseil eindeutig zu erkennen?",
-      "answers": "A) An der Farbe „grün“\\nB) An den Angaben des Herstelleretikettes\\nC) Am Durchmesser",
-      "solution": "A) An der Farbe „grün“ ❌\\nB) An den Angaben des Herstelleretikettes ✅\\nC) Am Durchmesser ❌"
+      "answers": "A) An der Farbe „grün“ \n B) An den Angaben des Herstelleretikettes \n C) Am Durchmesser",
+      "solution": "A) An der Farbe „grün“ ❌ \n B) An den Angaben des Herstelleretikettes ✅ \n C) Am Durchmesser ❌"
     },
     {
       "question": "3.8 Wie werden nasse Leinen und Seile nach ihrem Einsatz behandelt?",
-      "answers": "A) Aufschießen und auf die Heizung legen\\nB) Aufhängen und an der Luft trocknen\\nC) Aufhängen und in der Sonne trocknen",
-      "solution": "A) Aufschießen und auf die Heizung legen ❌\\nB) Aufhängen und an der Luft trocknen ✅\\nC) Aufhängen und in der Sonne trocknen ❌"
+      "answers": "A) Aufschießen und auf die Heizung legen \n B) Aufhängen und an der Luft trocknen \n C) Aufhängen und in der Sonne trocknen",
+      "solution": "A) Aufschießen und auf die Heizung legen ❌ \n B) Aufhängen und an der Luft trocknen ✅ \n C) Aufhängen und in der Sonne trocknen ❌"
     },
     {
       "question": "3.9 Wie lang muss nach Fertigstellung einer Leinenverbindung das Leinenende noch überstehen?",
-      "answers": "A) mindestens 5 x Leinendurchmesser\\nB) mindestens 10 x Leinendurchmesser\\nC) mindestens 30 x Leinendurchmesser",
-      "solution": "A) mindestens 5 x Leinendurchmesser ❌\\nB) mindestens 10 x Leinendurchmesser ✅\\nC) mindestens 30 x Leinendurchmesser ❌"
+      "answers": "A) mindestens 5 x Leinendurchmesser \n B) mindestens 10 x Leinendurchmesser \n C) mindestens 30 x Leinendurchmesser",
+      "solution": "A) mindestens 5 x Leinendurchmesser ❌ \n B) mindestens 10 x Leinendurchmesser ✅ \n C) mindestens 30 x Leinendurchmesser ❌"
     },
     {
       "question": "3.10 Mit welcher Verbindung werden Leinen gleichen Durchmessers verlängert?",
-      "answers": "A) Wickelbund\\nB) Mastwurf\\nC) Doppelstich",
-      "solution": "A) Wickelbund ❌\\nB) Mastwurf ❌\\nC) Doppelstich ✅"
+      "answers": "A) Wickelbund \n B) Mastwurf \n C) Doppelstich",
+      "solution": "A) Wickelbund ❌ \n B) Mastwurf ❌ \n C) Doppelstich ✅"
     },
     {
       "question": "3.11 Womit werden Lasten angeschlagen?",
-      "answers": "A) Rundschlingen\\nB) Sicherheitsseil\\nC) Ketten",
-      "solution": "A) Rundschlingen ✅\\nB) Sicherheitsseil ❌\\nC) Ketten ✅"
+      "answers": "A) Rundschlingen \n B) Sicherheitsseil \n C) Ketten",
+      "solution": "A) Rundschlingen ✅ \n B) Sicherheitsseil ❌ \n C) Ketten ✅"
     },
     {
       "question": "3.12 Mit welchem der aufgeführten Stiche/Bund wird eine Last angeschlagen?",
-      "answers": "A) Einfacher/doppelter Ankerstich\\nB) Mastwurf\\nC) Bockschnürbund",
-      "solution": "A) Einfacher/doppelter Ankerstich ✅\\nB) Mastwurf ✅\\nC) Bockschnürbund ❌"
+      "answers": "A) Einfacher/doppelter Ankerstich \n B) Mastwurf \n C) Bockschnürbund",
+      "solution": "A) Einfacher/doppelter Ankerstich ✅ \n B) Mastwurf ✅ \n C) Bockschnürbund ❌"
     },
     {
       "question": "3.13 Wie groß muss der Sicherheitsabstand bei unter Zug stehenden Drahtseilen mindestens sein?",
-      "answers": "A) Halbe Seillänge\\nB) Eineinhalbfache Seillänge\\nC) Zweifache Seillänge",
-      "solution": "A) Halbe Seillänge ❌\\nB) Eineinhalbfache Seillänge ✅\\nC) Zweifache Seillänge ❌"
+      "answers": "A) Halbe Seillänge \n B) Eineinhalbfache Seillänge \n C) Zweifache Seillänge",
+      "solution": "A) Halbe Seillänge ❌ \n B) Eineinhalbfache Seillänge ✅ \n C) Zweifache Seillänge ❌"
     },
     {
       "question": "3.14 Mit welchen Verbindungsmitteln werden Ketten verlängert?",
-      "answers": "A) Mit Drahtseilklemmen\\nB) Mit Schäkeln\\nC) Mit Knoten",
-      "solution": "A) Mit Drahtseilklemmen ❌\\nB) Mit Schäkeln ✅\\nC) Mit Knoten ❌"
+      "answers": "A) Mit Drahtseilklemmen \n B) Mit Schäkeln \n C) Mit Knoten",
+      "solution": "A) Mit Drahtseilklemmen ❌ \n B) Mit Schäkeln ✅ \n C) Mit Knoten ❌"
     },
     {
       "question": "3.15 Wozu dienen Bandschlingen?",
-      "answers": "A) Zum Retten von Personen\\nB) Zum Anschlagen von Lasten\\nC) Zur Ladungssicherung",
-      "solution": "A) Zum Retten von Personen ✅\\nB) Zum Anschlagen von Lasten ❌\\nC) Zur Ladungssicherung ❌"
+      "answers": "A) Zum Retten von Personen \n B) Zum Anschlagen von Lasten \n C) Zur Ladungssicherung",
+      "solution": "A) Zum Retten von Personen ✅ \n B) Zum Anschlagen von Lasten ❌ \n C) Zur Ladungssicherung ❌"
     },
     {
       "question": "3.16 Wozu dürfen Spanngurte verwendet werden?",
-      "answers": "A) Zur Rettung von Personen\\nB) Zur Ladungssicherung\\nC) Zum Anschlagen von Lasten",
-      "solution": "A) Zur Rettung von Personen ❌\\nB) Zur Ladungssicherung ✅\\nC) Zum Anschlagen von Lasten ❌"
+      "answers": "A) Zur Rettung von Personen \n B) Zur Ladungssicherung \n C) Zum Anschlagen von Lasten",
+      "solution": "A) Zur Rettung von Personen ❌ \n B) Zur Ladungssicherung ✅ \n C) Zum Anschlagen von Lasten ❌"
     },
     {
       "question": "3.17 Welche Aussagen über Arbeitsleinen sind korrekt?",
-      "answers": "A) Arbeitsleinen dürfen weder zur Sicherung noch zur Rettung von Personen eingesetzt werden\\nB) Arbeitsleinen dürfen zur Sicherung und Rettung von Personen eingesetzt werden\\nC) Arbeitsleinen sind Sicherheitsseile",
-      "solution": "A) Arbeitsleinen dürfen weder zur Sicherung noch zur Rettung von Personen eingesetzt werden ✅\\nB) Arbeitsleinen dürfen zur Sicherung und Rettung von Personen eingesetzt werden ❌\\nC) Arbeitsleinen sind Sicherheitsseile ❌"
+      "answers": "A) Arbeitsleinen dürfen weder zur Sicherung noch zur Rettung von Personen eingesetzt werden \n B) Arbeitsleinen dürfen zur Sicherung und Rettung von Personen eingesetzt werden \n C) Arbeitsleinen sind Sicherheitsseile",
+      "solution": "A) Arbeitsleinen dürfen weder zur Sicherung noch zur Rettung von Personen eingesetzt werden ✅ \n B) Arbeitsleinen dürfen zur Sicherung und Rettung von Personen eingesetzt werden ❌ \n C) Arbeitsleinen sind Sicherheitsseile ❌"
     },
     {
       "question": "3.18 Welche Aussagen über Spanngurte sind korrekt?",
-      "answers": "A) Spanngurte dürfen im THW als Ersatz für Leinen eingesetzt werden\\nB) Spanngurte werden grundsätzlich zur Ladungssicherung verwendet\\nC) Spanngurte dürfen zur Ladungssicherung nicht verwendet werden",
-      "solution": "A) Spanngurte dürfen im THW als Ersatz für Leinen eingesetzt werden ❌\\nB) Spanngurte werden grundsätzlich zur Ladungssicherung verwendet ✅\\nC) Spanngurte dürfen zur Ladungssicherung nicht verwendet werden ❌"
+      "answers": "A) Spanngurte dürfen im THW als Ersatz für Leinen eingesetzt werden \n B) Spanngurte werden grundsätzlich zur Ladungssicherung verwendet \n C) Spanngurte dürfen zur Ladungssicherung nicht verwendet werden",
+      "solution": "A) Spanngurte dürfen im THW als Ersatz für Leinen eingesetzt werden ❌ \n B) Spanngurte werden grundsätzlich zur Ladungssicherung verwendet ✅ \n C) Spanngurte dürfen zur Ladungssicherung nicht verwendet werden ❌"
     },
     {
       "question": "3.19 Welche Hinweise sind unter anderem auf Presshülsen von Drahtseilen gekennzeichnet?",
-      "answers": "A) Tragfähigkeit, DIN, Herstellerkennzeichen, Herstelldatum\\nB) Tragfähigkeit, Länge, Materialart, Ablegereife\\nC) Tragfähigkeit, DIN, Herstelldatum, Ablegereife",
-      "solution": "A) Tragfähigkeit, DIN, Herstellerkennzeichen, Herstelldatum ✅\\nB) Tragfähigkeit, Länge, Materialart, Ablegereife ❌\\nC) Tragfähigkeit, DIN, Herstelldatum, Ablegereife ❌"
+      "answers": "A) Tragfähigkeit, DIN, Herstellerkennzeichen, Herstelldatum \n B) Tragfähigkeit, Länge, Materialart, Ablegereife \n C) Tragfähigkeit, DIN, Herstelldatum, Ablegereife",
+      "solution": "A) Tragfähigkeit, DIN, Herstellerkennzeichen, Herstelldatum ✅ \n B) Tragfähigkeit, Länge, Materialart, Ablegereife ❌ \n C) Tragfähigkeit, DIN, Herstelldatum, Ablegereife ❌"
     },
     {
       "question": "3.20 Welche Kriterien sind für die Ablegereife von Drahtseilen wichtig?",
-      "answers": "A) Kontakt mit Schmierölen\\nB) Drahtbrüche\\nC) Knicke",
-      "solution": "A) Kontakt mit Schmierölen ❌\\nB) Drahtbrüche ✅\\nC) Knicke ✅"
+      "answers": "A) Kontakt mit Schmierölen \n B) Drahtbrüche \n C) Knicke",
+      "solution": "A) Kontakt mit Schmierölen ❌ \n B) Drahtbrüche ✅ \n C) Knicke ✅"
     },
     {
       "question": "3.21 Welche Aussagen über Ketten sind korrekt?",
-      "answers": "A) Anschlagketten sind mind. Meterweise mittels Kettenstempel des Herstellers markiert\\nB) Weist eine Kette keinen Anhänger auf, ist sie der Güteklasse 2 zuzuordnen\\nC) Bei eckigen Kettenanhängern lässt sich anhand der Anzahl der Ecken die Güteklasse bestimmen",
-      "solution": "A) Anschlagketten sind mind. Meterweise mittels Kettenstempel des Herstellers markiert ✅\\nB) Weist eine Kette keinen Anhänger auf, ist sie der Güteklasse 2 zuzuordnen ✅\\nC) Bei eckigen Kettenanhängern lässt sich anhand der Anzahl der Ecken die Güteklasse bestimmen ✅"
+      "answers": "A) Anschlagketten sind mind. Meterweise mittels Kettenstempel des Herstellers markiert \n B) Weist eine Kette keinen Anhänger auf, ist sie der Güteklasse 2 zuzuordnen \n C) Bei eckigen Kettenanhängern lässt sich anhand der Anzahl der Ecken die Güteklasse bestimmen",
+      "solution": "A) Anschlagketten sind mind. Meterweise mittels Kettenstempel des Herstellers markiert ✅ \n B) Weist eine Kette keinen Anhänger auf, ist sie der Güteklasse 2 zuzuordnen ✅ \n C) Bei eckigen Kettenanhängern lässt sich anhand der Anzahl der Ecken die Güteklasse bestimmen ✅"
     },
     {
       "question": "3.22 Welche Kriterien sind für die Ablegereife von Rundschlinge wichtig?",
-      "answers": "A) Fehlende oder unleserliche Kennung\\nB) Schäden durch Einwirkung aggressiver Stoffe\\nC) Verformung durch z. B. Wärmeeinfluss",
-      "solution": "A) Fehlende oder unleserliche Kennung ✅\\nB) Schäden durch Einwirkung aggressiver Stoffe ✅\\nC) Verformung durch z. B. Wärmeeinfluss ✅"
+      "answers": "A) Fehlende oder unleserliche Kennung \n B) Schäden durch Einwirkung aggressiver Stoffe \n C) Verformung durch z. B. Wärmeeinfluss",
+      "solution": "A) Fehlende oder unleserliche Kennung ✅ \n B) Schäden durch Einwirkung aggressiver Stoffe ✅ \n C) Verformung durch z. B. Wärmeeinfluss ✅"
     },
     {
       "question": "3.23 Welche Unfallverhütungsvorschriften sind beim Einsatz von Bandschlingen zu beachten?",
-      "answers": "A) Kennzeichnung überprüfen\\nB) Hitzeeinwirkung vermeiden\\nC) Prüfzyklus: 12 Monate",
-      "solution": "A) Kennzeichnung überprüfen ✅\\nB) Hitzeeinwirkung vermeiden ✅\\nC) Prüfzyklus: 12 Monate ✅"
+      "answers": "A) Kennzeichnung überprüfen \n B) Hitzeeinwirkung vermeiden \n C) Prüfzyklus: 12 Monate",
+      "solution": "A) Kennzeichnung überprüfen ✅ \n B) Hitzeeinwirkung vermeiden ✅ \n C) Prüfzyklus: 12 Monate ✅"
     }
   ],
   "Arbeiten mit Leitern": [
     {
       "question": "4.1 Wie viel Grad Neigung soll der Anstellwinkel von Leitern betragen?",
-      "answers": "A) Ca. 45° - 55°\\nB) Ca. 65° - 75°\\nC) Ca. 90°",
-      "solution": "A) Ca. 45° - 55° ❌\\nB) Ca. 65° - 75° ✅\\nC) Ca. 90° ❌"
+      "answers": "A) Ca. 45° - 55° \n B) Ca. 65° - 75° \n C) Ca. 90°",
+      "solution": "A) Ca. 45° - 55° ❌ \n B) Ca. 65° - 75° ✅ \n C) Ca. 90° ❌"
     },
     {
       "question": "4.2 Wohin greifen die Hände beim Besteigen von Leitern?",
-      "answers": "A) Um die Sprossen\\nB) Um die Holme\\nC) Um die Sprossen oder um die Holme",
-      "solution": "A) Um die Sprossen ✅\\nB) Um die Holme ❌\\nC) Um die Sprossen oder um die Holme ❌"
+      "answers": "A) Um die Sprossen \n B) Um die Holme \n C) Um die Sprossen oder um die Holme",
+      "solution": "A) Um die Sprossen ✅ \n B) Um die Holme ❌ \n C) Um die Sprossen oder um die Holme ❌"
     },
     {
       "question": "4.3 Welche Arten von Leitersicherungen können angewandt werden?",
-      "answers": "A) Nur Fußpunktsicherung\\nB) Nur Kopfpunktsicherung\\nC) Fuß- und/oder Kopfpunktsicherung",
-      "solution": "A) Nur Fußpunktsicherung ❌\\nB) Nur Kopfpunktsicherung ❌\\nC) Fuß- und/oder Kopfpunktsicherung ✅"
+      "answers": "A) Nur Fußpunktsicherung \n B) Nur Kopfpunktsicherung \n C) Fuß- und/oder Kopfpunktsicherung",
+      "solution": "A) Nur Fußpunktsicherung ❌ \n B) Nur Kopfpunktsicherung ❌ \n C) Fuß- und/oder Kopfpunktsicherung ✅"
     },
     {
       "question": "4.4 Wozu dürfen THW-Kombinationsleitern eingesetzt werden?",
-      "answers": "A) Zum Überwinden von Gräben\\nB) Zum längerfristigen Arbeiten in großen Höhen\\nC) Zum Besteigen von Objekten",
-      "solution": "A) Zum Überwinden von Gräben ❌\\nB) Zum längerfristigen Arbeiten in großen Höhen ❌\\nC) Zum Besteigen von Objekten ✅"
+      "answers": "A) Zum Überwinden von Gräben \n B) Zum längerfristigen Arbeiten in großen Höhen \n C) Zum Besteigen von Objekten",
+      "solution": "A) Zum Überwinden von Gräben ❌ \n B) Zum längerfristigen Arbeiten in großen Höhen ❌ \n C) Zum Besteigen von Objekten ✅"
     },
     {
       "question": "4.5 Dürfen Steckleitern zum Überwinden von Gräben und Spalten eingesetzt werden?",
-      "answers": "A) Ja\\nB) Nein\\nC) Nur kurzfristig",
-      "solution": "A) Ja ✅\\nB) Nein ❌\\nC) Nur kurzfristig ❌"
+      "answers": "A) Ja \n B) Nein \n C) Nur kurzfristig",
+      "solution": "A) Ja ✅ \n B) Nein ❌ \n C) Nur kurzfristig ❌"
     }
   ],
   "Stromerzeugung und Beleuchtung": [
     {
       "question": "5.1 Auf welche Netzspannung sind die Flutlichtleuchten ausgelegt?",
-      "answers": "A) 12 Volt\\nB) 24 Volt\\nC) 230 Volt",
-      "solution": "A) 12 Volt ❌\\nB) 24 Volt ❌\\nC) 230 Volt ✅"
+      "answers": "A) 12 Volt \n B) 24 Volt \n C) 230 Volt",
+      "solution": "A) 12 Volt ❌ \n B) 24 Volt ❌ \n C) 230 Volt ✅"
     },
     {
       "question": "5.2 Mit welcher Leistung darf der tragbare Stromerzeuger in der Regel maximal belastet werden?",
-      "answers": "A) 100 % der Nennleistung\\nB) 80 % der Nennleistung\\nC) 30 % der Nennleistung",
-      "solution": "A) 100 % der Nennleistung ❌\\nB) 80 % der Nennleistung ✅\\nC) 30 % der Nennleistung ❌"
+      "answers": "A) 100 % der Nennleistung \n B) 80 % der Nennleistung \n C) 30 % der Nennleistung",
+      "solution": "A) 100 % der Nennleistung ❌ \n B) 80 % der Nennleistung ✅ \n C) 30 % der Nennleistung ❌"
     },
     {
       "question": "5.3 Dürfen an einem tragbaren 8 kVA-Stromerzeuger eine Tauchpumpe mit 4 kW und eine mit 3 kW gleichzeitig betrieben werden?",
-      "answers": "A) Ja\\nB) Nein\\nC) Für maximal 10 Minuten",
-      "solution": "A) Ja ❌\\nB) Nein ✅\\nC) Für maximal 10 Minuten ❌"
+      "answers": "A) Ja \n B) Nein \n C) Für maximal 10 Minuten",
+      "solution": "A) Ja ❌ \n B) Nein ✅ \n C) Für maximal 10 Minuten ❌"
     },
     {
       "question": "5.4 Wie wird der tragbare Stromerzeuger gestartet?",
-      "answers": "A) Durch Seilzug\\nB) Durch Anlasser\\nC) Durch Fremdstarten",
-      "solution": "A) Durch Seilzug ✅\\nB) Durch Anlasser ✅\\nC) Durch Fremdstarten ❌"
+      "answers": "A) Durch Seilzug \n B) Durch Anlasser \n C) Durch Fremdstarten",
+      "solution": "A) Durch Seilzug ✅ \n B) Durch Anlasser ✅ \n C) Durch Fremdstarten ❌"
     },
     {
       "question": "5.5 In welcher Stellung muss der Chokezug bei Inbetriebnahme des kalten Motors des tragbaren Stromerzeugers ohne Startautomatik stehen?",
-      "answers": "A) Herausgezogen\\nB) Eingeschoben\\nC) Mittelstellung",
-      "solution": "A) Herausgezogen ✅\\nB) Eingeschoben ❌\\nC) Mittelstellung ❌"
+      "answers": "A) Herausgezogen \n B) Eingeschoben \n C) Mittelstellung",
+      "solution": "A) Herausgezogen ✅ \n B) Eingeschoben ❌ \n C) Mittelstellung ❌"
     },
     {
       "question": "5.6 Mit welchem Betriebsstoff wird der Motor des mobilen Stromerzeugers betrieben?",
-      "answers": "A) Kraftstoff-/Öl-Gemisch\\nB) Diesel\\nC) Benzin",
-      "solution": "A) Kraftstoff-/Öl-Gemisch ❌\\nB) Diesel ❌\\nC) Benzin ✅"
+      "answers": "A) Kraftstoff-/Öl-Gemisch \n B) Diesel \n C) Benzin",
+      "solution": "A) Kraftstoff-/Öl-Gemisch ❌ \n B) Diesel ❌ \n C) Benzin ✅"
     },
     {
       "question": "5.7 Was ist beim Nachtanken eines tragbaren Stromerzeugers (ohne Fremdbetankungsgerät) zu beachten?",
-      "answers": "A) Motor muss abgestellt sein\\nB) Motor kann laufen\\nC) Benzinhahn muss geschlossen sein",
-      "solution": "A) Motor muss abgestellt sein ✅\\nB) Motor kann laufen ❌\\nC) Benzinhahn muss geschlossen sein ✅"
+      "answers": "A) Motor muss abgestellt sein \n B) Motor kann laufen \n C) Benzinhahn muss geschlossen sein",
+      "solution": "A) Motor muss abgestellt sein ✅ \n B) Motor kann laufen ❌ \n C) Benzinhahn muss geschlossen sein ✅"
     },
     {
       "question": "5.8 Wie wird der Motor des tragbaren Stromerzeugers stillgesetzt (für kurzzeitige Außerbetriebnahme)?",
-      "answers": "A) Zündkabel abziehen\\nB) Luftklappe schließen\\nC) Unterbrecherknopf betätigen",
-      "solution": "A) Zündkabel abziehen ❌\\nB) Luftklappe schließen ❌\\nC) Unterbrecherknopf betätigen ✅"
+      "answers": "A) Zündkabel abziehen \n B) Luftklappe schließen \n C) Unterbrecherknopf betätigen",
+      "solution": "A) Zündkabel abziehen ❌ \n B) Luftklappe schließen ❌ \n C) Unterbrecherknopf betätigen ✅"
     },
     {
       "question": "5.9 Was ist beim Aufbau einer Flutlichtleuchte mit Stativ zu beachten?",
-      "answers": "A) Möglichst blendungsfrei aufstellen\\nB) Sicheren Stand des Stativs herstellen\\nC) Leitung stolperfrei verlegen",
-      "solution": "A) Möglichst blendungsfrei aufstellen ✅\\nB) Sicheren Stand des Stativs herstellen ✅\\nC) Leitung stolperfrei verlegen ✅"
+      "answers": "A) Möglichst blendungsfrei aufstellen \n B) Sicheren Stand des Stativs herstellen \n C) Leitung stolperfrei verlegen",
+      "solution": "A) Möglichst blendungsfrei aufstellen ✅ \n B) Sicheren Stand des Stativs herstellen ✅ \n C) Leitung stolperfrei verlegen ✅"
     },
     {
       "question": "5.10 Was ist beim Rückbau einer Flutlichtleuchte mit Stativ zu beachten?",
-      "answers": "A) Leuchtmittel muss abkühlen\\nB) Spannungsfreiheit herstellen\\nC) Sicherungsautomat auf Stellung „Aus“ stellen",
-      "solution": "A) Leuchtmittel muss abkühlen ✅\\nB) Spannungsfreiheit herstellen ✅\\nC) Sicherungsautomat auf Stellung „Aus“ stellen ❌"
+      "answers": "A) Leuchtmittel muss abkühlen \n B) Spannungsfreiheit herstellen \n C) Sicherungsautomat auf Stellung „Aus“ stellen",
+      "solution": "A) Leuchtmittel muss abkühlen ✅ \n B) Spannungsfreiheit herstellen ✅ \n C) Sicherungsautomat auf Stellung „Aus“ stellen ❌"
     },
     {
       "question": "5.11 Wie groß darf die maximale Länge einer Leitung an tragbaren Stromerzeugern sein?",
-      "answers": "A) 200 m\\nB) 300 m\\nC) 100 m",
-      "solution": "A) 200 m ❌\\nB) 300 m ❌\\nC) 100 m ✅"
+      "answers": "A) 200 m \n B) 300 m \n C) 100 m",
+      "solution": "A) 200 m ❌ \n B) 300 m ❌ \n C) 100 m ✅"
     },
     {
       "question": "5.12 Zur StAN THW-Beleuchtungsausstattung der Bergungsgruppe gehören…",
-      "answers": "A) Dreibeinstativ\\nB) Leuchtkörper 500 W\\nC) Scheinwerferbrücke",
-      "solution": "A) Dreibeinstativ ✅\\nB) Leuchtkörper 500 W ❌\\nC) Scheinwerferbrücke ✅"
+      "answers": "A) Dreibeinstativ \n B) Leuchtkörper 500 W \n C) Scheinwerferbrücke",
+      "solution": "A) Dreibeinstativ ✅ \n B) Leuchtkörper 500 W ❌ \n C) Scheinwerferbrücke ✅"
     },
     {
       "question": "5.13 Welche besonderen Absicherungsmaßnahmen sind beim Verlegen elektrischer Leitungen über Verkehrswegen zu ergreifen?",
-      "answers": "A) Kabelbrücken sind nur auf Straßen außerhalb geschlossener Ortschaften zu verlegen. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen\\nB) Kabelbrücken sind nur auf Straßen innerhalb geschlossener Ortschaft zu verlegen. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen\\nC) Kabelbrücken sind so zu verlege, dass Fahrzeuge verschiedener Spurbreite (PKW / LKW) die Leitung queren können. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen",
-      "solution": "A) Kabelbrücken sind nur auf Straßen außerhalb geschlossener Ortschaften zu verlegen. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen ❌\\nB) Kabelbrücken sind nur auf Straßen innerhalb geschlossener Ortschaft zu verlegen. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen ❌\\nC) Kabelbrücken sind so zu verlege, dass Fahrzeuge verschiedener Spurbreite (PKW / LKW) die Leitung queren können. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen ✅"
+      "answers": "A) Kabelbrücken sind nur auf Straßen außerhalb geschlossener Ortschaften zu verlegen. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen \n B) Kabelbrücken sind nur auf Straßen innerhalb geschlossener Ortschaft zu verlegen. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen \n C) Kabelbrücken sind so zu verlege, dass Fahrzeuge verschiedener Spurbreite (PKW / LKW) die Leitung queren können. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen",
+      "solution": "A) Kabelbrücken sind nur auf Straßen außerhalb geschlossener Ortschaften zu verlegen. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen ❌ \n B) Kabelbrücken sind nur auf Straßen innerhalb geschlossener Ortschaft zu verlegen. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen ❌ \n C) Kabelbrücken sind so zu verlege, dass Fahrzeuge verschiedener Spurbreite (PKW / LKW) die Leitung queren können. Eine zusätzliche Absicherung durch Verkehrsleitkegel, Warndreieck oder Blitzleuchten wird empfohlen ✅"
     },
     {
       "question": "5.14 Welche Aussagen über die Verlegung von elektrischen Leitungen sind korrekt?",
-      "answers": "A) Elektrische Leitungen werden vom Verbraucher zum Stromerzeugerausgelegt\\nB) Elektrische Leitungen werden stolperfrei in Buchten verlegt\\nC) Elektrische Leitungen werden vom Stromerzeuger zum Verbraucher ausgelegt",
-      "solution": "A) Elektrische Leitungen werden vom Verbraucher zum Stromerzeugerausgelegt ✅\\nB) Elektrische Leitungen werden stolperfrei in Buchten verlegt ✅\\nC) Elektrische Leitungen werden vom Stromerzeuger zum Verbraucher ausgelegt ❌"
+      "answers": "A) Elektrische Leitungen werden vom Verbraucher zum Stromerzeugerausgelegt \n B) Elektrische Leitungen werden stolperfrei in Buchten verlegt \n C) Elektrische Leitungen werden vom Stromerzeuger zum Verbraucher ausgelegt",
+      "solution": "A) Elektrische Leitungen werden vom Verbraucher zum Stromerzeugerausgelegt ✅ \n B) Elektrische Leitungen werden stolperfrei in Buchten verlegt ✅ \n C) Elektrische Leitungen werden vom Stromerzeuger zum Verbraucher ausgelegt ❌"
     },
     {
       "question": "5.15 Beim Arbeiten mit einem Stromerzeuger kommt es zu einem technischen Defekt, bei dem eine Einsatzkraft einen Stromschlag bekommt. Was ist zu tun?",
-      "answers": "A) Eine umgehende Vorstellung beim Arzt ist erforderlich\\nB) Wenn die Person keine Beschwerden hat, sind keine Maßnahmen erforderlich\\nC) Der Rettungsdienst ist mit dem Hinweis „Stromunfall“ zu alarmieren",
-      "solution": "A) Eine umgehende Vorstellung beim Arzt ist erforderlich ✅\\nB) Wenn die Person keine Beschwerden hat, sind keine Maßnahmen erforderlich ❌\\nC) Der Rettungsdienst ist mit dem Hinweis „Stromunfall“ zu alarmieren ✅"
+      "answers": "A) Eine umgehende Vorstellung beim Arzt ist erforderlich \n B) Wenn die Person keine Beschwerden hat, sind keine Maßnahmen erforderlich \n C) Der Rettungsdienst ist mit dem Hinweis „Stromunfall“ zu alarmieren",
+      "solution": "A) Eine umgehende Vorstellung beim Arzt ist erforderlich ✅ \n B) Wenn die Person keine Beschwerden hat, sind keine Maßnahmen erforderlich ❌ \n C) Der Rettungsdienst ist mit dem Hinweis „Stromunfall“ zu alarmieren ✅"
     }
   ],
   
     "Metall-, Holz- und Steinbearbeitung": [
       {
         "question": "6.1 Welche der aufgeführten Werkzeuge sind Holzbearbeitungswerkzeuge?",
-        "answers": "A) Zugmesser\\nB) Spitzmeißel\\nC) Stangen-Schlangenbohrer",
-        "solution": "A) Zugmesser ✅\\nB) Spitzmeißel ❌\\nC) Stangen-Schlangenbohrer ✅"
+        "answers": "A) Zugmesser \n B) Spitzmeißel \n C) Stangen-Schlangenbohrer",
+        "solution": "A) Zugmesser ✅ \n B) Spitzmeißel ❌ \n C) Stangen-Schlangenbohrer ✅"
       },
       {
         "question": "6.2 Wozu dient das Zugmesser?",
-        "answers": "A) Zum Entrinden\\nB) Zum Entgraten von Metall\\nC) Zum Ablängen von Holz",
-        "solution": "A) Zum Entrinden ✅\\nB) Zum Entgraten von Metall ❌\\nC) Zum Ablängen von Holz ❌"
+        "answers": "A) Zum Entrinden \n B) Zum Entgraten von Metall \n C) Zum Ablängen von Holz",
+        "solution": "A) Zum Entrinden ✅ \n B) Zum Entgraten von Metall ❌ \n C) Zum Ablängen von Holz ❌"
       },
       {
         "question": "6.3 Worauf müssen Sie beim Umgang mit Holzbearbeitungsgeräten achten?",
-        "answers": "A) Auf festen Sitz der Stiele\\nB) Auf ausreichende Schneidfähigkeit\\nC) Auf ausreichenden Sicherheitsabstand zum/zur nächsten Helfer/in",
-        "solution": "A) Auf festen Sitz der Stiele ✅\\nB) Auf ausreichende Schneidfähigkeit ✅\\nC) Auf ausreichenden Sicherheitsabstand zum/zur nächsten Helfer/in ✅"
+        "answers": "A) Auf festen Sitz der Stiele \n B) Auf ausreichende Schneidfähigkeit \n C) Auf ausreichenden Sicherheitsabstand zum/zur nächsten Helfer/in",
+        "solution": "A) Auf festen Sitz der Stiele ✅ \n B) Auf ausreichende Schneidfähigkeit ✅ \n C) Auf ausreichenden Sicherheitsabstand zum/zur nächsten Helfer/in ✅"
       },
       {
         "question": "6.4 Wie lang soll die Spitze eines Holzpfahles sein?",
-        "answers": "A) Ca. einfacher Durchmesser des Pfahles\\nB) Ca. zweifacher Durchmesser des Pfahles\\nC) Ca. dreifacher Durchmesser des Pfahles",
-        "solution": "A) Ca. einfacher Durchmesser des Pfahles ❌\\nB) Ca. zweifacher Durchmesser des Pfahles ✅\\nC) Ca. dreifacher Durchmesser des Pfahles ❌"
+        "answers": "A) Ca. einfacher Durchmesser des Pfahles \n B) Ca. zweifacher Durchmesser des Pfahles \n C) Ca. dreifacher Durchmesser des Pfahles",
+        "solution": "A) Ca. einfacher Durchmesser des Pfahles ❌ \n B) Ca. zweifacher Durchmesser des Pfahles ✅ \n C) Ca. dreifacher Durchmesser des Pfahles ❌"
       },
       {
         "question": "6.5 An welchem Ende eines Holzpfahles erfolgt das Anspitzen?",
-        "answers": "A) Am Zopfende\\nB) Am Stammende\\nC) Am Stamm- oder Zopfende",
-        "solution": "A) Am Zopfende ✅\\nB) Am Stammende ❌\\nC) Am Stamm- oder Zopfende ❌"
+        "answers": "A) Am Zopfende \n B) Am Stammende \n C) Am Stamm- oder Zopfende",
+        "solution": "A) Am Zopfende ✅ \n B) Am Stammende ❌ \n C) Am Stamm- oder Zopfende ❌"
       },
       {
         "question": "6.6 Wie wird eine Bauklammer in Holz geschlagen?",
-        "answers": "A) Durch wechselseitige Schläge über den rechtwinklig abgebogenen Spitzen\\nB) Durch Schläge auf die Mitte des Flach- oder Rundstahls\\nC) Durch wechselseitige Schläge auf die Mitte und die rechtwinklig abgebogenen Spitzen",
-        "solution": "A) Durch wechselseitige Schläge über den rechtwinklig abgebogenen Spitzen ✅\\nB) Durch Schläge auf die Mitte des Flach- oder Rundstahls ❌\\nC) Durch wechselseitige Schläge auf die Mitte und die rechtwinklig abgebogenen Spitzen ❌"
+        "answers": "A) Durch wechselseitige Schläge über den rechtwinklig abgebogenen Spitzen \n B) Durch Schläge auf die Mitte des Flach- oder Rundstahls \n C) Durch wechselseitige Schläge auf die Mitte und die rechtwinklig abgebogenen Spitzen",
+        "solution": "A) Durch wechselseitige Schläge über den rechtwinklig abgebogenen Spitzen ✅ \n B) Durch Schläge auf die Mitte des Flach- oder Rundstahls ❌ \n C) Durch wechselseitige Schläge auf die Mitte und die rechtwinklig abgebogenen Spitzen ❌"
       },
       {
         "question": "6.7 Wie lang muss die Überblattung in Längsrichtung bei einer Holzverbindung sein?",
-        "answers": "A) Einfache Höhe (1 x h)\\nB) Zweifache Höhe (2 x h)\\nC) Halbe Höhe (0,5 x h)",
-        "solution": "A) Einfache Höhe (1 x h) ❌\\nB) Zweifache Höhe (2 x h) ✅\\nC) Halbe Höhe (0,5 x h) ❌"
+        "answers": "A) Einfache Höhe (1 x h) \n B) Zweifache Höhe (2 x h) \n C) Halbe Höhe (0,5 x h)",
+        "solution": "A) Einfache Höhe (1 x h) ❌ \n B) Zweifache Höhe (2 x h) ✅ \n C) Halbe Höhe (0,5 x h) ❌"
       },
       {
         "question": "6.8 Welche Handschuhe dürfen auf keinen Fall bei der Steinbearbeitung getragen werden?",
-        "answers": "A) Hitzeschutzhandschuhe\\nB) Gummihandschuhe\\nC) Lederschutzhandschuhe (Stulpe) oder Einsatzhandschuhe",
-        "solution": "A) Hitzeschutzhandschuhe ✅\\nB) Gummihandschuhe ✅\\nC) Lederschutzhandschuhe (Stulpe) oder Einsatzhandschuhe ❌"
+        "answers": "A) Hitzeschutzhandschuhe \n B) Gummihandschuhe \n C) Lederschutzhandschuhe (Stulpe) oder Einsatzhandschuhe",
+        "solution": "A) Hitzeschutzhandschuhe ✅ \n B) Gummihandschuhe ✅ \n C) Lederschutzhandschuhe (Stulpe) oder Einsatzhandschuhe ❌"
       },
       {
         "question": "6.9 Welche zusätzliche Schutzausrüstung ist (neben dem Handschutz) beim Arbeiten mit Fäustel und Meißel unbedingt zu tragen?",
-        "answers": "A) Schweißbrille\\nB) Schutzbrille\\nC) Lederschürze",
-        "solution": "A) Schweißbrille ❌\\nB) Schutzbrille ✅\\nC) Lederschürze ❌"
+        "answers": "A) Schweißbrille \n B) Schutzbrille \n C) Lederschürze",
+        "solution": "A) Schweißbrille ❌ \n B) Schutzbrille ✅ \n C) Lederschürze ❌"
       },
       {
         "question": "6.10 Worauf ist bei der Verwendung von Hämmern zu achten?",
-        "answers": "A) Auf festen Sitz von Stiel und Keil\\nB) Der Stiel muss lackiert sein\\nC) Das Hammergewicht muss den Vorschriften entsprechen",
-        "solution": "A) Auf festen Sitz von Stiel und Keil ✅\\nB) Der Stiel muss lackiert sein ❌\\nC) Das Hammergewicht muss den Vorschriften entsprechen ❌"
+        "answers": "A) Auf festen Sitz von Stiel und Keil \n B) Der Stiel muss lackiert sein \n C) Das Hammergewicht muss den Vorschriften entsprechen",
+        "solution": "A) Auf festen Sitz von Stiel und Keil ✅ \n B) Der Stiel muss lackiert sein ❌ \n C) Das Hammergewicht muss den Vorschriften entsprechen ❌"
       },
       {
         "question": "6.11 Wie löst man festsitzende Meißel?",
-        "answers": "A) Mit dem Stechbeitel\\nB) Mit der Hydropresse\\nC) Durch leichte seitliche Schläge",
-        "solution": "A) Mit dem Stechbeitel ❌\\nB) Mit der Hydropresse ❌\\nC) Durch leichte seitliche Schläge ✅"
+        "answers": "A) Mit dem Stechbeitel \n B) Mit der Hydropresse \n C) Durch leichte seitliche Schläge",
+        "solution": "A) Mit dem Stechbeitel ❌ \n B) Mit der Hydropresse ❌ \n C) Durch leichte seitliche Schläge ✅"
       },
       {
         "question": "6.12 Welche Gefahr entsteht durch einen „Bart“ am Meißelkopf?",
-        "answers": "A) Abrutschen des Hammers\\nB) Verletzungen durch Absplittern des Bartes\\nC) Bruch des Meißels",
-        "solution": "A) Abrutschen des Hammers ❌\\nB) Verletzungen durch Absplittern des Bartes ✅\\nC) Bruch des Meißels ❌"
+        "answers": "A) Abrutschen des Hammers \n B) Verletzungen durch Absplittern des Bartes \n C) Bruch des Meißels",
+        "solution": "A) Abrutschen des Hammers ❌ \n B) Verletzungen durch Absplittern des Bartes ✅ \n C) Bruch des Meißels ❌"
       },
       {
         "question": "6.13 Welche Werkzeuge können zum Anfertigen eines Mauerdurchbruchs von Hand benutzt werden?",
-        "answers": "A) Klöpfel und Stechbeitel\\nB) Fäustel und Flach- oder Spitzsteinmeißel\\nC) Stangen-Schlangenbohrer",
-        "solution": "A) Klöpfel und Stechbeitel ❌\\nB) Fäustel und Flach- oder Spitzsteinmeißel ✅\\nC) Stangen-Schlangenbohrer ❌"
+        "answers": "A) Klöpfel und Stechbeitel \n B) Fäustel und Flach- oder Spitzsteinmeißel \n C) Stangen-Schlangenbohrer",
+        "solution": "A) Klöpfel und Stechbeitel ❌ \n B) Fäustel und Flach- oder Spitzsteinmeißel ✅ \n C) Stangen-Schlangenbohrer ❌"
       },
       {
         "question": "6.14 Was ist vor Ablegen des Elektro- Trennschleifers unbedingt zu beachten?",
-        "answers": "A) Netzstecker herausziehen\\nB) Stillstand der Trennscheibe abwarten\\nC) Leitungsführung beachten",
-        "solution": "A) Netzstecker herausziehen ❌\\nB) Stillstand der Trennscheibe abwarten ✅\\nC) Leitungsführung beachten ✅"
+        "answers": "A) Netzstecker herausziehen \n B) Stillstand der Trennscheibe abwarten \n C) Leitungsführung beachten",
+        "solution": "A) Netzstecker herausziehen ❌ \n B) Stillstand der Trennscheibe abwarten ✅ \n C) Leitungsführung beachten ✅"
       },
       {
         "question": "6.15 Was ist beim Standortwechsel mit dem Elektro-Trennschleifer zu beachten?",
-        "answers": "A) Finger nicht am Ein-/Ausschalter halten\\nB) Vorher Trennscheibe ausbauen\\nC) Gerät ausschalten; Stillstand der Trennscheibe abwarten",
-        "solution": "A) Finger nicht am Ein-/Ausschalter halten ✅\\nB) Vorher Trennscheibe ausbauen ❌\\nC) Gerät ausschalten; Stillstand der Trennscheibe abwarten ✅"
+        "answers": "A) Finger nicht am Ein-/Ausschalter halten \n B) Vorher Trennscheibe ausbauen \n C) Gerät ausschalten; Stillstand der Trennscheibe abwarten",
+        "solution": "A) Finger nicht am Ein-/Ausschalter halten ✅ \n B) Vorher Trennscheibe ausbauen ❌ \n C) Gerät ausschalten; Stillstand der Trennscheibe abwarten ✅"
       },
       {
         "question": "6.16 Wann ist der Trenn-/ Schleifscheibenschutz richtig eingestellt?",
-        "answers": "A) Wenn die Werkstoffpartikel von Benutzer/in und Gerät weggelenkt werden\\nB) Wenn der Trenn-/ Schleifscheibenschutz mit der Öffnung nach oben zeigt\\nC) Wenn der Trenn-/ Schleifscheibenschutz mit der Öffnung nach unten zeigt",
-        "solution": "A) Wenn die Werkstoffpartikel von Benutzer/in und Gerät weggelenkt werden ✅\\nB) Wenn der Trenn-/ Schleifscheibenschutz mit der Öffnung nach oben zeigt ❌\\nC) Wenn der Trenn-/ Schleifscheibenschutz mit der Öffnung nach unten zeigt ❌"
+        "answers": "A) Wenn die Werkstoffpartikel von Benutzer/in und Gerät weggelenkt werden \n B) Wenn der Trenn-/ Schleifscheibenschutz mit der Öffnung nach oben zeigt \n C) Wenn der Trenn-/ Schleifscheibenschutz mit der Öffnung nach unten zeigt",
+        "solution": "A) Wenn die Werkstoffpartikel von Benutzer/in und Gerät weggelenkt werden ✅ \n B) Wenn der Trenn-/ Schleifscheibenschutz mit der Öffnung nach oben zeigt ❌ \n C) Wenn der Trenn-/ Schleifscheibenschutz mit der Öffnung nach unten zeigt ❌"
       },
       {
         "question": "6.17 Welche Härte muss der Werkstoff eines Werkzeuges für Metallbearbeitung gegenüber dem zu bearbeitenden Werkstoff besitzen?",
-        "answers": "A) Härter\\nB) Gleich hart\\nC) Weicher",
-        "solution": "A) Härter ✅\\nB) Gleich hart ❌\\nC) Weicher ❌"
+        "answers": "A) Härter \n B) Gleich hart \n C) Weicher",
+        "solution": "A) Härter ✅ \n B) Gleich hart ❌ \n C) Weicher ❌"
       },
       {
         "question": "6.18 Mit welchem Werkzeug werden Blechkanten und Rohre entgratet?",
-        "answers": "A) Mit der Feile\\nB) Mit dem Meißel\\nC) Mit der Handblechschere",
-        "solution": "A) Mit der Feile ✅\\nB) Mit dem Meißel ❌\\nC) Mit der Handblechschere ❌"
+        "answers": "A) Mit der Feile \n B) Mit dem Meißel \n C) Mit der Handblechschere",
+        "solution": "A) Mit der Feile ✅ \n B) Mit dem Meißel ❌ \n C) Mit der Handblechschere ❌"
       },
       {
         "question": "6.19 Welches Werkzeug kann zum Durchtrennen eines Gussrohres verwendet werden?",
-        "answers": "A) Trennschleifer\\nB) Motorkettensäge\\nC) Bügelsäge",
-        "solution": "A) Trennschleifer ✅\\nB) Motorkettensäge ❌\\nC) Bügelsäge ❌"
+        "answers": "A) Trennschleifer \n B) Motorkettensäge \n C) Bügelsäge",
+        "solution": "A) Trennschleifer ✅ \n B) Motorkettensäge ❌ \n C) Bügelsäge ❌"
       },
       {
         "question": "6.20 Mit welcher Umdrehungszahl der Trennscheibe sind Trennschleifer an das Werkstück anzusetzen?",
-        "answers": "A) Bei Stillstand\\nB) Bei Anlaufdrehzahl\\nC) Bei Höchstdrehzahl",
-        "solution": "A) Bei Stillstand ❌\\nB) Bei Anlaufdrehzahl ❌\\nC) Bei Höchstdrehzahl ✅"
+        "answers": "A) Bei Stillstand \n B) Bei Anlaufdrehzahl \n C) Bei Höchstdrehzahl",
+        "solution": "A) Bei Stillstand ❌ \n B) Bei Anlaufdrehzahl ❌ \n C) Bei Höchstdrehzahl ✅"
       },
       {
         "question": "6.21 Mit welcher Trennscheibe darf Aluminium durchtrennt werden?",
-        "answers": "A) Kunstharztrennscheibe Metall\\nB) Kunstharztrennscheibe Asphalt\\nC) Kunstharztrennscheibe Stein",
-        "solution": "A) Kunstharztrennscheibe Metall ❌\\nB) Kunstharztrennscheibe Asphalt ✅\\nC) Kunstharztrennscheibe Stein ❌"
+        "answers": "A) Kunstharztrennscheibe Metall \n B) Kunstharztrennscheibe Asphalt \n C) Kunstharztrennscheibe Stein",
+        "solution": "A) Kunstharztrennscheibe Metall ❌ \n B) Kunstharztrennscheibe Asphalt ✅ \n C) Kunstharztrennscheibe Stein ❌"
       },
       {
         "question": "6.22 Welche Schutzausstattung muss beim Gebrauch des Trennschleifers (neben dem Handschutz) unbedingt getragen werden?",
-        "answers": "A) Lederschürze, Gürtel\\nB) Gummistiefel, Schnittschutzhose\\nC) Schutzbrille, Schutzhelm, Lederschürze, Gehörschutz",
-        "solution": "A) Lederschürze, Gürtel ❌\\nB) Gummistiefel, Schnittschutzhose ❌\\nC) Schutzbrille, Schutzhelm, Lederschürze, Gehörschutz ✅"
+        "answers": "A) Lederschürze, Gürtel \n B) Gummistiefel, Schnittschutzhose \n C) Schutzbrille, Schutzhelm, Lederschürze, Gehörschutz",
+        "solution": "A) Lederschürze, Gürtel ❌ \n B) Gummistiefel, Schnittschutzhose ❌ \n C) Schutzbrille, Schutzhelm, Lederschürze, Gehörschutz ✅"
       },
       {
         "question": "6.23 Welche der folgenden Aussagen im Bezug auf Feilen sind zutreffend?",
-        "answers": "A) Feilen sollten vor jedem Gebrauch geölt werden\\nB) Es gibt verschiedene Hiebarten bei Feilen\\nC) Feilen dürfen nur mit speziellen Feilenbürsten gereinigt werden",
-        "solution": "A) Feilen sollten vor jedem Gebrauch geölt werden ❌\\nB) Es gibt verschiedene Hiebarten bei Feilen ✅\\nC) Feilen dürfen nur mit speziellen Feilenbürsten gereinigt werden ✅"
+        "answers": "A) Feilen sollten vor jedem Gebrauch geölt werden \n B) Es gibt verschiedene Hiebarten bei Feilen \n C) Feilen dürfen nur mit speziellen Feilenbürsten gereinigt werden",
+        "solution": "A) Feilen sollten vor jedem Gebrauch geölt werden ❌ \n B) Es gibt verschiedene Hiebarten bei Feilen ✅ \n C) Feilen dürfen nur mit speziellen Feilenbürsten gereinigt werden ✅"
       },
       {
         "question": "6.24 Wie lange ist eine Kunstharztrennscheibe haltbar?",
-        "answers": "A) 3 Jahre\\nB) 5 Jahre\\nC) Die Trennscheibe ist unbegrenzt haltbar",
-        "solution": "A) 3 Jahre ✅\\nB) 5 Jahre ❌\\nC) Die Trennscheibe ist unbegrenzt haltbar ❌"
+        "answers": "A) 3 Jahre \n B) 5 Jahre \n C) Die Trennscheibe ist unbegrenzt haltbar",
+        "solution": "A) 3 Jahre ✅ \n B) 5 Jahre ❌ \n C) Die Trennscheibe ist unbegrenzt haltbar ❌"
       },
       {
         "question": "6.25 Welche der folgenden Aussagen im Bezug auf Maschinen sind korrekt?",
-        "answers": "A) Bei der Benutzung von Maschinen, bei denen Funkenflug zu erwarten ist, muss Löschmittel bereitgestellt werden\\nB) Elektrisch betriebene Geräte zur Metallbearbeitung dürfen nur an einer Steckdose betrieben werden, nicht an SEA oder NEA\\nC) Für die Säbelsäge gibt es verschiedene Sägeblätter für verschiedene Materialien",
-        "solution": "A) Bei der Benutzung von Maschinen, bei denen Funkenflug zu erwarten ist, muss Löschmittel bereitgestellt werden ✅\\nB) Elektrisch betriebene Geräte zur Metallbearbeitung dürfen nur an einer Steckdose betrieben werden, nicht an SEA oder NEA ❌\\nC) Für die Säbelsäge gibt es verschiedene Sägeblätter für verschiedene Materialien ✅"
+        "answers": "A) Bei der Benutzung von Maschinen, bei denen Funkenflug zu erwarten ist, muss Löschmittel bereitgestellt werden \n B) Elektrisch betriebene Geräte zur Metallbearbeitung dürfen nur an einer Steckdose betrieben werden, nicht an SEA oder NEA \n C) Für die Säbelsäge gibt es verschiedene Sägeblätter für verschiedene Materialien",
+        "solution": "A) Bei der Benutzung von Maschinen, bei denen Funkenflug zu erwarten ist, muss Löschmittel bereitgestellt werden ✅ \n B) Elektrisch betriebene Geräte zur Metallbearbeitung dürfen nur an einer Steckdose betrieben werden, nicht an SEA oder NEA ❌ \n C) Für die Säbelsäge gibt es verschiedene Sägeblätter für verschiedene Materialien ✅"
       },
       {
         "question": "6.26 Welche Schutzausstattung ist beim Durchtrennen eines Betonteils mit dem Trennschleifer u. a. zu tragen?",
-        "answers": "A) Staubschutzmaske\\nB) Hitzeschutzanzug\\nC) Augenschutz",
-        "solution": "A) Staubschutzmaske ✅\\nB) Hitzeschutzanzug ❌\\nC) Augenschutz ✅"
+        "answers": "A) Staubschutzmaske \n B) Hitzeschutzanzug \n C) Augenschutz",
+        "solution": "A) Staubschutzmaske ✅ \n B) Hitzeschutzanzug ❌ \n C) Augenschutz ✅"
       },
       {
         "question": "6.27 Mit welchen Maschinen können Steine und Beton bearbeitet werden?",
-        "answers": "A) Säbelsäge\\nB) Bohr- und Aufbrechhammer\\nC) Trennschleifer mit Verbrennungsmotor",
-        "solution": "A) Säbelsäge ❌\\nB) Bohr- und Aufbrechhammer ✅\\nC) Trennschleifer mit Verbrennungsmotor ✅"
+        "answers": "A) Säbelsäge \n B) Bohr- und Aufbrechhammer \n C) Trennschleifer mit Verbrennungsmotor",
+        "solution": "A) Säbelsäge ❌ \n B) Bohr- und Aufbrechhammer ✅ \n C) Trennschleifer mit Verbrennungsmotor ✅"
       }
     ],
     "Bewegen von Lasten": [
         {
           "question": "7.1 Welches Material darf als „Hebeldrehpunkt“ bei der Verwendung der Brechstange nicht verwendet werden?",
-          "answers": "A) Ziegelsteine\\nB) Hohlblocksteine\\nC) Holz",
-          "solution": "A) Ziegelsteine ✅\\nB) Hohlblocksteine ✅\\nC) Holz ❌"
+          "answers": "A) Ziegelsteine \n B) Hohlblocksteine \n C) Holz",
+          "solution": "A) Ziegelsteine ✅ \n B) Hohlblocksteine ✅ \n C) Holz ❌"
         },
         {
           "question": "7.2 Was ist unter dem Begriff „Lose Rolle“ zu verstehen?",
-          "answers": "A) Querriegel zur Befestigung von Stropps\\nB) Kloben (Rolle) an Festpunkt angeschlagen\\nC) Kloben (Rolle) an Last angeschlagen",
-          "solution": "A) Querriegel zur Befestigung von Stropps ❌\\nB) Kloben (Rolle) an Festpunkt angeschlagen ❌\\nC) Kloben (Rolle) an Last angeschlagen ✅"
+          "answers": "A) Querriegel zur Befestigung von Stropps \n B) Kloben (Rolle) an Festpunkt angeschlagen \n C) Kloben (Rolle) an Last angeschlagen",
+          "solution": "A) Querriegel zur Befestigung von Stropps ❌ \n B) Kloben (Rolle) an Festpunkt angeschlagen ❌ \n C) Kloben (Rolle) an Last angeschlagen ✅"
         },
         {
           "question": "7.3 Was ist beim Anheben von Lasten zu beachten?",
-          "answers": "A) Seilhaken nach dem Anschlagen der Last sichern\\nB) Mit den Händen nicht unter die Last greifen\\nC) Ständiges Beobachten der anzuhebenden Last",
-          "solution": "A) Seilhaken nach dem Anschlagen der Last sichern ✅\\nB) Mit den Händen nicht unter die Last greifen ✅\\nC) Ständiges Beobachten der anzuhebenden Last ✅"
+          "answers": "A) Seilhaken nach dem Anschlagen der Last sichern \n B) Mit den Händen nicht unter die Last greifen \n C) Ständiges Beobachten der anzuhebenden Last",
+          "solution": "A) Seilhaken nach dem Anschlagen der Last sichern ✅ \n B) Mit den Händen nicht unter die Last greifen ✅ \n C) Ständiges Beobachten der anzuhebenden Last ✅"
         },
         {
           "question": "7.4 Über welche Druck-, Kraft-, Hebezeuge verfügt die Bergungsgruppe?",
-          "answers": "A) Brechstange\\nB) Hebe- und Pressgerät\\nC) Hebekissen",
-          "solution": "A) Brechstange ✅\\nB) Hebe- und Pressgerät ✅\\nC) Hebekissen ✅"
+          "answers": "A) Brechstange \n B) Hebe- und Pressgerät \n C) Hebekissen",
+          "solution": "A) Brechstange ✅ \n B) Hebe- und Pressgerät ✅ \n C) Hebekissen ✅"
         },
         {
           "question": "7.5 An welchem Druck-, Kraft-, Hebezeug kann ein Schnellstopp durchgeführt werden?",
-          "answers": "A) Am Hebekissen\\nB) Am Zuggerät\\nC) Am Hebe- und Pressgerät",
-          "solution": "A) Am Hebekissen ❌\\nB) Am Zuggerät ❌\\nC) Am Hebe- und Pressgerät ✅"
+          "answers": "A) Am Hebekissen \n B) Am Zuggerät \n C) Am Hebe- und Pressgerät",
+          "solution": "A) Am Hebekissen ❌ \n B) Am Zuggerät ❌ \n C) Am Hebe- und Pressgerät ✅"
         },
         {
           "question": "7.6 An welchem Gerät befinden sich Höchstdruckschläuche?",
-          "answers": "A) Am Brennschneidgerät\\nB) Am Hebe- und Pressgerät\\nC) Am Rettungsgerätesatz Schere/Spreizer",
-          "solution": "A) Am Brennschneidgerät ❌\\nB) Am Hebe- und Pressgerät ✅\\nC) Am Rettungsgerätesatz Schere/Spreizer ✅"
+          "answers": "A) Am Brennschneidgerät \n B) Am Hebe- und Pressgerät \n C) Am Rettungsgerätesatz Schere/Spreizer",
+          "solution": "A) Am Brennschneidgerät ❌ \n B) Am Hebe- und Pressgerät ✅ \n C) Am Rettungsgerätesatz Schere/Spreizer ✅"
         },
         {
           "question": "7.7 Welches der genannten Geräte ist kein Zugkraft-Hebezeug?",
-          "answers": "A) Brechstange\\nB) Zuggerät\\nC) Hydraulischer Spreizer",
-          "solution": "A) Brechstange ✅\\nB) Zuggerät ❌\\nC) Hydraulischer Spreizer ❌"
+          "answers": "A) Brechstange \n B) Zuggerät \n C) Hydraulischer Spreizer",
+          "solution": "A) Brechstange ✅ \n B) Zuggerät ❌ \n C) Hydraulischer Spreizer ❌"
         },
         {
           "question": "7.8 Welche Zugkraft hat das Zuggerät der Bergungsgruppe im direkten Zug?",
-          "answers": "A) 15/16 kN\\nB) 20/25 kN\\nC) 60/70 kN",
-          "solution": "A) 15/16 kN ✅\\nB) 20/25 kN ❌\\nC) 60/70 kN ❌"
+          "answers": "A) 15/16 kN \n B) 20/25 kN \n C) 60/70 kN",
+          "solution": "A) 15/16 kN ✅ \n B) 20/25 kN ❌ \n C) 60/70 kN ❌"
         },
         {
           "question": "7.9 Bei welcher Überbelastung scheren die Scherstifte des Zuggerätes ab?",
-          "answers": "A) 0 - 10 %\\nB) 25 - 50 %\\nC) 1",
-          "solution": "A) 0 - 10 % ❌\\nB) 25 - 50 % ✅\\nC) 1 ❌"
+          "answers": "A) 0 - 10 % \n B) 25 - 50 % \n C) 1",
+          "solution": "A) 0 - 10 % ❌ \n B) 25 - 50 % ✅ \n C) 1 ❌"
         },
         {
           "question": "7.10 Wofür darf der Klappkloben (32 kN) aus der Bergungsgruppe verwendet werden?",
-          "answers": "A) Arbeiten mit der Seilwinde\\nB) Anheben von Lasten bis 32 kN\\nC) Arbeiten mit dem Zuggerät",
-          "solution": "A) Arbeiten mit der Seilwinde ✅\\nB) Anheben von Lasten bis 32 kN ✅\\nC) Arbeiten mit dem Zuggerät ✅"
+          "answers": "A) Arbeiten mit der Seilwinde \n B) Anheben von Lasten bis 32 kN \n C) Arbeiten mit dem Zuggerät",
+          "solution": "A) Arbeiten mit der Seilwinde ✅ \n B) Anheben von Lasten bis 32 kN ✅ \n C) Arbeiten mit dem Zuggerät ✅"
         },
         {
           "question": "7.11 Wo sind die Scherstifte im Zuggerät eingebaut?",
-          "answers": "A) Am Rückzughebel\\nB) An den Klemmbacken\\nC) Am Vorschubhebel",
-          "solution": "A) Am Rückzughebel ❌\\nB) An den Klemmbacken ❌\\nC) Am Vorschubhebel ✅"
+          "answers": "A) Am Rückzughebel \n B) An den Klemmbacken \n C) Am Vorschubhebel",
+          "solution": "A) Am Rückzughebel ❌ \n B) An den Klemmbacken ❌ \n C) Am Vorschubhebel ✅"
         },
         {
           "question": "7.12 Was ist nach dem Abscheren der Scherstifte beim Zuggerät zu tun?",
-          "answers": "A) Das Gerät kann nicht repariert werden\\nB) Die Scherstifte sind auszutauschen\\nC) Das Gerät an den Hersteller einschicken",
-          "solution": "A) Das Gerät kann nicht repariert werden ❌\\nB) Die Scherstifte sind auszutauschen ✅\\nC) Das Gerät an den Hersteller einschicken ❌"
+          "answers": "A) Das Gerät kann nicht repariert werden \n B) Die Scherstifte sind auszutauschen \n C) Das Gerät an den Hersteller einschicken",
+          "solution": "A) Das Gerät kann nicht repariert werden ❌ \n B) Die Scherstifte sind auszutauschen ✅ \n C) Das Gerät an den Hersteller einschicken ❌"
         },
         {
           "question": "7.13 Wie viele Hebekissen des Hebekissensatzes der Bergungsgruppe dürfen beim Anheben einer Last übereinander gelegt werden?",
-          "answers": "A) 2 Hebekissen\\nB) 4 Hebekissen\\nC) Beliebig viele",
-          "solution": "A) 2 Hebekissen ✅\\nB) 4 Hebekissen ❌\\nC) Beliebig viele ❌"
+          "answers": "A) 2 Hebekissen \n B) 4 Hebekissen \n C) Beliebig viele",
+          "solution": "A) 2 Hebekissen ✅ \n B) 4 Hebekissen ❌ \n C) Beliebig viele ❌"
         },
         {
           "question": "7.14 Wie weit muss das Hebekissen mit seiner Fläche mindestens unter die Last eingeschoben werden?",
-          "answers": "A) 2/3 bzw. 3/4 der Kissenfläche\\nB) 1/2 bzw. 1/3 der Kissenfläche\\nC) 1/3 bzw. 4/5 der Kissenfläche",
-          "solution": "A) 2/3 bzw. 3/4 der Kissenfläche ✅\\nB) 1/2 bzw. 1/3 der Kissenfläche ❌\\nC) 1/3 bzw. 4/5 der Kissenfläche ❌"
+          "answers": "A) 2/3 bzw. 3/4 der Kissenfläche \n B) 1/2 bzw. 1/3 der Kissenfläche \n C) 1/3 bzw. 4/5 der Kissenfläche",
+          "solution": "A) 2/3 bzw. 3/4 der Kissenfläche ✅ \n B) 1/2 bzw. 1/3 der Kissenfläche ❌ \n C) 1/3 bzw. 4/5 der Kissenfläche ❌"
         },
         {
           "question": "7.15 Welche Druckluftquellen dürfen mit dem Steuerorgan des Hebekissens verbunden werden?",
-          "answers": "A) Kfz-Reifenfüllanlage\\nB) Kfz-Zweikreisbremssystem\\nC) Druckluftflaschen 200/300 bar",
-          "solution": "A) Kfz-Reifenfüllanlage ✅\\nB) Kfz-Zweikreisbremssystem ✅\\nC) Druckluftflaschen 200/300 bar ✅"
+          "answers": "A) Kfz-Reifenfüllanlage \n B) Kfz-Zweikreisbremssystem \n C) Druckluftflaschen 200/300 bar",
+          "solution": "A) Kfz-Reifenfüllanlage ✅ \n B) Kfz-Zweikreisbremssystem ✅ \n C) Druckluftflaschen 200/300 bar ✅"
         },
         {
           "question": "7.16 Was ist bei Verwendung einer Druckluftanlage zum Betrieb der Hebekissen zu beachten?",
-          "answers": "A) Es muss ein Ölabscheider verwendet werden\\nB) Bei Betriebsdruck über 12 bar ist ein Druckminderer zu verwenden\\nC) Druckluftanlagen über 12 bar dürfen nicht verwendet werden",
-          "solution": "A) Es muss ein Ölabscheider verwendet werden ✅\\nB) Bei Betriebsdruck über 12 bar ist ein Druckminderer zu verwenden ✅\\nC) Druckluftanlagen über 12 bar dürfen nicht verwendet werden ❌"
+          "answers": "A) Es muss ein Ölabscheider verwendet werden \n B) Bei Betriebsdruck über 12 bar ist ein Druckminderer zu verwenden \n C) Druckluftanlagen über 12 bar dürfen nicht verwendet werden",
+          "solution": "A) Es muss ein Ölabscheider verwendet werden ✅ \n B) Bei Betriebsdruck über 12 bar ist ein Druckminderer zu verwenden ✅ \n C) Druckluftanlagen über 12 bar dürfen nicht verwendet werden ❌"
         },
         {
           "question": "7.17 Wie viele Personen dürfen gleichzeitig unter einer schwebenden Last stehen?",
-          "answers": "A) Eine Person\\nB) Nur Führungskräfte\\nC) Keine Personen",
-          "solution": "A) Eine Person ❌\\nB) Nur Führungskräfte ❌\\nC) Keine Personen ✅"
+          "answers": "A) Eine Person \n B) Nur Führungskräfte \n C) Keine Personen",
+          "solution": "A) Eine Person ❌ \n B) Nur Führungskräfte ❌ \n C) Keine Personen ✅"
         },
         {
           "question": "7.18 Welche Sicherheitsmaßnahmen sind beim Arbeiten mit Hebekissen zu ergreifen?",
-          "answers": "A) Last gegen Wegrutschen sichern\\nB) Last bei fortschreitendem Hub laufend unterbauen\\nC) Hebekissen nicht an scharfen Kanten ansetzen",
-          "solution": "A) Last gegen Wegrutschen sichern ✅\\nB) Last bei fortschreitendem Hub laufend unterbauen ✅\\nC) Hebekissen nicht an scharfen Kanten ansetzen ✅"
+          "answers": "A) Last gegen Wegrutschen sichern \n B) Last bei fortschreitendem Hub laufend unterbauen \n C) Hebekissen nicht an scharfen Kanten ansetzen",
+          "solution": "A) Last gegen Wegrutschen sichern ✅ \n B) Last bei fortschreitendem Hub laufend unterbauen ✅ \n C) Hebekissen nicht an scharfen Kanten ansetzen ✅"
         },
         {
           "question": "7.19 Wie groß ist die Belastbarkeit des Kettenzuges?",
-          "answers": "A) 16 kN\\nB) 30 kN\\nC) 50 kN",
-          "solution": "A) 16 kN ❌\\nB) 30 kN ✅\\nC) 50 kN ❌"
+          "answers": "A) 16 kN \n B) 30 kN \n C) 50 kN",
+          "solution": "A) 16 kN ❌ \n B) 30 kN ✅ \n C) 50 kN ❌"
         },
         {
           "question": "7.20 Welche Aussagen über Zuggeräte sind korrekt?",
-          "answers": "A) Das Zuggerät sollte im eingescherten Zustand verlastet werden. Nur so sind die Federelemente der Klemmbacken entlastet\\nB) Das Zuggerät wird immer im ausgescherten Zustand verlastet. So lässt sich das Drahtzugseil direkt in das Gerät einführen\\nC) In das Zuggerät kann jedes beliebige Drahtseil eingeführt werden, um damit Lasten zu ziehen oder zu ziehen",
-          "solution": "A) Das Zuggerät sollte im eingescherten Zustand verlastet werden. Nur so sind die Federelemente der Klemmbacken entlastet ✅\\nB) Das Zuggerät wird immer im ausgescherten Zustand verlastet. So lässt sich das Drahtzugseil direkt in das Gerät einführen ❌\\nC) In das Zuggerät kann jedes beliebige Drahtseil eingeführt werden, um damit Lasten zu ziehen oder zu ziehen ❌"
+          "answers": "A) Das Zuggerät sollte im eingescherten Zustand verlastet werden. Nur so sind die Federelemente der Klemmbacken entlastet \n B) Das Zuggerät wird immer im ausgescherten Zustand verlastet. So lässt sich das Drahtzugseil direkt in das Gerät einführen \n C) In das Zuggerät kann jedes beliebige Drahtseil eingeführt werden, um damit Lasten zu ziehen oder zu ziehen",
+          "solution": "A) Das Zuggerät sollte im eingescherten Zustand verlastet werden. Nur so sind die Federelemente der Klemmbacken entlastet ✅ \n B) Das Zuggerät wird immer im ausgescherten Zustand verlastet. So lässt sich das Drahtzugseil direkt in das Gerät einführen ❌ \n C) In das Zuggerät kann jedes beliebige Drahtseil eingeführt werden, um damit Lasten zu ziehen oder zu ziehen ❌"
         },
         {
           "question": "7.21 Welche Aussagen zum Thema „Kräfte“ sind korrekt?",
-          "answers": "A) Beim Arbeiten mit der Brechstange habe ich direkten Einfluss auf die aufgebrachte Kraft\\nB) Mit Hydraulik lassen sich sehr hohe Kräfte realisieren\\nC) Die Zahnstangenwinde arbeitet durch pneumatische Kraft",
-          "solution": "A) Beim Arbeiten mit der Brechstange habe ich direkten Einfluss auf die aufgebrachte Kraft ✅\\nB) Mit Hydraulik lassen sich sehr hohe Kräfte realisieren ✅\\nC) Die Zahnstangenwinde arbeitet durch pneumatische Kraft ❌"
+          "answers": "A) Beim Arbeiten mit der Brechstange habe ich direkten Einfluss auf die aufgebrachte Kraft \n B) Mit Hydraulik lassen sich sehr hohe Kräfte realisieren \n C) Die Zahnstangenwinde arbeitet durch pneumatische Kraft",
+          "solution": "A) Beim Arbeiten mit der Brechstange habe ich direkten Einfluss auf die aufgebrachte Kraft ✅ \n B) Mit Hydraulik lassen sich sehr hohe Kräfte realisieren ✅ \n C) Die Zahnstangenwinde arbeitet durch pneumatische Kraft ❌"
         }
       ],
       "Arbeiten am und auf dem Wasser": [
     {
       "question": "8.1 Was bedeutet der Begriff „Oberstrom“?",
-      "answers": "A) Oberflächenströmung\\nB) In Richtung Quelle bezogene Ortsangabe\\nC) In Richtung Mündung bezogene Ortsangabe",
-      "solution": "A) Oberflächenströmung ❌\\nB) In Richtung Quelle bezogene Ortsangabe ✅\\nC) In Richtung Mündung bezogene Ortsangabe ❌"
+      "answers": "A) Oberflächenströmung \n B) In Richtung Quelle bezogene Ortsangabe \n C) In Richtung Mündung bezogene Ortsangabe",
+      "solution": "A) Oberflächenströmung ❌ \n B) In Richtung Quelle bezogene Ortsangabe ✅ \n C) In Richtung Mündung bezogene Ortsangabe ❌"
     },
     {
       "question": "8.2 Was ist ausschlaggebend für die Bezeichnung „linkes Ufer“ und „rechtes Ufer“?",
-      "answers": "A) Die Stromrichtung\\nB) Der eigene Standort\\nC) Die Himmelsrichtung",
-      "solution": "A) Die Stromrichtung ✅\\nB) Der eigene Standort ❌\\nC) Die Himmelsrichtung ❌"
+      "answers": "A) Die Stromrichtung \n B) Der eigene Standort \n C) Die Himmelsrichtung",
+      "solution": "A) Die Stromrichtung ✅ \n B) Der eigene Standort ❌ \n C) Die Himmelsrichtung ❌"
     },
     {
       "question": "8.3 Was ist beim Durchschreiten unbekannter Gewässer als erste Maßnahme durchzuführen?",
-      "answers": "A) Übergangsstelle kennzeichnen\\nB) Beschaffenheit der Übergangstelle feststellen (Tiefen loten)\\nC) Erkundende Helfer/innen sichern",
-      "solution": "A) Übergangsstelle kennzeichnen ❌\\nB) Beschaffenheit der Übergangstelle feststellen (Tiefen loten) ❌\\nC) Erkundende Helfer/innen sichern ✅"
+      "answers": "A) Übergangsstelle kennzeichnen \n B) Beschaffenheit der Übergangstelle feststellen (Tiefen loten) \n C) Erkundende Helfer/innen sichern",
+      "solution": "A) Übergangsstelle kennzeichnen ❌ \n B) Beschaffenheit der Übergangstelle feststellen (Tiefen loten) ❌ \n C) Erkundende Helfer/innen sichern ✅"
     },
     {
       "question": "8.4 Zwei Helfer/innen haben den Auftrag, ein langes Rohr quer durch ein unbekanntes fließendes Gewässer zu tragen. Wie ist die Last zu tragen?",
-      "answers": "A) Das Tragen von Lasten durch unbekanntes fließendes Gewässer ist verboten.\\nB) Nach Oberstrom\\nC) Nach Unterstrom",
-      "solution": "A) Das Tragen von Lasten durch unbekanntes fließendes Gewässer ist verboten. ✅\\nB) Nach Oberstrom ❌\\nC) Nach Unterstrom ❌"
+      "answers": "A) Das Tragen von Lasten durch unbekanntes fließendes Gewässer ist verboten. \n B) Nach Oberstrom \n C) Nach Unterstrom",
+      "solution": "A) Das Tragen von Lasten durch unbekanntes fließendes Gewässer ist verboten. ✅ \n B) Nach Oberstrom ❌ \n C) Nach Unterstrom ❌"
     },
     {
       "question": "8.5 Wie muss ein/e am oder im Wasser arbeitende/r Helfer/in korrekt gesichert werden?",
-      "answers": "A) Mit Schnürbund\\nB) Mit Schwimmhilfe\\nC) Mit Sicherungsseil und THW-Rettungsweste",
-      "solution": "A) Mit Schnürbund ❌\\nB) Mit Schwimmhilfe ❌\\nC) Mit Sicherungsseil und THW-Rettungsweste ✅"
+      "answers": "A) Mit Schnürbund \n B) Mit Schwimmhilfe \n C) Mit Sicherungsseil und THW-Rettungsweste",
+      "solution": "A) Mit Schnürbund ❌ \n B) Mit Schwimmhilfe ❌ \n C) Mit Sicherungsseil und THW-Rettungsweste ✅"
     },
     {
       "question": "8.6 Wie sind an besonders gefähr deten Einsatzpunkten am Wasser eingesetzte Helfer/innen zu sichern?",
-      "answers": "A) Nur mit Sicherheitsseil\\nB) Nur mit Rettungsweste\\nC) Mit Sicherungsseil und THW-Rettungsweste",
-      "solution": "A) Nur mit Sicherheitsseil ❌\\nB) Nur mit Rettungsweste ❌\\nC) Mit Sicherungsseil und THW-Rettungsweste ✅"
+      "answers": "A) Nur mit Sicherheitsseil \n B) Nur mit Rettungsweste \n C) Mit Sicherungsseil und THW-Rettungsweste",
+      "solution": "A) Nur mit Sicherheitsseil ❌ \n B) Nur mit Rettungsweste ❌ \n C) Mit Sicherungsseil und THW-Rettungsweste ✅"
     },
     {
       "question": "8.7 Wie weit soll ein Sandsack nach dem Verschließen gefüllt sein?",
-      "answers": "A) Zu ca. 50 %\\nB) Zu ca. 66 %\\nC) Zu ca. 100 %",
-      "solution": "A) Zu ca. 50 % ❌\\nB) Zu ca. 66 % ✅\\nC) Zu ca. 100 % ❌"
+      "answers": "A) Zu ca. 50 % \n B) Zu ca. 66 % \n C) Zu ca. 100 %",
+      "solution": "A) Zu ca. 50 % ❌ \n B) Zu ca. 66 % ✅ \n C) Zu ca. 100 % ❌"
     },
     {
       "question": "8.8 Wie muss beim Anlegen von Sandsackdämmen die unterste Lage Sandsäcke (zugebunden) gepackt werden?",
-      "answers": "A) Quer zur Wasserseite\\nB) Mit der Einfüllöffnung zur Wasserseite\\nC) Mit dem Sackboden zur Wasserseite",
-      "solution": "A) Quer zur Wasserseite ❌\\nB) Mit der Einfüllöffnung zur Wasserseite ❌\\nC) Mit dem Sackboden zur Wasserseite ✅"
+      "answers": "A) Quer zur Wasserseite \n B) Mit der Einfüllöffnung zur Wasserseite \n C) Mit dem Sackboden zur Wasserseite",
+      "solution": "A) Quer zur Wasserseite ❌ \n B) Mit der Einfüllöffnung zur Wasserseite ❌ \n C) Mit dem Sackboden zur Wasserseite ✅"
     },
     {
       "question": "8.9 Welche Füllmenge Sand ist bei einem Sandsack mit den Maßen: Höhe = 60 cm/Breite = 40 cm zu verwenden?",
-      "answers": "A) 0,75\\nB) 2/3 des Volumens\\nC) Ca. 12 kg",
-      "solution": "A) 0,75 ❌\\nB) 2/3 des Volumens ❌\\nC) Ca. 12 kg ✅"
+      "answers": "A) 0,75 \n B) 2/3 des Volumens \n C) Ca. 12 kg",
+      "solution": "A) 0,75 ❌ \n B) 2/3 des Volumens ❌ \n C) Ca. 12 kg ✅"
     },
     {
       "question": "8.10 Wie hoch darf eine Quellkade maximal sein?",
-      "answers": "A) Zur Deicherhöhung\\nB) Zum Verfüllen von Deichschäden\\nC) Zum stoppen der Erosion durch Sickerwasser",
-      "solution": "A) Zur Deicherhöhung ❌\\nB) Zum Verfüllen von Deichschäden ❌\\nC) Zum stoppen der Erosion durch Sickerwasser ✅"
+      "answers": "A) Zur Deicherhöhung \n B) Zum Verfüllen von Deichschäden \n C) Zum stoppen der Erosion durch Sickerwasser",
+      "solution": "A) Zur Deicherhöhung ❌ \n B) Zum Verfüllen von Deichschäden ❌ \n C) Zum stoppen der Erosion durch Sickerwasser ✅"
     },
     {
       "question": "8.11 Wie sind Tauchpumpen im Betrieb zu sichern?",
-      "answers": "A) Mit einer Arbeitsleine (lang) durch einfachen Ankerstich am Tragebügel/Gehäuse und einen Festpunkt an Land\\nB) Schlauch und Stromkabel reichen als Sicherung aus\\nC) Eine Sicherung ist nicht erforderlich",
-      "solution": "A) Mit einer Arbeitsleine (lang) durch einfachen Ankerstich am Tragebügel/Gehäuse und einen Festpunkt an Land ✅\\nB) Schlauch und Stromkabel reichen als Sicherung aus ❌\\nC) Eine Sicherung ist nicht erforderlich ❌"
+      "answers": "A) Mit einer Arbeitsleine (lang) durch einfachen Ankerstich am Tragebügel/Gehäuse und einen Festpunkt an Land \n B) Schlauch und Stromkabel reichen als Sicherung aus \n C) Eine Sicherung ist nicht erforderlich",
+      "solution": "A) Mit einer Arbeitsleine (lang) durch einfachen Ankerstich am Tragebügel/Gehäuse und einen Festpunkt an Land ✅ \n B) Schlauch und Stromkabel reichen als Sicherung aus ❌ \n C) Eine Sicherung ist nicht erforderlich ❌"
     },
     {
       "question": "8.12 Was ist bei der Verwendung eines Wasser führenden Schlauches über die Straße zu beachten?",
-      "answers": "A) Die Straße ist zu sperren\\nB) Schläuche sind immer an der gleichen Stelle zu überqueren\\nC) Es sind ausschließlich Schlauchbrücken zu verwenden",
-      "solution": "A) Die Straße ist zu sperren ❌\\nB) Schläuche sind immer an der gleichen Stelle zu überqueren ❌\\nC) Es sind ausschließlich Schlauchbrücken zu verwenden ✅"
+      "answers": "A) Die Straße ist zu sperren \n B) Schläuche sind immer an der gleichen Stelle zu überqueren \n C) Es sind ausschließlich Schlauchbrücken zu verwenden",
+      "solution": "A) Die Straße ist zu sperren ❌ \n B) Schläuche sind immer an der gleichen Stelle zu überqueren ❌ \n C) Es sind ausschließlich Schlauchbrücken zu verwenden ✅"
     },
     {
       "question": "8.13 Welche Schutzbekleidung muss ein/e Helfer/in am oder auf dem Wasser nutzen?",
-      "answers": "A) Nässeschutz, Gummistiefel\\nB) THW-Rettungsweste, Helm mit geschlossenem Kinnriemen (bei Bedarf)\\nC) Schwimmweste, Rettungsleine",
-      "solution": "A) Nässeschutz, Gummistiefel ❌\\nB) THW-Rettungsweste, Helm mit geschlossenem Kinnriemen (bei Bedarf) ✅\\nC) Schwimmweste, Rettungsleine ❌"
+      "answers": "A) Nässeschutz, Gummistiefel \n B) THW-Rettungsweste, Helm mit geschlossenem Kinnriemen (bei Bedarf) \n C) Schwimmweste, Rettungsleine",
+      "solution": "A) Nässeschutz, Gummistiefel ❌ \n B) THW-Rettungsweste, Helm mit geschlossenem Kinnriemen (bei Bedarf) ✅ \n C) Schwimmweste, Rettungsleine ❌"
     },
     {
       "question": "8.14 Welche Schutzmaßnahme ist vor dem Betreten von überfluteten Räumen als Erstes zu treffen?",
-      "answers": "A) Anlegen von Rettungswesten\\nB) Sichern von Treibgut\\nC) Sicherstellen, dass die Stromversorgung abgeschaltet wurde",
-      "solution": "A) Anlegen von Rettungswesten ❌\\nB) Sichern von Treibgut ❌\\nC) Sicherstellen, dass die Stromversorgung abgeschaltet wurde ✅"
+      "answers": "A) Anlegen von Rettungswesten \n B) Sichern von Treibgut \n C) Sicherstellen, dass die Stromversorgung abgeschaltet wurde",
+      "solution": "A) Anlegen von Rettungswesten ❌ \n B) Sichern von Treibgut ❌ \n C) Sicherstellen, dass die Stromversorgung abgeschaltet wurde ✅"
     },
     {
       "question": "8.15 Was sind die Bestandteile der Rettungsweste im THW?",
-      "answers": "A) Auftriebskörper, Auslöse-Automatik, Mundventil, Trompete\\nB) Auftriebskörper, Auslöse-Automatik, Mundventil, Signalpfeife\\nC) Auftriebskörper, Auslöse-Automatik, Luftpumpe, Signalpfeife",
-      "solution": "A) Auftriebskörper, Auslöse-Automatik, Mundventil, Trompete ❌\\nB) Auftriebskörper, Auslöse-Automatik, Mundventil, Signalpfeife ✅\\nC) Auftriebskörper, Auslöse-Automatik, Luftpumpe, Signalpfeife ❌"
+      "answers": "A) Auftriebskörper, Auslöse-Automatik, Mundventil, Trompete \n B) Auftriebskörper, Auslöse-Automatik, Mundventil, Signalpfeife \n C) Auftriebskörper, Auslöse-Automatik, Luftpumpe, Signalpfeife",
+      "solution": "A) Auftriebskörper, Auslöse-Automatik, Mundventil, Trompete ❌ \n B) Auftriebskörper, Auslöse-Automatik, Mundventil, Signalpfeife ✅ \n C) Auftriebskörper, Auslöse-Automatik, Luftpumpe, Signalpfeife ❌"
     },
     {
       "question": "8.16 Welche folgenden Aussagen bezüglich Schwimmhilfen im THW sind korrekt?",
-      "answers": "A) Schwimmhilfen dürfen bei Arbeiten am und auf dem Wasser getragen werden\\nB) Schwimmhilfen sind ausschließlich für Passagiere von THW-Wasserfahrzeugen vorgesehen\\nC) Für leichte Personen (weniger als 40 kg) sind Westen mit entsprechender Gewichtszulassung erforderlich",
-      "solution": "A) Schwimmhilfen dürfen bei Arbeiten am und auf dem Wasser getragen werden ❌\\nB) Schwimmhilfen sind ausschließlich für Passagiere von THW-Wasserfahrzeugen vorgesehen ✅\\nC) Für leichte Personen (weniger als 40 kg) sind Westen mit entsprechender Gewichtszulassung erforderlich ✅"
+      "answers": "A) Schwimmhilfen dürfen bei Arbeiten am und auf dem Wasser getragen werden \n B) Schwimmhilfen sind ausschließlich für Passagiere von THW-Wasserfahrzeugen vorgesehen \n C) Für leichte Personen (weniger als 40 kg) sind Westen mit entsprechender Gewichtszulassung erforderlich",
+      "solution": "A) Schwimmhilfen dürfen bei Arbeiten am und auf dem Wasser getragen werden ❌ \n B) Schwimmhilfen sind ausschließlich für Passagiere von THW-Wasserfahrzeugen vorgesehen ✅ \n C) Für leichte Personen (weniger als 40 kg) sind Westen mit entsprechender Gewichtszulassung erforderlich ✅"
     },
     {
       "question": "8.17 Welche der folgenden Aussagen zur Sicherung durch Sicherheitsseile sind richtig?",
-      "answers": "A) Die Sicherung durch Sicherheitsseile ist nur an stehenden Gewässern mit geringer Tiefe zugelassen\\nB) Zur Erkundung unbekannter Gewässer, ist die Seilsicherung nur in Kombination mit der THW-Schwimmhilfe zulässig\\nC) Die THW-Rettungsweste ist über der PSAgA zu tragen",
-      "solution": "A) Die Sicherung durch Sicherheitsseile ist nur an stehenden Gewässern mit geringer Tiefe zugelassen ✅\\nB) Zur Erkundung unbekannter Gewässer, ist die Seilsicherung nur in Kombination mit der THW-Schwimmhilfe zulässig ❌\\nC) Die THW-Rettungsweste ist über der PSAgA zu tragen ✅"
+      "answers": "A) Die Sicherung durch Sicherheitsseile ist nur an stehenden Gewässern mit geringer Tiefe zugelassen \n B) Zur Erkundung unbekannter Gewässer, ist die Seilsicherung nur in Kombination mit der THW-Schwimmhilfe zulässig \n C) Die THW-Rettungsweste ist über der PSAgA zu tragen",
+      "solution": "A) Die Sicherung durch Sicherheitsseile ist nur an stehenden Gewässern mit geringer Tiefe zugelassen ✅ \n B) Zur Erkundung unbekannter Gewässer, ist die Seilsicherung nur in Kombination mit der THW-Schwimmhilfe zulässig ❌ \n C) Die THW-Rettungsweste ist über der PSAgA zu tragen ✅"
     },
     {
       "question": "8.18 Welche der folgenden Aussagen zur Wathose sind richtig?",
-      "answers": "A) Wathosen dürfen nicht in Wasserfahrzeugen getragen werden, sondern werden erst an der Einsatzstelle angezogen\\nB) Die Wathose kann vor dem Ertrinken schützen\\nC) Fließende Gewässer sind nur mit der Wathose zu durchwaten",
-      "solution": "A) Wathosen dürfen nicht in Wasserfahrzeugen getragen werden, sondern werden erst an der Einsatzstelle angezogen ✅\\nB) Die Wathose kann vor dem Ertrinken schützen ❌\\nC) Fließende Gewässer sind nur mit der Wathose zu durchwaten ❌"
+      "answers": "A) Wathosen dürfen nicht in Wasserfahrzeugen getragen werden, sondern werden erst an der Einsatzstelle angezogen \n B) Die Wathose kann vor dem Ertrinken schützen \n C) Fließende Gewässer sind nur mit der Wathose zu durchwaten",
+      "solution": "A) Wathosen dürfen nicht in Wasserfahrzeugen getragen werden, sondern werden erst an der Einsatzstelle angezogen ✅ \n B) Die Wathose kann vor dem Ertrinken schützen ❌ \n C) Fließende Gewässer sind nur mit der Wathose zu durchwaten ❌"
     },
     {
       "question": "8.19 Was gehört im THW zur Pumpenzusatzausstattung?",
-      "answers": "A) Druckschlauch, Saugschlauch\\nB) Armatur „Knickschutzkrümmer“\\nC) Armatur „Mehrzweckstrahlrohr“",
-      "solution": "A) Druckschlauch, Saugschlauch ✅\\nB) Armatur „Knickschutzkrümmer“ ✅\\nC) Armatur „Mehrzweckstrahlrohr“ ✅"
+      "answers": "A) Druckschlauch, Saugschlauch \n B) Armatur „Knickschutzkrümmer“ \n C) Armatur „Mehrzweckstrahlrohr“",
+      "solution": "A) Druckschlauch, Saugschlauch ✅ \n B) Armatur „Knickschutzkrümmer“ ✅ \n C) Armatur „Mehrzweckstrahlrohr“ ✅"
     },
     {
       "question": "8.20 Welche der folgenden Aussagen zum Thema „Sandsackverbau“ sind korrekt?",
-      "answers": "A) Kunststoffsäcke sind weniger rutschfest, als Sandsäcke aus Naturfaser\\nB) Sandsäcke bestehen aus Jute oder Kunststoff\\nC) Kunststoffsandsäcke eignen sich vorwiegend für den Verbau binnenseitig",
-      "solution": "A) Kunststoffsäcke sind weniger rutschfest, als Sandsäcke aus Naturfaser ✅\\nB) Sandsäcke bestehen aus Jute oder Kunststoff ✅\\nC) Kunststoffsandsäcke eignen sich vorwiegend für den Verbau binnenseitig ❌"
+      "answers": "A) Kunststoffsäcke sind weniger rutschfest, als Sandsäcke aus Naturfaser \n B) Sandsäcke bestehen aus Jute oder Kunststoff \n C) Kunststoffsandsäcke eignen sich vorwiegend für den Verbau binnenseitig",
+      "solution": "A) Kunststoffsäcke sind weniger rutschfest, als Sandsäcke aus Naturfaser ✅ \n B) Sandsäcke bestehen aus Jute oder Kunststoff ✅ \n C) Kunststoffsandsäcke eignen sich vorwiegend für den Verbau binnenseitig ❌"
     },
     {
       "question": "8.21 Welche der folgenden Aussagen zum Thema „Deichsicherung“ sind korrekt?",
-      "answers": "A) Der Sandsackdamm wird von innen nach außen im Ziegelverbund aufgebaut\\nB) Kleinere Schäden der Außenböschung, die genau lokalisiert werden, können mit Planenroller gesichert werden\\nC) Faschinen sind Bündel aus Reisig. Sie werden zusammengezurrt und mit Bindedraht verrödelt",
-      "solution": "A) Der Sandsackdamm wird von innen nach außen im Ziegelverbund aufgebaut ✅\\nB) Kleinere Schäden der Außenböschung, die genau lokalisiert werden, können mit Planenroller gesichert werden ✅\\nC) Faschinen sind Bündel aus Reisig. Sie werden zusammengezurrt und mit Bindedraht verrödelt ✅"
+      "answers": "A) Der Sandsackdamm wird von innen nach außen im Ziegelverbund aufgebaut \n B) Kleinere Schäden der Außenböschung, die genau lokalisiert werden, können mit Planenroller gesichert werden \n C) Faschinen sind Bündel aus Reisig. Sie werden zusammengezurrt und mit Bindedraht verrödelt",
+      "solution": "A) Der Sandsackdamm wird von innen nach außen im Ziegelverbund aufgebaut ✅ \n B) Kleinere Schäden der Außenböschung, die genau lokalisiert werden, können mit Planenroller gesichert werden ✅ \n C) Faschinen sind Bündel aus Reisig. Sie werden zusammengezurrt und mit Bindedraht verrödelt ✅"
     }
   ],
   
     "Einsatzgrundlagen": [
       {
         "question": "9.1 Welche Maßnahmen sind beim Auslaufen unbekannter Flüssigkeiten zu ergreifen?",
-        "answers": "A) Flüssigkeit schnellstmöglich aufwischen\\nB) Umstehende warnen\\nC) Sofortige Meldung an die zuständige Führungskraft",
-        "solution": "A) Flüssigkeit schnellstmöglich aufwischen ❌\\nB) Umstehende warnen ✅\\nC) Sofortige Meldung an die zuständige Führungskraft ✅"
+        "answers": "A) Flüssigkeit schnellstmöglich aufwischen \n B) Umstehende warnen \n C) Sofortige Meldung an die zuständige Führungskraft",
+        "solution": "A) Flüssigkeit schnellstmöglich aufwischen ❌ \n B) Umstehende warnen ✅ \n C) Sofortige Meldung an die zuständige Führungskraft ✅"
       },
       {
         "question": "9.2 Welcher Mindestabstand ist vom Punkt der Bodenberührung einer abgerissenen Hochspannungsleitung zu halten?",
-        "answers": "A) 15,00 m\\nB) 20,00 m\\nC) 3,00 m",
-        "solution": "A) 15,00 m ❌\\nB) 20,00 m ✅\\nC) 3,00 m ❌"
+        "answers": "A) 15,00 m \n B) 20,00 m \n C) 3,00 m",
+        "solution": "A) 15,00 m ❌ \n B) 20,00 m ✅ \n C) 3,00 m ❌"
       },
       {
         "question": "9.3 Was ist sofort zu tun, wenn ausströmendes Gas vermutet wird?",
-        "answers": "A) Windrichtung beachten\\nB) Gaskonzentration messen\\nC) Meldung an die Führungskraft",
-        "solution": "A) Windrichtung beachten ✅\\nB) Gaskonzentration messen ❌\\nC) Meldung an die Führungskraft ✅"
+        "answers": "A) Windrichtung beachten \n B) Gaskonzentration messen \n C) Meldung an die Führungskraft",
+        "solution": "A) Windrichtung beachten ✅ \n B) Gaskonzentration messen ❌ \n C) Meldung an die Führungskraft ✅"
       },
       {
         "question": "9.4 Mit welchen Gefahren muss beim Einstieg in Tanks, Silos, Gruben oder Schächte gerechnet werden?",
-        "answers": "A) Explosionsgefahr durch Gase\\nB) Gefahr durch Atemgifte\\nC) Gefahr durch Absturz",
-        "solution": "A) Explosionsgefahr durch Gase ✅\\nB) Gefahr durch Atemgifte ✅\\nC) Gefahr durch Absturz ✅"
+        "answers": "A) Explosionsgefahr durch Gase \n B) Gefahr durch Atemgifte \n C) Gefahr durch Absturz",
+        "solution": "A) Explosionsgefahr durch Gase ✅ \n B) Gefahr durch Atemgifte ✅ \n C) Gefahr durch Absturz ✅"
       },
       {
         "question": "9.5 Wie haben Sie sich als Helfer/in vor, während und nach der Fahrt mit Einsatzfahrzeugen zu verhalten?",
-        "answers": "A) Helm nicht in der Hand halten\\nB) Bei Halt des Einsatzfahrzeuges dieses sofort verlassen\\nC) Auf- und Absitzen nur auf Anweisung",
-        "solution": "A) Helm nicht in der Hand halten ✅\\nB) Bei Halt des Einsatzfahrzeuges dieses sofort verlassen ❌\\nC) Auf- und Absitzen nur auf Anweisung ✅"
+        "answers": "A) Helm nicht in der Hand halten \n B) Bei Halt des Einsatzfahrzeuges dieses sofort verlassen \n C) Auf- und Absitzen nur auf Anweisung",
+        "solution": "A) Helm nicht in der Hand halten ✅ \n B) Bei Halt des Einsatzfahrzeuges dieses sofort verlassen ❌ \n C) Auf- und Absitzen nur auf Anweisung ✅"
       },
       {
         "question": "9.6 Was soll bei der Erkundung festgestellt werden?",
-        "answers": "A) Ob und wo Menschen in Gefahr sind\\nB) Wie groß der Schadensumfang ist\\nC) Wo und wann ein schnelles Eindringen in die Schadensstelle möglich ist",
-        "solution": "A) Ob und wo Menschen in Gefahr sind ✅\\nB) Wie groß der Schadensumfang ist ✅\\nC) Wo und wann ein schnelles Eindringen in die Schadensstelle möglich ist ✅"
+        "answers": "A) Ob und wo Menschen in Gefahr sind \n B) Wie groß der Schadensumfang ist \n C) Wo und wann ein schnelles Eindringen in die Schadensstelle möglich ist",
+        "solution": "A) Ob und wo Menschen in Gefahr sind ✅ \n B) Wie groß der Schadensumfang ist ✅ \n C) Wo und wann ein schnelles Eindringen in die Schadensstelle möglich ist ✅"
       },
       {
         "question": "9.7 Wer ist verpflichtet, zu melden?",
-        "answers": "A) Nur der/die Zugführer/in\\nB) Nur der/die Gruppenführer/in\\nC) Jede Einsatzkraft",
-        "solution": "A) Nur der/die Zugführer/in ❌\\nB) Nur der/die Gruppenführer/in ❌\\nC) Jede Einsatzkraft ✅"
+        "answers": "A) Nur der/die Zugführer/in \n B) Nur der/die Gruppenführer/in \n C) Jede Einsatzkraft",
+        "solution": "A) Nur der/die Zugführer/in ❌ \n B) Nur der/die Gruppenführer/in ❌ \n C) Jede Einsatzkraft ✅"
       },
       {
         "question": "9.8 Was ist im Einsatz bei der Verpflegung unbedingt zu beachten?",
-        "answers": "A) Vor dem Essen Hände waschen\\nB) Selbst mitgebrachtes Essen darf nicht verzehrt werden\\nC) Essen und Trinken nur in dafür ausgewiesenen Bereichen",
-        "solution": "A) Vor dem Essen Hände waschen ✅\\nB) Selbst mitgebrachtes Essen darf nicht verzehrt werden ❌\\nC) Essen und Trinken nur in dafür ausgewiesenen Bereichen ✅"
+        "answers": "A) Vor dem Essen Hände waschen \n B) Selbst mitgebrachtes Essen darf nicht verzehrt werden \n C) Essen und Trinken nur in dafür ausgewiesenen Bereichen",
+        "solution": "A) Vor dem Essen Hände waschen ✅ \n B) Selbst mitgebrachtes Essen darf nicht verzehrt werden ❌ \n C) Essen und Trinken nur in dafür ausgewiesenen Bereichen ✅"
       },
       {
         "question": "9.9 Warum besteht an der Einsatzstelle Rauch- und Alkoholverbot?",
-        "answers": "A) Es besteht kein solches Verbot\\nB) Erhöhte Selbstgefährdung\\nC) Die Einsatzfähigkeit wird verringert",
-        "solution": "A) Es besteht kein solches Verbot ❌\\nB) Erhöhte Selbstgefährdung ✅\\nC) Die Einsatzfähigkeit wird verringert ✅"
+        "answers": "A) Es besteht kein solches Verbot \n B) Erhöhte Selbstgefährdung \n C) Die Einsatzfähigkeit wird verringert",
+        "solution": "A) Es besteht kein solches Verbot ❌ \n B) Erhöhte Selbstgefährdung ✅ \n C) Die Einsatzfähigkeit wird verringert ✅"
       },
       {
         "question": "9.10 Welche Ausstattung dient der Eigensicherung auf Verkehrswegen?",
-        "answers": "A) Warnweste\\nB) Warnschilder (dreiseitig, faltbar)\\nC) Leitkegel mit Warnblitzleuchte",
-        "solution": "A) Warnweste ✅\\nB) Warnschilder (dreiseitig, faltbar) ✅\\nC) Leitkegel mit Warnblitzleuchte ✅"
+        "answers": "A) Warnweste \n B) Warnschilder (dreiseitig, faltbar) \n C) Leitkegel mit Warnblitzleuchte",
+        "solution": "A) Warnweste ✅ \n B) Warnschilder (dreiseitig, faltbar) ✅ \n C) Leitkegel mit Warnblitzleuchte ✅"
       },
       {
         "question": "9.11 Was ist beim Einsatz auf Bahnanlagen zu beachten?",
-        "answers": "A) Arbeiten auf Bahnanlagen dürfen erst nach Absprache mit dem Bahnpersonal durchgeführt werden\\nB) Auf die stromführenden Leitungen achten\\nC) Den Weisungen des Bahnpersonals ist Folge zu leisten",
-        "solution": "A) Arbeiten auf Bahnanlagen dürfen erst nach Absprache mit dem Bahnpersonal durchgeführt werden ✅\\nB) Auf die stromführenden Leitungen achten ✅\\nC) Den Weisungen des Bahnpersonals ist Folge zu leisten ✅"
+        "answers": "A) Arbeiten auf Bahnanlagen dürfen erst nach Absprache mit dem Bahnpersonal durchgeführt werden \n B) Auf die stromführenden Leitungen achten \n C) Den Weisungen des Bahnpersonals ist Folge zu leisten",
+        "solution": "A) Arbeiten auf Bahnanlagen dürfen erst nach Absprache mit dem Bahnpersonal durchgeführt werden ✅ \n B) Auf die stromführenden Leitungen achten ✅ \n C) Den Weisungen des Bahnpersonals ist Folge zu leisten ✅"
       },
       {
         "question": "9.12 Was ist beim Einsatz im ungesicherten Verkehrsraum zu beachten?",
-        "answers": "A) Warnweste tragen\\nB) Einsatzstelle nach Weisung absichern\\nC) Auf den fließenden Verkehr achten",
-        "solution": "A) Warnweste tragen ✅\\nB) Einsatzstelle nach Weisung absichern ✅\\nC) Auf den fließenden Verkehr achten ✅"
+        "answers": "A) Warnweste tragen \n B) Einsatzstelle nach Weisung absichern \n C) Auf den fließenden Verkehr achten",
+        "solution": "A) Warnweste tragen ✅ \n B) Einsatzstelle nach Weisung absichern ✅ \n C) Auf den fließenden Verkehr achten ✅"
       },
       {
         "question": "9.13 Wozu gehört die Abkürzung 5A B C D 5E?",
-        "answers": "A) Gefahrstoffkennung nach GHS\\nB) Gefahrenmerkschema THW\\nC) Koordinatenangabe im THW",
-        "solution": "A) Gefahrstoffkennung nach GHS ❌\\nB) Gefahrenmerkschema THW ✅\\nC) Koordinatenangabe im THW ❌"
+        "answers": "A) Gefahrstoffkennung nach GHS \n B) Gefahrenmerkschema THW \n C) Koordinatenangabe im THW",
+        "solution": "A) Gefahrstoffkennung nach GHS ❌ \n B) Gefahrenmerkschema THW ✅ \n C) Koordinatenangabe im THW ❌"
       },
       {
         "question": "9.14 Zu welcher Brandklasse gehören flüssige oder flüssig werdende Stoffe?",
-        "answers": "A) Brandklasse C\\nB) Brandklasse B\\nC) Brandklasse D",
-        "solution": "A) Brandklasse C ❌\\nB) Brandklasse B ✅\\nC) Brandklasse D ❌"
+        "answers": "A) Brandklasse C \n B) Brandklasse B \n C) Brandklasse D",
+        "solution": "A) Brandklasse C ❌ \n B) Brandklasse B ✅ \n C) Brandklasse D ❌"
       },
       {
         "question": "9.15 Welches Löschmittel darf auf keinen Fall für brennende Öle und Fette verwendet werden?",
-        "answers": "A) ABC-Pulverlöscher\\nB) Wasser\\nC) Kohlendioxidlöscher",
-        "solution": "A) ABC-Pulverlöscher ❌\\nB) Wasser ✅\\nC) Kohlendioxidlöscher ❌"
+        "answers": "A) ABC-Pulverlöscher \n B) Wasser \n C) Kohlendioxidlöscher",
+        "solution": "A) ABC-Pulverlöscher ❌ \n B) Wasser ✅ \n C) Kohlendioxidlöscher ❌"
       },
       {
         "question": "9.16 Wer kann mir im Einsatz einen Befehl erteilen?",
-        "answers": "A) Der/die Polizist/in\\nB) Mein/e direkte/r Vorgesetzte/r\\nC) Der/die Leiter/in einer Regionalstelle",
-        "solution": "A) Der/die Polizist/in ❌\\nB) Mein/e direkte/r Vorgesetzte/r ✅\\nC) Der/die Leiter/in einer Regionalstelle ❌"
+        "answers": "A) Der/die Polizist/in \n B) Mein/e direkte/r Vorgesetzte/r \n C) Der/die Leiter/in einer Regionalstelle",
+        "solution": "A) Der/die Polizist/in ❌ \n B) Mein/e direkte/r Vorgesetzte/r ✅ \n C) Der/die Leiter/in einer Regionalstelle ❌"
       },
       {
         "question": "9.17 Welche Aufgaben darf das THW eigenständig im Straßenverkehr wahrnehmen?",
-        "answers": "A) Eigensicherung und Absicherung der Unfallstelle\\nB) Verkehrskontrollen\\nC) Geschwindigkeitsmessung",
-        "solution": "A) Eigensicherung und Absicherung der Unfallstelle ✅\\nB) Verkehrskontrollen ❌\\nC) Geschwindigkeitsmessung ❌"
+        "answers": "A) Eigensicherung und Absicherung der Unfallstelle \n B) Verkehrskontrollen \n C) Geschwindigkeitsmessung",
+        "solution": "A) Eigensicherung und Absicherung der Unfallstelle ✅ \n B) Verkehrskontrollen ❌ \n C) Geschwindigkeitsmessung ❌"
       },
       {
         "question": "9.18 Welche spezielle Schutzausstattung muss der/die Helfer/in zu seiner/ihrer persönlichen Schutzausstattung im Einsatz auf Verkehrswegen anlegen?",
-        "answers": "A) Warmen Pullover\\nB) Warnweste\\nC) Gehörschutz",
-        "solution": "A) Warmen Pullover ❌\\nB) Warnweste ✅\\nC) Gehörschutz ❌"
+        "answers": "A) Warmen Pullover \n B) Warnweste \n C) Gehörschutz",
+        "solution": "A) Warmen Pullover ❌ \n B) Warnweste ✅ \n C) Gehörschutz ❌"
       },
       {
         "question": "9.19 Was ist mit einem/r Helfer/in zu tun, der/die infolge des Dienstgeschehens akute Belastungsreaktionen zeigt?",
-        "answers": "A) Er/sie ist auf die Versorgungsangebote der Einsatznachsorge hinzuweisen. Unterstützung, wie z. B. das Anbieten eines Einsatznachsorgegespräches ist zu veranlassen.\\nB) Man sollte ihn/sie alleine mit seinen/ihren möglichen Problemen lassen\\nC) Alle Helfer/innen der Gruppe informieren",
-        "solution": "A) Er/sie ist auf die Versorgungsangebote der Einsatznachsorge hinzuweisen. Unterstützung, wie z. B. das Anbieten eines Einsatznachsorgegespräches ist zu veranlassen. ✅\\nB) Man sollte ihn/sie alleine mit seinen/ihren möglichen Problemen lassen ❌\\nC) Alle Helfer/innen der Gruppe informieren ❌"
+        "answers": "A) Er/sie ist auf die Versorgungsangebote der Einsatznachsorge hinzuweisen. Unterstützung, wie z. B. das Anbieten eines Einsatznachsorgegespräches ist zu veranlassen. \n B) Man sollte ihn/sie alleine mit seinen/ihren möglichen Problemen lassen \n C) Alle Helfer/innen der Gruppe informieren",
+        "solution": "A) Er/sie ist auf die Versorgungsangebote der Einsatznachsorge hinzuweisen. Unterstützung, wie z. B. das Anbieten eines Einsatznachsorgegespräches ist zu veranlassen. ✅ \n B) Man sollte ihn/sie alleine mit seinen/ihren möglichen Problemen lassen ❌ \n C) Alle Helfer/innen der Gruppe informieren ❌"
       },
       {
         "question": "9.20 Wer kann das Einsatznachsorgeteam (ENT) anfordern?",
-        "answers": "A) Jede/r Helfer/in\\nB) Der/die Vorgesetzte\\nC) Der/die Leiter/in einer Regionalstelle",
-        "solution": "A) Jede/r Helfer/in ✅\\nB) Der/die Vorgesetzte ✅\\nC) Der/die Leiter/in einer Regionalstelle ✅"
+        "answers": "A) Jede/r Helfer/in \n B) Der/die Vorgesetzte \n C) Der/die Leiter/in einer Regionalstelle",
+        "solution": "A) Jede/r Helfer/in ✅ \n B) Der/die Vorgesetzte ✅ \n C) Der/die Leiter/in einer Regionalstelle ✅"
       },
       {
         "question": "9.21 Wer muss über die Gefahren, die aus einem Einsatz entstehen können, informiert sein?",
-        "answers": "A) Nur der/die Auftraggeber/in\\nB) Nur der/die Einheitsführer/in\\nC) alle Einsatzbeteiligten",
-        "solution": "A) Nur der/die Auftraggeber/in ❌\\nB) Nur der/die Einheitsführer/in ❌\\nC) alle Einsatzbeteiligten ✅"
+        "answers": "A) Nur der/die Auftraggeber/in \n B) Nur der/die Einheitsführer/in \n C) alle Einsatzbeteiligten",
+        "solution": "A) Nur der/die Auftraggeber/in ❌ \n B) Nur der/die Einheitsführer/in ❌ \n C) alle Einsatzbeteiligten ✅"
       },
       {
         "question": "9.22 Wie müssen akute Gefahrenquellen, z. B. eine Stolperfalle, behandelt werden?",
-        "answers": "A) Nicht beachten\\nB) Kennzeichnen, sichern und – wenn möglich – sofort beseitigen\\nC) Dem/der unmittelbaren Vorgesetzten melden",
-        "solution": "A) Nicht beachten ❌\\nB) Kennzeichnen, sichern und – wenn möglich – sofort beseitigen ✅\\nC) Dem/der unmittelbaren Vorgesetzten melden ✅"
+        "answers": "A) Nicht beachten \n B) Kennzeichnen, sichern und – wenn möglich – sofort beseitigen \n C) Dem/der unmittelbaren Vorgesetzten melden",
+        "solution": "A) Nicht beachten ❌ \n B) Kennzeichnen, sichern und – wenn möglich – sofort beseitigen ✅ \n C) Dem/der unmittelbaren Vorgesetzten melden ✅"
       },
       {
         "question": "9.23 Wie kann sich ein/e Helfer/in vor Gefahrenquellen im Einsatz schützen?",
-        "answers": "A) Persönliche Schutzbekleidung vorschriftsmäßig tragen\\nB) Unfallverhütungsvorschriften beachten\\nC) Nach eigenen Vorstellungen handeln",
-        "solution": "A) Persönliche Schutzbekleidung vorschriftsmäßig tragen ✅\\nB) Unfallverhütungsvorschriften beachten ✅\\nC) Nach eigenen Vorstellungen handeln ❌"
+        "answers": "A) Persönliche Schutzbekleidung vorschriftsmäßig tragen \n B) Unfallverhütungsvorschriften beachten \n C) Nach eigenen Vorstellungen handeln",
+        "solution": "A) Persönliche Schutzbekleidung vorschriftsmäßig tragen ✅ \n B) Unfallverhütungsvorschriften beachten ✅ \n C) Nach eigenen Vorstellungen handeln ❌"
       },
       {
         "question": "9.24 Wozu dient ein Bereitstellungsraum?",
-        "answers": "A) Zur Unterbringung nicht einsatzbefähigter Helfer/innen\\nB) Sammelpunkt von Einheiten\\nC) Bereich für Medienvertreter",
-        "solution": "A) Zur Unterbringung nicht einsatzbefähigter Helfer/innen ❌\\nB) Sammelpunkt von Einheiten ✅\\nC) Bereich für Medienvertreter ❌"
+        "answers": "A) Zur Unterbringung nicht einsatzbefähigter Helfer/innen \n B) Sammelpunkt von Einheiten \n C) Bereich für Medienvertreter",
+        "solution": "A) Zur Unterbringung nicht einsatzbefähigter Helfer/innen ❌ \n B) Sammelpunkt von Einheiten ✅ \n C) Bereich für Medienvertreter ❌"
       },
       {
         "question": "9.25 Wann muss ich meine Dienstunfähigkeit melden?",
-        "answers": "A) Wenn ich Drogen oder Alkohol konsumiert habe\\nB) Wenn ich Medikamente eingenommen habe, die mich in meiner Wahrnehmung und/oder Handlungsfähigkeit einschränken könnten\\nC) Wenn eine Arbeitsunfähigkeit durch einen Arzt oder eine Ärztin attestiert wurde",
-        "solution": "A) Wenn ich Drogen oder Alkohol konsumiert habe ✅\\nB) Wenn ich Medikamente eingenommen habe, die mich in meiner Wahrnehmung und/oder Handlungsfähigkeit einschränken könnten ✅\\nC) Wenn eine Arbeitsunfähigkeit durch einen Arzt oder eine Ärztin attestiert wurde ✅"
+        "answers": "A) Wenn ich Drogen oder Alkohol konsumiert habe \n B) Wenn ich Medikamente eingenommen habe, die mich in meiner Wahrnehmung und/oder Handlungsfähigkeit einschränken könnten \n C) Wenn eine Arbeitsunfähigkeit durch einen Arzt oder eine Ärztin attestiert wurde",
+        "solution": "A) Wenn ich Drogen oder Alkohol konsumiert habe ✅ \n B) Wenn ich Medikamente eingenommen habe, die mich in meiner Wahrnehmung und/oder Handlungsfähigkeit einschränken könnten ✅ \n C) Wenn eine Arbeitsunfähigkeit durch einen Arzt oder eine Ärztin attestiert wurde ✅"
       },
       {
         "question": "9.26 Wer darf Medienvertreter/innen gegenüber Aussagen zum Einsatz machen?",
-        "answers": "A) Jede/r Helfer/in\\nB) Nur der/die Einsatzleiter/in\\nC) Der/die Gruppenführer/in",
-        "solution": "A) Jede/r Helfer/in ❌\\nB) Nur der/die Einsatzleiter/in ✅\\nC) Der/die Gruppenführer/in ❌"
+        "answers": "A) Jede/r Helfer/in \n B) Nur der/die Einsatzleiter/in \n C) Der/die Gruppenführer/in",
+        "solution": "A) Jede/r Helfer/in ❌ \n B) Nur der/die Einsatzleiter/in ✅ \n C) Der/die Gruppenführer/in ❌"
       },
       {
         "question": "9.27 Welche Aufgaben haben Regionalstellen des THW im Einsatzfall (Einbindung von mehr als einem Ortsverband)?",
-        "answers": "A) Funktion des/der Einsatzleiters/in\\nB) Einrichten und Betreiben des Leitungs- und Koordinierungsstabes (LuK-Stab)\\nC) Funktion des/der Pressesprechers/in",
-        "solution": "A) Funktion des/der Einsatzleiters/in ❌\\nB) Einrichten und Betreiben des Leitungs- und Koordinierungsstabes (LuK-Stab) ✅\\nC) Funktion des/der Pressesprechers/in ❌"
+        "answers": "A) Funktion des/der Einsatzleiters/in \n B) Einrichten und Betreiben des Leitungs- und Koordinierungsstabes (LuK-Stab) \n C) Funktion des/der Pressesprechers/in",
+        "solution": "A) Funktion des/der Einsatzleiters/in ❌ \n B) Einrichten und Betreiben des Leitungs- und Koordinierungsstabes (LuK-Stab) ✅ \n C) Funktion des/der Pressesprechers/in ❌"
       },
       {
         "question": "9.28 Wer darf eine/n Helfer/Helferin in den Einsatz entsenden?",
-        "answers": "A) Der/die Ortsbeauftragte\\nB) Der/die Helfer/in selbst\\nC) Der/die Landessprecher/in",
-        "solution": "A) Der/die Ortsbeauftragte ✅\\nB) Der/die Helfer/in selbst ❌\\nC) Der/die Landessprecher/in ❌"
+        "answers": "A) Der/die Ortsbeauftragte \n B) Der/die Helfer/in selbst \n C) Der/die Landessprecher/in",
+        "solution": "A) Der/die Ortsbeauftragte ✅ \n B) Der/die Helfer/in selbst ❌ \n C) Der/die Landessprecher/in ❌"
       },
       {
         "question": "9.29 Wofür steht ENT?",
-        "answers": "A) Im Einsatz nicht transportfähig\\nB) Externe Notfalltruppe\\nC) Einsatznachsorgeteam",
-        "solution": "A) Im Einsatz nicht transportfähig ❌\\nB) Externe Notfalltruppe ❌\\nC) Einsatznachsorgeteam ✅"
+        "answers": "A) Im Einsatz nicht transportfähig \n B) Externe Notfalltruppe \n C) Einsatznachsorgeteam",
+        "solution": "A) Im Einsatz nicht transportfähig ❌ \n B) Externe Notfalltruppe ❌ \n C) Einsatznachsorgeteam ✅"
       },
       {
         "question": "9.30 Stressbelastungsreaktionen sind…",
-        "answers": "A) ... eine krankhafte Reaktion des Körpers\\nB) ... eine normale Reaktion auf ein außergewöhnliches Ereignis\\nC) ... eine außergewöhnliche Reaktion auf ein normales Ereignis",
-        "solution": "A) ... eine krankhafte Reaktion des Körpers ❌\\nB) ... eine normale Reaktion auf ein außergewöhnliches Ereignis ✅\\nC) ... eine außergewöhnliche Reaktion auf ein normales Ereignis ❌"
+        "answers": "A) ... eine krankhafte Reaktion des Körpers \n B) ... eine normale Reaktion auf ein außergewöhnliches Ereignis \n C) ... eine außergewöhnliche Reaktion auf ein normales Ereignis",
+        "solution": "A) ... eine krankhafte Reaktion des Körpers ❌ \n B) ... eine normale Reaktion auf ein außergewöhnliches Ereignis ✅ \n C) ... eine außergewöhnliche Reaktion auf ein normales Ereignis ❌"
       },
       {
         "question": "9.31 Wer kann zu erfolgreichem Stressmanagement beitragen?",
-        "answers": "A) Ich selbst\\nB) Meine Führungskraft\\nC) Das ENT",
-        "solution": "A) Ich selbst ✅\\nB) Meine Führungskraft ✅\\nC) Das ENT ✅"
+        "answers": "A) Ich selbst \n B) Meine Führungskraft \n C) Das ENT",
+        "solution": "A) Ich selbst ✅ \n B) Meine Führungskraft ✅ \n C) Das ENT ✅"
       },
       {
         "question": "9.32 Welche Möglichkeiten gibt es, nach einem belastenden Einsatz Stress abzubauen?",
-        "answers": "A) Mit anderen darüber sprechen\\nB) Über den Einsatz grübeln\\nC) Dinge tun, die mir Spaß machen (malen, schreiben, Musik hören etc.)",
-        "solution": "A) Mit anderen darüber sprechen ✅\\nB) Über den Einsatz grübeln ❌\\nC) Dinge tun, die mir Spaß machen (malen, schreiben, Musik hören etc.) ✅"
+        "answers": "A) Mit anderen darüber sprechen \n B) Über den Einsatz grübeln \n C) Dinge tun, die mir Spaß machen (malen, schreiben, Musik hören etc.)",
+        "solution": "A) Mit anderen darüber sprechen ✅ \n B) Über den Einsatz grübeln ❌ \n C) Dinge tun, die mir Spaß machen (malen, schreiben, Musik hören etc.) ✅"
       },
       {
         "question": "9.33 Wen unterstützt das ENT?",
-        "answers": "A) Ehrenamtliche und hauptamtliche THW-Kräfte\\nB) Nur ehrenamtliche THW-Einsatzkräfte\\nC) Nur hauptamtliche THW-Kräfte",
-        "solution": "A) Ehrenamtliche und hauptamtliche THW-Kräfte ✅\\nB) Nur ehrenamtliche THW-Einsatzkräfte ❌\\nC) Nur hauptamtliche THW-Kräfte ❌"
+        "answers": "A) Ehrenamtliche und hauptamtliche THW-Kräfte \n B) Nur ehrenamtliche THW-Einsatzkräfte \n C) Nur hauptamtliche THW-Kräfte",
+        "solution": "A) Ehrenamtliche und hauptamtliche THW-Kräfte ✅ \n B) Nur ehrenamtliche THW-Einsatzkräfte ❌ \n C) Nur hauptamtliche THW-Kräfte ❌"
       },
       {
         "question": "9.34 Was sind typische Stressreaktionen?",
-        "answers": "A) Schweißausbrüche, Tunnelblick, Wut\\nB) Hysterie, Angst, Konzentrationsstörungen\\nC) Erbrechen, Gedächtnisausfälle, Überaktivität",
-        "solution": "A) Schweißausbrüche, Tunnelblick, Wut ✅\\nB) Hysterie, Angst, Konzentrationsstörungen ✅\\nC) Erbrechen, Gedächtnisausfälle, Überaktivität ✅"
+        "answers": "A) Schweißausbrüche, Tunnelblick, Wut \n B) Hysterie, Angst, Konzentrationsstörungen \n C) Erbrechen, Gedächtnisausfälle, Überaktivität",
+        "solution": "A) Schweißausbrüche, Tunnelblick, Wut ✅ \n B) Hysterie, Angst, Konzentrationsstörungen ✅ \n C) Erbrechen, Gedächtnisausfälle, Überaktivität ✅"
       }
     ],
 "Grundlagen der Rettung und Bergung": [
     {
       "question": "10.1 Wie können verletzte Personen transportiert werden?",
-      "answers": "A) Mit der Krankentrage\\nB) Mit behelfsmäßigen Tragen\\nC) Mit zwei Einsatzkräften auch ohne Hilfsmittel",
-      "solution": "A) Mit der Krankentrage ✅\\nB) Mit behelfsmäßigen Tragen ✅\\nC) Mit zwei Einsatzkräften auch ohne Hilfsmittel ✅"
+      "answers": "A) Mit der Krankentrage \n B) Mit behelfsmäßigen Tragen \n C) Mit zwei Einsatzkräften auch ohne Hilfsmittel",
+      "solution": "A) Mit der Krankentrage ✅ \n B) Mit behelfsmäßigen Tragen ✅ \n C) Mit zwei Einsatzkräften auch ohne Hilfsmittel ✅"
     },
     {
       "question": "10.2 Was gehört unter anderem zu einer Erkundung?",
-      "answers": "A) Ständiges Beobachten der Schadenslage und des Umfeldes\\nB) Ständige Meldungen (beispielsweise des Erkundungstrupps) an den/die Vorgesetzte/n – Lageänderungen sofort melden\\nC) Befragen von Personen",
-      "solution": "A) Ständiges Beobachten der Schadenslage und des Umfeldes ✅\\nB) Ständige Meldungen (beispielsweise des Erkundungstrupps) an den/die Vorgesetzte/n – Lageänderungen sofort melden ✅\\nC) Befragen von Personen ✅"
+      "answers": "A) Ständiges Beobachten der Schadenslage und des Umfeldes \n B) Ständige Meldungen (beispielsweise des Erkundungstrupps) an den/die Vorgesetzte/n – Lageänderungen sofort melden \n C) Befragen von Personen",
+      "solution": "A) Ständiges Beobachten der Schadenslage und des Umfeldes ✅ \n B) Ständige Meldungen (beispielsweise des Erkundungstrupps) an den/die Vorgesetzte/n – Lageänderungen sofort melden ✅ \n C) Befragen von Personen ✅"
     },
     {
       "question": "10.3 Was sind die 5 Phasen der Rettung/Bergung?",
-      "answers": "A) Schauen – Sondieren – Selektieren – Verteilen – Retten\\nB) Erkunden – Absuchen – Durchforschen – Eindringen – Beräumen\\nC) Erkennen – Bewerten – Entscheiden – Handeln – Evaluieren",
-      "solution": "A) Schauen – Sondieren – Selektieren – Verteilen – Retten ❌\\nB) Erkunden – Absuchen – Durchforschen – Eindringen – Beräumen ✅\\nC) Erkennen – Bewerten – Entscheiden – Handeln – Evaluieren ❌"
+      "answers": "A) Schauen – Sondieren – Selektieren – Verteilen – Retten \n B) Erkunden – Absuchen – Durchforschen – Eindringen – Beräumen \n C) Erkennen – Bewerten – Entscheiden – Handeln – Evaluieren",
+      "solution": "A) Schauen – Sondieren – Selektieren – Verteilen – Retten ❌ \n B) Erkunden – Absuchen – Durchforschen – Eindringen – Beräumen ✅ \n C) Erkennen – Bewerten – Entscheiden – Handeln – Evaluieren ❌"
     },
     {
       "question": "10.4 In welcher Reihenfolge werden die nachfolgenden Aufgaben im Einsatz abgearbeitet?",
-      "answers": "A) 1. Sachgüter – 2. Menschenleben – 3. Tiere\\nB) 1. Menschenleben – 2. Sachgüter – 3. Tiere\\nC) 1. Menschenleben – 2. Tiere – 3. Sachgüter",
-      "solution": "A) 1. Sachgüter – 2. Menschenleben – 3. Tiere ❌\\nB) 1. Menschenleben – 2. Sachgüter – 3. Tiere ❌\\nC) 1. Menschenleben – 2. Tiere – 3. Sachgüter ✅"
+      "answers": "A) 1. Sachgüter – 2. Menschenleben – 3. Tiere \n B) 1. Menschenleben – 2. Sachgüter – 3. Tiere \n C) 1. Menschenleben – 2. Tiere – 3. Sachgüter",
+      "solution": "A) 1. Sachgüter – 2. Menschenleben – 3. Tiere ❌ \n B) 1. Menschenleben – 2. Sachgüter – 3. Tiere ❌ \n C) 1. Menschenleben – 2. Tiere – 3. Sachgüter ✅"
     },
     {
       "question": "10.5 Was ist beim Retten/Bergen verschütteter Personen zu beachten?",
-      "answers": "A) Nachrutschen von Trümmern ist zu verhindern\\nB) Die verletzte Person ist warm zu halten\\nC) Ein/e Ansprechpartner/in sollte bei der verletzten Person bleiben",
-      "solution": "A) Nachrutschen von Trümmern ist zu verhindern ✅\\nB) Die verletzte Person ist warm zu halten ✅\\nC) Ein/e Ansprechpartner/in sollte bei der verletzten Person bleiben ✅"
+      "answers": "A) Nachrutschen von Trümmern ist zu verhindern \n B) Die verletzte Person ist warm zu halten \n C) Ein/e Ansprechpartner/in sollte bei der verletzten Person bleiben",
+      "solution": "A) Nachrutschen von Trümmern ist zu verhindern ✅ \n B) Die verletzte Person ist warm zu halten ✅ \n C) Ein/e Ansprechpartner/in sollte bei der verletzten Person bleiben ✅"
     },
     {
       "question": "10.6 Welche Bedeutung haben die Brandklassen bei Feuerlöschern?",
-      "answers": "A) Sie sagen etwas über die Einsatzmöglichkeiten aus\\nB) Sie sagen etwas über den Inhalt aus\\nC) Sie kennzeichnen die Verwendungsdauer",
-      "solution": "A) Sie sagen etwas über die Einsatzmöglichkeiten aus ✅\\nB) Sie sagen etwas über den Inhalt aus ❌\\nC) Sie kennzeichnen die Verwendungsdauer ❌"
+      "answers": "A) Sie sagen etwas über die Einsatzmöglichkeiten aus \n B) Sie sagen etwas über den Inhalt aus \n C) Sie kennzeichnen die Verwendungsdauer",
+      "solution": "A) Sie sagen etwas über die Einsatzmöglichkeiten aus ✅ \n B) Sie sagen etwas über den Inhalt aus ❌ \n C) Sie kennzeichnen die Verwendungsdauer ❌"
     },
     {
       "question": "10.7 Was verbirgt sich hinter der Kennzeichnung eines Handfeuerlöschers für die Brandklasse A?",
-      "answers": "A) Hiermit können feste oder glutbildende Stoffe gelöscht werden\\nB) Hiermit können gasförmige Stoffe gelöscht werden\\nC) Hiermit können flüssige Stoffe gelöscht werden.",
-      "solution": "A) Hiermit können feste oder glutbildende Stoffe gelöscht werden ✅\\nB) Hiermit können gasförmige Stoffe gelöscht werden ❌\\nC) Hiermit können flüssige Stoffe gelöscht werden. ❌"
+      "answers": "A) Hiermit können feste oder glutbildende Stoffe gelöscht werden \n B) Hiermit können gasförmige Stoffe gelöscht werden \n C) Hiermit können flüssige Stoffe gelöscht werden.",
+      "solution": "A) Hiermit können feste oder glutbildende Stoffe gelöscht werden ✅ \n B) Hiermit können gasförmige Stoffe gelöscht werden ❌ \n C) Hiermit können flüssige Stoffe gelöscht werden. ❌"
     },
     {
       "question": "10.8 Mit welchem der genannten Löschmittel ist ein Metallbrand (z. B. Aluminium, Magnesium) zu löschen?",
-      "answers": "A) ABC-Pulverlöscher\\nB) Wasser\\nC) Trockener Sand",
-      "solution": "A) ABC-Pulverlöscher ❌\\nB) Wasser ❌\\nC) Trockener Sand ✅"
+      "answers": "A) ABC-Pulverlöscher \n B) Wasser \n C) Trockener Sand",
+      "solution": "A) ABC-Pulverlöscher ❌ \n B) Wasser ❌ \n C) Trockener Sand ✅"
     },
     {
       "question": "10.9 In welchem Abstand ist bei kleinen Flüssigkeitsbränden der Handfeuerlöscher zur Brandbekämpfung anzusetzen?",
-      "answers": "A) Ca. 1,00 m\\nB) Ca. 3,00 m\\nC) Ca. 5,00 m",
-      "solution": "A) Ca. 1,00 m ❌\\nB) Ca. 3,00 m ✅\\nC) Ca. 5,00 m ❌"
+      "answers": "A) Ca. 1,00 m \n B) Ca. 3,00 m \n C) Ca. 5,00 m",
+      "solution": "A) Ca. 1,00 m ❌ \n B) Ca. 3,00 m ✅ \n C) Ca. 5,00 m ❌"
     },
     {
       "question": "10.10 Aus welcher Richtung sollen allgemein Brände bekämpft werden?",
-      "answers": "A) Mit der Windrichtung\\nB) Entgegen der Windrichtung\\nC) Von links nach rechts",
-      "solution": "A) Mit der Windrichtung ✅\\nB) Entgegen der Windrichtung ❌\\nC) Von links nach rechts ❌"
+      "answers": "A) Mit der Windrichtung \n B) Entgegen der Windrichtung \n C) Von links nach rechts",
+      "solution": "A) Mit der Windrichtung ✅ \n B) Entgegen der Windrichtung ❌ \n C) Von links nach rechts ❌"
     },
     {
       "question": "10.11 Was ist vor der Inbetriebnahme des hydraulischen Rettungssatzes zu überprüfen?",
-      "answers": "A) Ölstand auf Maximum\\nB) Kraftstoffbehälter gefüllt\\nC) Höchstdruckschläuche knick- und drallfrei ausgelegt",
-      "solution": "A) Ölstand auf Maximum ✅\\nB) Kraftstoffbehälter gefüllt ✅\\nC) Höchstdruckschläuche knick- und drallfrei ausgelegt ✅"
+      "answers": "A) Ölstand auf Maximum \n B) Kraftstoffbehälter gefüllt \n C) Höchstdruckschläuche knick- und drallfrei ausgelegt",
+      "solution": "A) Ölstand auf Maximum ✅ \n B) Kraftstoffbehälter gefüllt ✅ \n C) Höchstdruckschläuche knick- und drallfrei ausgelegt ✅"
     },
     {
       "question": "10.12 Worauf ist bei der Außerbetriebnahme des hydraulischen Spreizers zu achten?",
-      "answers": "A) Spreizarme dürfen nicht ganz geschlossen sein\\nB) Spreizarme müssen ganz geschlossen sein\\nC) Spreizarme sind abzumontieren",
-      "solution": "A) Spreizarme dürfen nicht ganz geschlossen sein ✅\\nB) Spreizarme müssen ganz geschlossen sein ❌\\nC) Spreizarme sind abzumontieren ❌"
+      "answers": "A) Spreizarme dürfen nicht ganz geschlossen sein \n B) Spreizarme müssen ganz geschlossen sein \n C) Spreizarme sind abzumontieren",
+      "solution": "A) Spreizarme dürfen nicht ganz geschlossen sein ✅ \n B) Spreizarme müssen ganz geschlossen sein ❌ \n C) Spreizarme sind abzumontieren ❌"
     },
     {
       "question": "10.13 Welche Schutzausstattung muss beim Arbeiten mit dem hydraulischen Rettungssatz getragen werden?",
-      "answers": "A) Schutzhelm mit Vollgesichtsschutz\\nB) Lederschutzhandschuhe (Stulpe lang)\\nC) Vollständige Einsatzbekleidung",
-      "solution": "A) Schutzhelm mit Vollgesichtsschutz ✅\\nB) Lederschutzhandschuhe (Stulpe lang) ✅\\nC) Vollständige Einsatzbekleidung ✅"
+      "answers": "A) Schutzhelm mit Vollgesichtsschutz \n B) Lederschutzhandschuhe (Stulpe lang) \n C) Vollständige Einsatzbekleidung",
+      "solution": "A) Schutzhelm mit Vollgesichtsschutz ✅ \n B) Lederschutzhandschuhe (Stulpe lang) ✅ \n C) Vollständige Einsatzbekleidung ✅"
     },
     {
       "question": "10.14 Wozu kann der hydraulische Spreizer verwendet werden?",
-      "answers": "A) Als Zuggerät (mit den dazugehörigen Ketten)\\nB) Zum Quetschen von Rohren\\nC) Zum kurzzeitigen Anheben von Lasten",
-      "solution": "A) Als Zuggerät (mit den dazugehörigen Ketten) ✅\\nB) Zum Quetschen von Rohren ✅\\nC) Zum kurzzeitigen Anheben von Lasten ✅"
+      "answers": "A) Als Zuggerät (mit den dazugehörigen Ketten) \n B) Zum Quetschen von Rohren \n C) Zum kurzzeitigen Anheben von Lasten",
+      "solution": "A) Als Zuggerät (mit den dazugehörigen Ketten) ✅ \n B) Zum Quetschen von Rohren ✅ \n C) Zum kurzzeitigen Anheben von Lasten ✅"
     },
     {
       "question": "10.15 Was ist beim Arbeiten mit der hydraulischen Schere zu beachten?",
-      "answers": "A) Gebrauch der persönlichen und zusätzlichen Schutzaustattung\\nB) Keine Personen im Gefahrenbereich\\nC) Gerät nur für vorgesehene Materialien verwenden",
-      "solution": "A) Gebrauch der persönlichen und zusätzlichen Schutzaustattung ✅\\nB) Keine Personen im Gefahrenbereich ✅\\nC) Gerät nur für vorgesehene Materialien verwenden ✅"
+      "answers": "A) Gebrauch der persönlichen und zusätzlichen Schutzaustattung \n B) Keine Personen im Gefahrenbereich \n C) Gerät nur für vorgesehene Materialien verwenden",
+      "solution": "A) Gebrauch der persönlichen und zusätzlichen Schutzaustattung ✅ \n B) Keine Personen im Gefahrenbereich ✅ \n C) Gerät nur für vorgesehene Materialien verwenden ✅"
     },
     {
       "question": "10.16 Was sind Voraussetzungen für jede Verbrennung?",
-      "answers": "A) Brennbarer Stoff\\nB) Zündquelle\\nC) Sauerstoff",
-      "solution": "A) Brennbarer Stoff ✅\\nB) Zündquelle ✅\\nC) Sauerstoff ✅"
+      "answers": "A) Brennbarer Stoff \n B) Zündquelle \n C) Sauerstoff",
+      "solution": "A) Brennbarer Stoff ✅ \n B) Zündquelle ✅ \n C) Sauerstoff ✅"
     },
     {
       "question": "10.17 Wie hat sich ein/e Ersthelfer/in bei Brandverletzungen zu verhalten?",
-      "answers": "A) Brandwunden auswaschen und Brandblasen öffnen\\nB) Für schnelle ärztliche Hilfe sorgen\\nC) Brandwunden keimfrei bedecken",
-      "solution": "A) Brandwunden auswaschen und Brandblasen öffnen ❌\\nB) Für schnelle ärztliche Hilfe sorgen ✅\\nC) Brandwunden keimfrei bedecken ✅"
+      "answers": "A) Brandwunden auswaschen und Brandblasen öffnen \n B) Für schnelle ärztliche Hilfe sorgen \n C) Brandwunden keimfrei bedecken",
+      "solution": "A) Brandwunden auswaschen und Brandblasen öffnen ❌ \n B) Für schnelle ärztliche Hilfe sorgen ✅ \n C) Brandwunden keimfrei bedecken ✅"
     },
     {
       "question": "10.18 Wie verhalten Sie sich bei einem Benzinbrand?",
-      "answers": "A) Ich lösche mit Wasser\\nB) Ich alarmiere die Feuerwehr bzw. verständige die Zentrale\\nC) Ich hole einen geeigneten Feuerlöscher (Brandklasse B) und bekämpfe den Brand durch kurze Löschmittelstöße von unten her",
-      "solution": "A) Ich lösche mit Wasser ❌\\nB) Ich alarmiere die Feuerwehr bzw. verständige die Zentrale ✅\\nC) Ich hole einen geeigneten Feuerlöscher (Brandklasse B) und bekämpfe den Brand durch kurze Löschmittelstöße von unten her ✅"
+      "answers": "A) Ich lösche mit Wasser \n B) Ich alarmiere die Feuerwehr bzw. verständige die Zentrale \n C) Ich hole einen geeigneten Feuerlöscher (Brandklasse B) und bekämpfe den Brand durch kurze Löschmittelstöße von unten her",
+      "solution": "A) Ich lösche mit Wasser ❌ \n B) Ich alarmiere die Feuerwehr bzw. verständige die Zentrale ✅ \n C) Ich hole einen geeigneten Feuerlöscher (Brandklasse B) und bekämpfe den Brand durch kurze Löschmittelstöße von unten her ✅"
     },
     {
       "question": "10.19 Welche der folgenden Aussagen zum Thema „Rettung und Bergung“ sind korrekt?",
-      "answers": "A) Werden im Verlauf der Bergung Gefahren entdeckt, sind zuerst die Gefahren zu beseitigen. Nach Beseitigung der Gefahren kann die Bergung fortgesetzt werden\\nB) Beim Orten von vermissten Personen müssen Geräte, Generatoren, Fahrzeuge usw. nicht abgestellt werden\\nC) Nach Möglichkeit sollten Mauerdurchbrüche immer dachförmig ausgeführt werden",
-      "solution": "A) Werden im Verlauf der Bergung Gefahren entdeckt, sind zuerst die Gefahren zu beseitigen. Nach Beseitigung der Gefahren kann die Bergung fortgesetzt werden ✅\\nB) Beim Orten von vermissten Personen müssen Geräte, Generatoren, Fahrzeuge usw. nicht abgestellt werden ❌\\nC) Nach Möglichkeit sollten Mauerdurchbrüche immer dachförmig ausgeführt werden ✅"
+      "answers": "A) Werden im Verlauf der Bergung Gefahren entdeckt, sind zuerst die Gefahren zu beseitigen. Nach Beseitigung der Gefahren kann die Bergung fortgesetzt werden \n B) Beim Orten von vermissten Personen müssen Geräte, Generatoren, Fahrzeuge usw. nicht abgestellt werden \n C) Nach Möglichkeit sollten Mauerdurchbrüche immer dachförmig ausgeführt werden",
+      "solution": "A) Werden im Verlauf der Bergung Gefahren entdeckt, sind zuerst die Gefahren zu beseitigen. Nach Beseitigung der Gefahren kann die Bergung fortgesetzt werden ✅ \n B) Beim Orten von vermissten Personen müssen Geräte, Generatoren, Fahrzeuge usw. nicht abgestellt werden ❌ \n C) Nach Möglichkeit sollten Mauerdurchbrüche immer dachförmig ausgeführt werden ✅"
     },
     {
       "question": "10.20 Mit welchen Maßnahmen kann eine Person geortet werden?",
-      "answers": "A) Ruf – Horch – Klopf – Methode\\nB) Biologisch\\nC) Technisch",
-      "solution": "A) Ruf – Horch – Klopf – Methode ✅\\nB) Biologisch ✅\\nC) Technisch ✅"
+      "answers": "A) Ruf – Horch – Klopf – Methode \n B) Biologisch \n C) Technisch",
+      "solution": "A) Ruf – Horch – Klopf – Methode ✅ \n B) Biologisch ✅ \n C) Technisch ✅"
     },
     {
       "question": "10.21 Welche Grundlagen müssen Einsatzkräfte im Einsatzfall beachten?",
-      "answers": "A) Auf die Grundgefahren achten\\nB) Immer das 4-Augen-Prinzip anwenden\\nC) Sensibles Begehen der Trümmer",
-      "solution": "A) Auf die Grundgefahren achten ✅\\nB) Immer das 4-Augen-Prinzip anwenden ✅\\nC) Sensibles Begehen der Trümmer ✅"
+      "answers": "A) Auf die Grundgefahren achten \n B) Immer das 4-Augen-Prinzip anwenden \n C) Sensibles Begehen der Trümmer",
+      "solution": "A) Auf die Grundgefahren achten ✅ \n B) Immer das 4-Augen-Prinzip anwenden ✅ \n C) Sensibles Begehen der Trümmer ✅"
     },
     {
       "question": "10.22 Nach welchem Grundsatz werden Einsätze abgearbeitet?",
-      "answers": "A) Erst alle Gefahren beseitigen\\nB) Personenrettung über alles\\nC) Von leicht zu schwer",
-      "solution": "A) Erst alle Gefahren beseitigen ❌\\nB) Personenrettung über alles ❌\\nC) Von leicht zu schwer ✅"
+      "answers": "A) Erst alle Gefahren beseitigen \n B) Personenrettung über alles \n C) Von leicht zu schwer",
+      "solution": "A) Erst alle Gefahren beseitigen ❌ \n B) Personenrettung über alles ❌ \n C) Von leicht zu schwer ✅"
     }
   ]    
   
